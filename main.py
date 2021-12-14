@@ -11,11 +11,11 @@ def main():
     print(li)
 
     for i in li:
-        d[i[1]] = [i[0], i[2], i[3]]
+        d[i.pop(1)] = i
     print(d)
 
-    for k in d:
-        d[k].sort(reverse=True)
+    for v in d.values():
+        v.sort(reverse=True)
     print(d)
 
     for k in d:
