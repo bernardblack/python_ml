@@ -85,7 +85,7 @@ def read_csv(filename):
 
 
 def write_json(filename, obj):
-    """ write dictionary to json file """    
+    """ write obj to json file """    
     with open(filename, 'w') as f:
         json.dump(obj, f)
 
