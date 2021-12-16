@@ -4,6 +4,8 @@ import pickle
 
 
 def save_world(f):
+    """ decorator for extremly dengerous functions f2() & f3(),
+        they can try divide by zero """
     def inner(*args):
         if args[0] == 0:
             print("NO GOD! PLEASE NO!!! NOOOOOOOOOO!!!")
@@ -36,6 +38,7 @@ def gen_x():
 
 
 def make_dictionary():
+    """ wery important calculations """
 
     d = {}
 
@@ -45,11 +48,24 @@ def make_dictionary():
         f3x = f3(x, f1x, f2x)
         d[x] = (f1x, f2x, f3x)
 
-    f = open("dictionary.pkl", 'wb')
-    pickle.dump(d, f)
+    return d
+
+
+def serialize(filename, obj):
+    f = open(filename, 'wb')
+    pickle.dump(obj, f)
+    f.close()
+
+
+def deserialize(filename):
+    f = open(filename, 'rb')
+    obj = pickle.load(f)
+    f.close()
+    return obj
+
 
 def write_csv(filename, dictionary):
-
+    """ write dictionary to csv file """
     with open(filename, 'w', newline='') as f:
         fn = ["X", "F1(x)", "F2(x)", "F3(x)"]
         writer = csv.DictWriter(f, fn)
@@ -59,30 +75,38 @@ def write_csv(filename, dictionary):
 
 
 def read_csv(filename):
-    
+    """ read dictionary from csv file """ 
+    li = []
     with open(filename, 'r') as f:
         reader = csv.reader(f)
-        #print(reader)
+        for row in reader:
+            li.append(row)
+    return li
 
-def write_json(filename, dictionary):
-    
+
+def write_json(filename, obj):
+    """ write dictionary to json file """    
+    with open(filename, 'w') as f:
+        json.dump(obj, f)
+
+
+def read_json(filename):
     with open(filename) as f:
-        json.dump(dictionary, f)
+        obj = json.load(f)
+    return obj
 
 
 def main():
 
-    make_dictionary()
+    d = make_dictionary()
 
-    f = open("dictionary.pkl", 'rb')
-    d = pickle.load(f)
-    f.close()
+    serialize("dictionary.pkl", d)
+    d_pkl = deserialize("dictionary.pkl")
 
-    print(d)
+    write_csv("dictionary.csv", d_pkl)
+    li_csv = read_csv("dictionary.csv")
 
-#    write_csv("dictionary.csv", d)
-#    read_csv("dictionary.csv")
-#    write_json("dictionary.json", d)
+    write_json("list.json", li_csv)
 
 
 if __name__ == "__main__":
