@@ -1,112 +1,156 @@
-import csv
-import json
-import pickle
+from __future__ import annotations
+from abc import abstractmethod
+from typing import final
+import math
+import random
+import re
 
 
-def save_world(f):
-    """ decorator for extremly dengerous functions f2() & f3(),
-        they can try divide by zero """
-    def inner(*args):
-        if args[0] == 0:
-            print("NO GOD! PLEASE NO!!! NOOOOOOOOOO!!!")
-            return
-        if len(args) == 3:
-            return f(args[0], args[1], args[2])
-        else:
-            return f(args[0])
-    return inner
+class Shape:
+    """ One of my favourite places to visit is the two-dimensional world
+    described in Edwin Abbott’s mathematical fantasy, Flatland. """
+
+    all_shapes = []
+    pi = 3.14159
+
+    def __init__(self, x=0, y=0):
+        self.x = x
+        self.y = y
+        self.__class__.all_shapes.append(self)
+
+    @abstractmethod
+    def get_vertex(self):
+        raise NotImplementedError("Method get_vertex not defined in Shape")
+
+    @abstractmethod
+    def get_area(self):
+        raise NotImplementedError("Method get_area not defined in Shape")
+
+    @classmethod
+    def get_all_shapes(cls):
+        return cls.all_shapes
+    
+    @final
+    def get_center(self):
+        return self.x, self.y
+
+    @final
+    def move(self, x, y):
+        self.x = x
+        self.y = y
+
+    @final
+    def swap(self, shape: Shape):
+        x, y = shape.get_center()
+        shape.move(self.x, self.y)
+        self.move(x, y)
+
+    @final
+    def get_distance(self, shape: Shape):
+        x, y = shape.get_center()
+        return math.sqrt((x - self.x) ** 2 + (y - self.y) ** 2)
+
+    @staticmethod
+    def say_hi():
+        return "from Shape class"
 
 
-def f1(x):
-    return x / (x + 100)
+class NameOfShape:
+
+    def __init__(self, name="unstable"):
+        self.name = name
+
+    def get_name(self):
+        return self.name
+
+    @staticmethod
+    def say_hi():
+        return "from NameOfShape class"
 
 
-@save_world
-def f2(x):
-    return 1 / x
+class Circle(Shape, NameOfShape):
+
+    def __init__(self, x=0, y=0, radius=1, name="testing"):
+        Shape.__init__(self, x, y)
+        NameOfShape.__init__(self, name)
+        self.radius = radius
+
+    def get_area(self):
+        return self.pi * self.radius ** 2
+
+    def get_vertex(self):
+        return self.x, self.y + self.radius
 
 
-@save_world
-def f3(x, f1x, f2x):
-    return 20 * (f1x + f2x) / x
+class Triangle(NameOfShape, Shape):
+
+    def __init__(self, x=0, y=0, side=1, name="testing"):
+        Shape.__init__(self, x, y)
+        NameOfShape.__init__(self, name)
+        self.side = side
+
+    def get_vertex(self):
+        return math.sqrt(3) / 2 * self.x / 2, self.y
+
+    def get_area(self):
+        return self.side ** 2 * math.sqrt(3) / 4
 
 
-def gen_x():
-    for x in range(5, 91):
-        yield x
-    yield 0
+class Square(Shape, NameOfShape):
 
+    def __init__(self, x=0, y=0, side=1, name="testing"):
+        Shape.__init__(self, x, y)
+        NameOfShape.__init__(self, name)
+        self.side = side
 
-def make_dictionary():
-    """ wery important calculations """
+    def get_vertex(self):
+        return self.x, self.y / 2
 
-    d = {}
-
-    for x in gen_x():
-        f1x = f1(x)
-        f2x = f2(x)
-        f3x = f3(x, f1x, f2x)
-        d[x] = (f1x, f2x, f3x)
-
-    return d
-
-
-def serialize(filename, obj):
-    f = open(filename, 'wb')
-    pickle.dump(obj, f)
-    f.close()
-
-
-def deserialize(filename):
-    f = open(filename, 'rb')
-    obj = pickle.load(f)
-    f.close()
-    return obj
-
-
-def write_csv(filename, dictionary):
-    """ write dictionary to csv file """
-    with open(filename, 'w', newline='') as f:
-        fn = ["X", "F1(x)", "F2(x)", "F3(x)"]
-        writer = csv.DictWriter(f, fn)
-        writer.writeheader()
-        for(k, v) in dictionary.items():
-            writer.writerow({fn[0]: k, fn[1]: v[0], fn[2]: v[1], fn[3]: v[2]})
-
-
-def read_csv(filename):
-    """ read dictionary from csv file """ 
-    li = []
-    with open(filename, 'r') as f:
-        reader = csv.reader(f)
-        for row in reader:
-            li.append(row)
-    return li
-
-
-def write_json(filename, obj):
-    """ write obj to json file """    
-    with open(filename, 'w') as f:
-        json.dump(obj, f)
-
-
-def read_json(filename):
-    with open(filename) as f:
-        obj = json.load(f)
-    return obj
+    def get_area(self):
+        return self.side ** 2
 
 
 def main():
 
-    d = make_dictionary()
+    flatland = [Triangle(3, 3, 3, "Buzz"), Circle(-3, -3, 3, "Rex"), Square(3, -5, 4, "Bo"),
+                Triangle(-5, -5, 3, "Hamm"), Square(1, 1, 1, "Slink"), Circle(1, 101001101, 5, "Potato"), 
+                Triangle(-5, -5, 3, "Woody"), Square(10, -10, 7, "Sarge"), Triangle(-100, -200, 150, "Etch"), Circle(20, -20, 10, "Lenny")]
 
-    serialize("dictionary.pkl", d)
-    d_pkl = deserialize("dictionary.pkl")
+    def show_shapes():
+        for shape in Shape.all_shapes:
+            shape_type = re.search(r"__main__.(.*)'>", str(shape.__class__)).group(1)
+            print(f"{shape.get_name()} is {shape_type}")
+            print(f"coordinates: {shape.get_center()}, vertex: {shape.get_vertex()}, area: {shape.get_area()}, say_hi() {shape.say_hi()}")
 
-    write_csv("dictionary.csv", d_pkl)
-    li_csv = read_csv("dictionary.csv")
+    def show_distance():
+        for i in range(0, len(flatland)):
+            for j in range(i + 1, len(flatland)):
+                if i != j:
+                    shape = flatland[i]
+                    shape2 = flatland[j]
+                    print(f"Distance between {shape.get_name()} {shape.get_center()} and {shape2.get_name()} {shape2.get_center()} is {shape.get_distance(shape2)}")
 
-    write_json("list.json", li_csv)
+    def shuffle():
+        print("\n*** Shuffle ***\n")
+        for i in range(0, 100):
+            j = random.randrange(0, len(flatland), 1)
+            k = random.randrange(0, len(flatland), 1)
+            if j != k:
+                flatland[j].swap(flatland[k])
+
+    def quake():
+        print("\n*** Quake ***\n")
+        for shape in Shape.all_shapes:
+            x, y = shape.get_center()
+            x_offset = random.randrange(-500, 500, 1)
+            y_offset = random.randrange(-500, 500, 1)
+            shape.move(x + x_offset, y + y_offset)
+
+    for i in range(0, 6):
+        show_shapes()
+        show_distance()
+        shuffle()
+        quake()
 
 
 if __name__ == "__main__":
