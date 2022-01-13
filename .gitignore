@@ -1,3 +1,5 @@
+venv/
 .vimspector.json
 tags
 .idea/*
+*.db
