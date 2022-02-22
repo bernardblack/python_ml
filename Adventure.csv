@@ -1,0 +1,1287 @@
+,index,Rank,Name,Platform,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+0,4780,4782,Pengo,2600,1983.0,Adventure,Atari,0.38,0.02,0.0,0.0,0.4
+1,251,252,Zelda II: The Adventure of Link,NES,1987.0,Adventure,Nintendo,2.19,0.5,1.61,0.08,4.38
+2,987,989,Metroid II: Return of Samus,GB,1991.0,Adventure,Nintendo,0.85,0.31,0.56,0.04,1.76
+3,4097,4099,The Legend of the Mystical Ninja,SNES,1991.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.48,0.0,0.48
+4,50,51,Super Mario Land 2: 6 Golden Coins,GB,1992.0,Adventure,Nintendo,6.16,2.04,2.69,0.29,11.18
+5,2633,2635,The 7th Guest,PC,1992.0,Adventure,Virgin Interactive,0.01,0.77,0.0,0.0,0.78
+6,8529,8531,Otogirisou,SNES,1992.0,Adventure,ChunSoft,0.0,0.0,0.16,0.0,0.16
+7,9796,9798,Ecco the Dolphin,GEN,1992.0,Adventure,Sega,0.0,0.0,0.12,0.0,0.12
+8,11951,11953,Ecco: The Tides of Time,GEN,1993.0,Adventure,Sega,0.0,0.0,0.07,0.0,0.07
+9,2534,2536,Kamaitachi no Yoru,SNES,1994.0,Adventure,ChunSoft,0.0,0.0,0.81,0.0,0.81
+10,12761,12763,Myst,SAT,1994.0,Adventure,Sunsoft,0.0,0.0,0.06,0.0,0.06
+11,521,522,Myst,PC,1994.0,Adventure,Red Orb,0.02,2.79,0.0,0.0,2.81
+12,12263,12265,Discworld,PS,1994.0,Adventure,Psygnosis,0.04,0.02,0.0,0.0,0.06
+13,12439,12441,Kekkon: Marriage,SAT,1995.0,Adventure,Shogakukan,0.0,0.0,0.06,0.0,0.06
+14,14904,14907,Doki Oki,PS,1995.0,Adventure,Banpresto,0.0,0.0,0.02,0.0,0.03
+15,16554,16557,Psychic Detective,PS,1995.0,Adventure,Electronic Arts,0.01,0.0,0.0,0.0,0.01
+16,13235,13237,Kekkon Zenya,SAT,1995.0,Adventure,Shogakukan,0.0,0.0,0.05,0.0,0.05
+17,15314,15317,Aquanaut's Holiday,PS,1995.0,Adventure,Sony Computer Entertainment,0.01,0.01,0.0,0.0,0.02
+18,12903,12905,Jirou Akagawa: Majotachi no Nemuri,SNES,1995.0,Adventure,Pack-In-Video,0.0,0.0,0.05,0.0,0.05
+19,12635,12637,Policenauts,3DO,1995.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.06,0.0,0.06
+20,12592,12594,Tenchi Muyou! Ryoukouki Gokuraku,SAT,1995.0,Adventure,Yumedia,0.0,0.0,0.06,0.0,0.06
+21,14337,14340,Rampo,SAT,1995.0,Adventure,Sega,0.0,0.0,0.03,0.0,0.03
+22,9223,9225,Doukyuusei,TG16,1995.0,Adventure,NEC,0.0,0.0,0.14,0.0,0.14
+23,14226,14229,Night Head: The Labyrinth,PS,1995.0,Adventure,Fuji,0.0,0.0,0.03,0.0,0.03
+24,11740,11742,Myst,PS,1995.0,Adventure,Psygnosis,0.0,0.0,0.07,0.0,0.07
+25,10416,10418,D,PS,1995.0,Adventure,Acclaim Entertainment,0.0,0.0,0.1,0.01,0.11
+26,2502,2504,Casper,PS,1996.0,Adventure,Interplay,0.46,0.31,0.0,0.05,0.83
+27,5168,5170,Nonomura Byoin no Hitobito,SAT,1996.0,Adventure,Elf,0.0,0.0,0.36,0.0,0.36
+28,10214,10216,Lunacy,SAT,1996.0,Adventure,Sega,0.0,0.0,0.11,0.0,0.11
+29,13715,13717,Haunted Casino,SAT,1996.0,Adventure,Societa,0.0,0.0,0.04,0.0,0.04
+30,13350,13352,Crusader: No Remorse,PS,1996.0,Adventure,Electronic Arts,0.03,0.02,0.0,0.0,0.05
+31,3759,3761,Clock Tower,PS,1996.0,Adventure,ASCII Entertainment,0.07,0.05,0.38,0.03,0.53
+32,13144,13146,Chronicles of the Sword,PS,1996.0,Adventure,Psygnosis,0.03,0.02,0.0,0.0,0.05
+33,4711,4713,E0: Enemy Zero,SAT,1996.0,Adventure,Sega,0.0,0.0,0.41,0.0,0.41
+34,11474,11476,The Space Bar,SAT,1996.0,Adventure,Sega,0.0,0.0,0.08,0.0,0.08
+35,8955,8957,Blazing Dragons,PS,1996.0,Adventure,Crystal Dynamics,0.08,0.06,0.0,0.01,0.15
+36,7383,7385,NOëL: NOT DiGITAL,PS,1996.0,Adventure,Pioneer LDC,0.0,0.0,0.2,0.01,0.21
+37,3647,3649,Sakura Wars,SAT,1996.0,Adventure,Sega,0.0,0.0,0.55,0.0,0.55
+38,5731,5733,Alone in the Dark: One-Eyed Jack's Revenge,PS,1996.0,Adventure,Infogrames,0.17,0.12,0.0,0.02,0.31
+39,4481,4483,Neon Genesis Evangelion,SAT,1996.0,Adventure,Sega,0.0,0.0,0.44,0.0,0.44
+40,15301,15304,Brain Dead 13,PS,1996.0,Adventure,Coconuts Japan,0.01,0.01,0.0,0.0,0.02
+41,15760,15763,Discworld II: Mortality Bytes!,PS,1996.0,Adventure,Psygnosis,0.01,0.01,0.0,0.0,0.02
+42,14858,14861,Hankou Shashin,SAT,1996.0,Adventure,Imagineer,0.0,0.0,0.03,0.0,0.03
+43,635,636,Riven: The Sequel to Myst,PC,1997.0,Adventure,Red Orb,1.52,0.82,0.0,0.1,2.43
+44,12740,12742,Broken Sword II: The Smoking Mirror,PS,1997.0,Adventure,Sony Computer Entertainment,0.03,0.02,0.0,0.0,0.06
+45,10769,10771,Shadow Master,PS,1997.0,Adventure,Psygnosis,0.05,0.04,0.0,0.01,0.1
+46,8817,8819,Kowloon's Gate,PS,1997.0,Adventure,Sony Computer Entertainment,0.0,0.0,0.14,0.01,0.15
+47,8863,8865,Space Station Silicon Valley,N64,1997.0,Adventure,Take-Two Interactive,0.12,0.03,0.0,0.0,0.15
+48,9181,9183,Desire,SAT,1997.0,Adventure,Imadio,0.0,0.0,0.14,0.0,0.14
+49,9738,9740,O.D.T.: Escape... Or Die Trying,PS,1997.0,Adventure,Psygnosis,0.07,0.05,0.0,0.01,0.12
+50,8093,8095,Moon,PS,1997.0,Adventure,ASCII Entertainment,0.0,0.0,0.17,0.01,0.18
+51,5659,5661,Riven: The Sequel to Myst,PS,1997.0,Adventure,Acclaim Entertainment,0.18,0.12,0.0,0.02,0.32
+52,2492,2494,Mega Man Legends,PS,1997.0,Adventure,Capcom,0.39,0.26,0.12,0.05,0.83
+53,7332,7334,EVE: burst error,SAT,1997.0,Adventure,Imagineer,0.0,0.0,0.21,0.0,0.21
+54,9682,9684,Clock Tower: The First Fear,PS,1997.0,Adventure,Human Entertainment,0.0,0.0,0.12,0.01,0.12
+55,11524,11526,Sentimental Graffiti: First Window,SAT,1997.0,Adventure,NEC Interchannel,0.0,0.0,0.08,0.0,0.08
+56,11784,11786,Real Sound: Kaze no Riguretto,SAT,1997.0,Adventure,Warp,0.0,0.0,0.07,0.0,0.07
+57,8634,8636,Eve: The Lost One,SAT,1998.0,Adventure,Imagineer,0.0,0.0,0.16,0.0,0.16
+58,11623,11625,Deep Fear,SAT,1998.0,Adventure,Sega,0.0,0.0,0.08,0.0,0.08
+59,3370,3372,Xena: Warrior Princess,PS,1998.0,Adventure,Electronic Arts,0.33,0.23,0.0,0.04,0.6
+60,10988,10990,Sound Novel Machi,SAT,1998.0,Adventure,ChunSoft,0.0,0.0,0.09,0.0,0.09
+61,10021,10023,Doukoku Shoshite...,SAT,1998.0,Adventure,Data East,0.0,0.0,0.11,0.0,0.11
+62,9969,9971,Stolen Song,PS,1998.0,Adventure,Sony Computer Entertainment,0.0,0.0,0.11,0.01,0.12
+63,10051,10053,Shinseiki Evangelion: Koutetsu no Girlfriend,PS,1998.0,Adventure,Gainax Network Systems,0.0,0.0,0.11,0.01,0.11
+64,728,730,The Legend of Zelda: Link's Awakening DX,GB,1998.0,Adventure,Nintendo,1.0,0.63,0.45,0.13,2.22
+65,9122,9124,T.R.A.G. - Tactical Rescue Assault Group: Mission of Mercy,PS,1998.0,Adventure,Sunsoft,0.08,0.05,0.0,0.01,0.14
+66,11832,11834,NOëL: La Neige,PS,1998.0,Adventure,Pioneer LDC,0.0,0.0,0.07,0.0,0.07
+67,3756,3758,"Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare",SAT,1998.0,Adventure,Sega,0.0,0.0,0.53,0.0,0.53
+68,12269,12271,July,DC,1998.0,Adventure,Fortyfive,0.0,0.0,0.06,0.0,0.06
+69,400,401,Rugrats: Search For Reptar,PS,1998.0,Adventure,THQ,1.63,1.53,0.0,0.18,3.34
+70,14405,14408,Highschool Terra Story,SAT,1998.0,Adventure,KID,0.0,0.0,0.03,0.0,0.03
+71,9709,9711,Echo Night,PS,1998.0,Adventure,From Software,0.03,0.02,0.07,0.01,0.12
+72,15346,15349,Code R,SAT,1998.0,Adventure,Quintet,0.0,0.0,0.02,0.0,0.02
+73,10379,10381,"Grand Theft Auto: Mission Pack #1, London 1969",PS,1998.0,Adventure,Take-Two Interactive,0.06,0.04,0.0,0.01,0.11
+74,5120,5122,Yarudora Series Vol.1: Double Cast,PS,1998.0,Adventure,Sony Computer Entertainment,0.0,0.0,0.35,0.02,0.37
+75,14222,14225,Tail Concerto,PS,1998.0,Adventure,Namco Bandai Games,0.02,0.01,0.0,0.0,0.03
+76,7467,7469,Yarudora Series Vol. 2: Kisetsu wo Dakishimete,PS,1998.0,Adventure,Sony Computer Entertainment,0.0,0.0,0.19,0.01,0.21
+77,8397,8399,Clock Tower II: The Struggle Within,PS,1998.0,Adventure,Human Entertainment,0.02,0.01,0.12,0.01,0.17
+78,6706,6708,Sentimental Graffiti,SAT,1998.0,Adventure,NEC Interchannel,0.0,0.0,0.25,0.0,0.25
+79,10085,10087,Shinseiki Evangelion: Koutetsu no Girlfriend,SAT,1998.0,Adventure,Sega,0.0,0.0,0.11,0.0,0.11
+80,3825,3827,The Grinch,PS,1999.0,Adventure,Konami Digital Entertainment,0.29,0.2,0.0,0.03,0.52
+81,11984,11986,Shadowgate 64: Trials of the Four Towers,N64,1999.0,Adventure,Kemco,0.06,0.01,0.0,0.0,0.07
+82,1709,1711,Shenmue,DC,1999.0,Adventure,Sega,0.52,0.24,0.38,0.04,1.18
+83,13899,13901,Countdown Vampires,PS,1999.0,Adventure,Namco Bandai Games,0.02,0.01,0.0,0.0,0.04
+84,1014,1016,Star Wars Episode I: The Phantom Menace,PS,1999.0,Adventure,LucasArts,0.72,0.89,0.04,0.1,1.74
+85,14443,14446,Dancing Blade II: Tears of Eden,PS,1999.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.03,0.0,0.03
+86,10538,10540,Blue Stinger,DC,1999.0,Adventure,Activision,0.0,0.0,0.1,0.0,0.1
+87,9221,9223,To Heart,PS,1999.0,Adventure,Aqua Plus,0.0,0.0,0.13,0.01,0.14
+88,4582,4584,The X Files,PS,1999.0,Adventure,Sony Computer Entertainment,0.24,0.16,0.0,0.03,0.42
+89,13404,13406,The Misadventures of Tron Bonne,PS,1999.0,Adventure,Eidos Interactive,0.03,0.02,0.0,0.0,0.05
+90,9179,9181,Detective Barbie: The Mystery Cruise,PS,1999.0,Adventure,Mattel Interactive,0.08,0.05,0.0,0.01,0.14
+91,10359,10361,Metal Gear Solid Integral,PS,1999.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.1,0.01,0.11
+92,8941,8943,Galerians,PS,1999.0,Adventure,Crave Entertainment,0.08,0.06,0.0,0.01,0.15
+93,8282,8284,Sound Novel Evolution 1: Otogirisou Sosei-Hen,PS,1999.0,Adventure,ChunSoft,0.0,0.0,0.16,0.01,0.17
+94,8338,8340,Bomberman 64: The Second Attack!,N64,1999.0,Adventure,Hudson Soft,0.05,0.01,0.11,0.0,0.17
+95,1506,1508,Rugrats Studio Tour,PS,1999.0,Adventure,THQ,0.57,0.67,0.0,0.07,1.31
+96,12494,12496,Neon Genesis Evangelion,N64,1999.0,Adventure,Namco Bandai Games,0.0,0.0,0.06,0.0,0.06
+97,15679,15682,The Longest Journey,PC,1999.0,Adventure,Empire Interactive,0.0,0.01,0.0,0.0,0.02
+98,1704,1706,Metal Gear Solid VR Missions,PS,1999.0,Adventure,Konami Digital Entertainment,0.66,0.45,0.0,0.08,1.18
+99,4665,4667,Mega Man Legends 2,PS,2000.0,Adventure,Capcom,0.17,0.12,0.1,0.03,0.42
+100,10678,10680,"Sakura Wars 2: Kimi, Shinitamou koto Nakare",DC,2000.0,Adventure,Sega,0.0,0.0,0.1,0.0,0.1
+101,10369,10371,Sakura Wars,DC,2000.0,Adventure,Sega,0.0,0.0,0.11,0.0,0.11
+102,11086,11088,Blood: The Last Vampire (Joukan),PS2,2000.0,Adventure,Sony Computer Entertainment,0.0,0.0,0.09,0.0,0.09
+103,9013,9015,Sakura Wars GB,GB,2000.0,Adventure,Media Factory,0.0,0.0,0.14,0.0,0.14
+104,11515,11517,Sentimental Graffiti 2,DC,2000.0,Adventure,NEC Interchannel,0.0,0.0,0.08,0.0,0.08
+105,14656,14659,In Cold Blood,PS,2000.0,Adventure,Sony Computer Entertainment,0.02,0.01,0.0,0.0,0.03
+106,7487,7489,Bugs Bunny & Taz: Time Busters,PS,2000.0,Adventure,Infogrames,0.11,0.08,0.0,0.01,0.21
+107,8219,8221,The Wild Thornberrys: Animal Adventures,PS,2000.0,Adventure,Mattel Interactive,0.1,0.07,0.0,0.01,0.17
+108,12767,12769,Angelique Trois,PS2,2000.0,Adventure,Tecmo Koei,0.0,0.0,0.06,0.0,0.06
+109,3122,3124,Mary-Kate and Ashley: Magical Mystery Mall,PS,2000.0,Adventure,Acclaim Entertainment,0.36,0.24,0.0,0.04,0.65
+110,12777,12779,Gold and Glory: The Road to El Dorado,PS,2000.0,Adventure,Ubisoft,0.03,0.02,0.0,0.0,0.06
+111,12272,12274,Kanon,DC,2000.0,Adventure,NEC Interchannel,0.0,0.0,0.06,0.0,0.06
+112,9408,9410,Chicken Run,PS,2000.0,Adventure,Eidos Interactive,0.07,0.05,0.0,0.01,0.13
+113,6287,6289,Evil Dead: Hail to the King,PS,2000.0,Adventure,THQ,0.15,0.1,0.0,0.02,0.27
+114,4861,4863,Boku no Natsuyasumi,PS,2000.0,Adventure,Sony Computer Entertainment,0.0,0.0,0.37,0.03,0.4
+115,6535,6537,Batman: Vengeance,GC,2001.0,Adventure,Ubisoft,0.2,0.05,0.0,0.01,0.26
+116,8916,8918,Shenmue II,DC,2001.0,Adventure,Sega,0.0,0.0,0.15,0.0,0.15
+117,5535,5537,Sakura Wars 3: Paris wa Moeteiru ka,DC,2001.0,Adventure,Sega,0.0,0.0,0.33,0.0,0.33
+118,8229,8231,Warriors of Might and Magic,PS2,2001.0,Adventure,3DO,0.09,0.07,0.0,0.02,0.17
+119,8188,8190,LEGO Island 2: The Brickster's Revenge,PS,2001.0,Adventure,LEGO Media,0.1,0.07,0.0,0.01,0.18
+120,8109,8111,Batman: Vengeance,GBA,2001.0,Adventure,Ubisoft,0.13,0.05,0.0,0.0,0.18
+121,8034,8036,Jurassic Park III: Island Attack,GBA,2001.0,Adventure,Konami Digital Entertainment,0.13,0.05,0.0,0.0,0.18
+122,9610,9612,Warriors of Might and Magic,PS,2001.0,Adventure,3DO,0.07,0.05,0.0,0.01,0.13
+123,9937,9939,Rugrats: Totally Angelica,PS,2001.0,Adventure,THQ,0.06,0.04,0.0,0.01,0.12
+124,7405,7407,Shadow of Destiny,PS2,2001.0,Adventure,Konami Digital Entertainment,0.09,0.07,0.03,0.02,0.21
+125,10373,10375,Martian Gothic: Unification,PS,2001.0,Adventure,Take-Two Interactive,0.06,0.04,0.0,0.01,0.11
+126,879,881,Scooby Doo and the Cyber Chase,PS,2001.0,Adventure,THQ,0.59,1.23,0.0,0.13,1.94
+127,3650,3652,Batman: Vengeance,PS2,2001.0,Adventure,Ubisoft,0.27,0.21,0.0,0.07,0.55
+128,10466,10468,Escape From Monkey Island,PS2,2001.0,Adventure,LucasArts,0.05,0.04,0.0,0.01,0.1
+129,923,925,The Legend of Zelda: Oracle of Seasons,GB,2001.0,Adventure,Nintendo,0.87,0.52,0.41,0.06,1.86
+130,12204,12206,Gambler Densetsu Tetsuya,PS2,2001.0,Adventure,Athena,0.0,0.0,0.07,0.0,0.07
+131,13054,13056,Taiho Shichauzo!,PS,2001.0,Adventure,Pioneer LDC,0.0,0.0,0.05,0.0,0.05
+132,4679,4681,Dexter's Laboratory Deesaster Strikes,GBA,2001.0,Adventure,BAM! Entertainment,0.3,0.11,0.0,0.01,0.41
+133,13855,13857,Pajama Sam: You are What You Eat From Your Head to Your Feet,PS,2001.0,Adventure,Infogrames,0.02,0.01,0.0,0.0,0.04
+134,1091,1093,"Monsters, Inc.",GBA,2001.0,Adventure,THQ,0.59,0.95,0.03,0.1,1.67
+135,4681,4683,Scooby-Doo and the Cyber Chase,GBA,2001.0,Adventure,Ubisoft,0.3,0.11,0.0,0.01,0.41
+136,7801,7803,Disney's Magical Mirror Starring Mickey Mouse,GC,2002.0,Adventure,Nintendo,0.15,0.04,0.0,0.01,0.19
+137,9189,9191,Enclave,XB,2002.0,Adventure,Swing! Entertainment,0.11,0.03,0.0,0.01,0.14
+138,5979,5981,Lupin the 3rd: Treasure of the Sorcerer King,PS2,2002.0,Adventure,505 Games,0.02,0.02,0.25,0.01,0.29
+139,7304,7306,Herdy Gerdy,PS2,2002.0,Adventure,Eidos Interactive,0.11,0.08,0.0,0.03,0.22
+140,9167,9169,Ecco the Dolphin: Defender of the Future,PS2,2002.0,Adventure,Sony Computer Entertainment,0.07,0.05,0.0,0.02,0.14
+141,15603,15606,Tsuki no Hikari: Shizumeru Kane no Satsujin,PS2,2002.0,Adventure,Victor Interactive,0.0,0.0,0.02,0.0,0.02
+142,16387,16390,Darkened Skye,GC,2002.0,Adventure,TDK Mediactive,0.01,0.0,0.0,0.0,0.01
+143,14231,14234,EverBlue 2,PS2,2002.0,Adventure,Capcom,0.02,0.01,0.0,0.0,0.03
+144,9104,9106,Pirates: The Legend of Black Kat,PS2,2002.0,Adventure,Electronic Arts,0.07,0.05,0.0,0.02,0.14
+145,16199,16202,Casper,GBA,2002.0,Adventure,Microids,0.01,0.0,0.0,0.0,0.01
+146,6249,6251,Myst III: Exile,PS2,2002.0,Adventure,Ubisoft,0.14,0.11,0.0,0.04,0.28
+147,7853,7855,Frogger's Adventures 2: The Lost Wand,GBA,2002.0,Adventure,Konami Digital Entertainment,0.14,0.05,0.0,0.0,0.19
+148,12267,12269,Pirates: The Legend of Black Kat,XB,2002.0,Adventure,Electronic Arts,0.05,0.01,0.0,0.0,0.06
+149,8546,8548,Shadow Man: 2econd Coming,PS2,2002.0,Adventure,Acclaim Entertainment,0.08,0.06,0.0,0.02,0.16
+150,8450,8452,Cubivore: Survival of the Fittest,GC,2002.0,Adventure,Nintendo,0.01,0.0,0.15,0.0,0.17
+151,15378,15381,Largo Winch .// Commando Sar,PS,2002.0,Adventure,Ubisoft,0.01,0.01,0.0,0.0,0.02
+152,12081,12083,Hikaru no Go: Heian Gensou Ibunroku,PS,2002.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.06,0.0,0.07
+153,12657,12659,Myst III: Exile,XB,2002.0,Adventure,Ubisoft,0.04,0.01,0.0,0.0,0.06
+154,13010,13012,Shifters,PS2,2002.0,Adventure,3DO,0.03,0.02,0.0,0.01,0.05
+155,7707,7709,The Thing,XB,2002.0,Adventure,Vivendi Games,0.15,0.04,0.0,0.01,0.2
+156,6571,6573,Drakan: The Ancients' Gates,PS2,2002.0,Adventure,Sony Computer Entertainment,0.13,0.1,0.0,0.03,0.26
+157,15199,15202,Natsuiro no Sunadokei,PS2,2002.0,Adventure,Princess Soft,0.0,0.0,0.02,0.0,0.02
+158,6620,6622,Bomberman Generation,GC,2002.0,Adventure,Vivendi Games,0.15,0.04,0.06,0.01,0.25
+159,14907,14910,Konohana 2: Todoke Kanai Requiem,PS2,2002.0,Adventure,Success,0.0,0.0,0.03,0.0,0.03
+160,12589,12591,Broken Sword: The Shadow of the Templars,GBA,2002.0,Adventure,BAM! Entertainment,0.04,0.02,0.0,0.0,0.06
+161,6529,6531,Dora the Explorer: The Search for Pirate Pig's Treasure,GBA,2002.0,Adventure,NewKidCo,0.19,0.07,0.0,0.0,0.26
+162,6058,6060,"Sakura Wars 4: Koi Seyo,Otome",DC,2002.0,Adventure,Sega,0.0,0.0,0.29,0.0,0.29
+163,9695,9697,Pryzm Chapter One: The Dark Unicorn,PS2,2002.0,Adventure,TDK Mediactive,0.06,0.05,0.0,0.02,0.12
+164,5175,5177,Kamaitachi no Yoru 2,PS2,2002.0,Adventure,ChunSoft,0.0,0.0,0.36,0.0,0.36
+165,11927,11929,Galerians: Ash,PS2,2002.0,Adventure,Sammy Corporation,0.03,0.03,0.0,0.01,0.07
+166,714,716,Onimusha 2: Samurai's Destiny,PS2,2002.0,Adventure,Capcom,0.62,0.44,1.06,0.13,2.25
+167,5694,5696,Shenmue II,XB,2002.0,Adventure,Microsoft Game Studios,0.22,0.08,0.0,0.01,0.32
+168,5687,5689,"Monsters, Inc.",PS2,2002.0,Adventure,Sony Computer Entertainment,0.15,0.12,0.0,0.04,0.32
+169,4477,4479,Eternal Darkness: Sanity's Requiem,GC,2002.0,Adventure,Nintendo,0.34,0.09,0.0,0.01,0.44
+170,4721,4723,Boku no Natsuyasumi 2: Umi no Bouken Hen,PS2,2002.0,Adventure,Sony Computer Entertainment,0.0,0.0,0.41,0.0,0.41
+171,5656,5658,"Ed, Edd n Eddy: Jawbreakers!",GBA,2002.0,Adventure,BAM! Entertainment,0.23,0.08,0.0,0.01,0.32
+172,15703,15706,Roommate Asami: Okusama wa Joshikousei,PS2,2002.0,Adventure,Datam Polystar,0.0,0.0,0.02,0.0,0.02
+173,11296,11298,Prisoner of War,XB,2002.0,Adventure,Atari,0.06,0.02,0.0,0.0,0.08
+174,4419,4421,The Thing,PS2,2002.0,Adventure,Vivendi Games,0.22,0.17,0.0,0.06,0.44
+175,5516,5518,Clock Tower 3,PS2,2002.0,Adventure,Capcom,0.1,0.08,0.12,0.03,0.33
+176,11341,11343,Tokimeki Memorial: Girl's Side,PS2,2002.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.08,0.0,0.08
+177,919,921,Star Fox Adventures,GC,2002.0,Adventure,Nintendo,0.96,0.53,0.3,0.09,1.87
+178,15546,15549,Broken Sword: The Sleeping Dragon,XB,2003.0,Adventure,THQ,0.01,0.0,0.0,0.0,0.02
+179,8021,8023,Siren,PS2,2003.0,Adventure,Sony Computer Entertainment,0.09,0.07,0.0,0.02,0.18
+180,8498,8500,Kya: Dark Lineage,PS2,2003.0,Adventure,Atari,0.08,0.06,0.0,0.02,0.16
+181,5050,5052,Pokemon Channel,GC,2003.0,Adventure,Nintendo,0.24,0.06,0.07,0.01,0.38
+182,15510,15513,Uru: Ages Beyond Myst,PC,2003.0,Adventure,Ubisoft,0.0,0.02,0.0,0.0,0.02
+183,4581,4583,Dog's Life,PS2,2003.0,Adventure,Sony Computer Entertainment,0.21,0.16,0.0,0.05,0.42
+184,5138,5140,Slime MoriMori Dragon Quest: Shougeki No Shippo Dan,GBA,2003.0,Adventure,Square Enix,0.0,0.0,0.36,0.01,0.37
+185,5449,5451,Beyond Good & Evil,PS2,2003.0,Adventure,Ubisoft,0.16,0.13,0.0,0.04,0.33
+186,10508,10510,Beyond Good & Evil,XB,2003.0,Adventure,Ubisoft,0.08,0.02,0.0,0.0,0.1
+187,11829,11831,Beyond Good & Evil,GC,2003.0,Adventure,Ubisoft,0.06,0.01,0.0,0.0,0.07
+188,12087,12089,Lifeline,PS2,2003.0,Adventure,Sony Computer Entertainment,0.03,0.03,0.0,0.01,0.07
+189,15708,15711,Post Mortem,PC,2003.0,Adventure,Microids,0.0,0.01,0.0,0.0,0.02
+190,10248,10250,Famicom Mini: Famicom Tantei Club - Kieta Koukeisha Zenkouhen,GBA,2004.0,Adventure,Nintendo,0.0,0.0,0.11,0.0,0.11
+191,13924,13926,Echo Night Beyond,PS2,2004.0,Adventure,Indie Games,0.02,0.01,0.0,0.0,0.04
+192,14035,14037,Obscure,XB,2004.0,Adventure,MC2 Entertainment,0.03,0.01,0.0,0.0,0.04
+193,7846,7848,The Polar Express,GBA,2004.0,Adventure,THQ,0.14,0.05,0.0,0.0,0.19
+194,7953,7955,Thomas the Tank Engine & Friends,GBA,2004.0,Adventure,,0.13,0.05,0.0,0.0,0.19
+195,14638,14641,Syberia II,XB,2004.0,Adventure,Ubisoft,0.02,0.01,0.0,0.0,0.03
+196,10720,10722,Famicom Mini: Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo Zenkouhen,GBA,2004.0,Adventure,Nintendo,0.0,0.0,0.1,0.0,0.1
+197,13573,13575,Blood Will Tell: Tezuka Osamu's Dororo,PS2,2004.0,Adventure,Sega,0.02,0.02,0.0,0.01,0.04
+198,10287,10289,The Polar Express,GC,2004.0,Adventure,THQ,0.08,0.02,0.0,0.0,0.11
+199,9436,9438,Shaman King: Power of Spirit,PS2,2004.0,Adventure,Konami Digital Entertainment,0.06,0.05,0.0,0.02,0.13
+200,9941,9943,CSI: Crime Scene Investigation,XB,2004.0,Adventure,Ubisoft,0.09,0.03,0.0,0.0,0.12
+201,13149,13151,Harukanaru Toki no Naka de 3,PS2,2004.0,Adventure,Tecmo Koei,0.0,0.0,0.05,0.0,0.05
+202,15692,15695,Syberia II,PC,2004.0,Adventure,MC2 Entertainment,0.0,0.01,0.0,0.0,0.02
+203,9041,9043,Second Sight,PS2,2004.0,Adventure,Codemasters,0.07,0.05,0.0,0.02,0.14
+204,12120,12122,Obscure,PS2,2004.0,Adventure,Microids,0.03,0.03,0.0,0.01,0.07
+205,15562,15565,Barbie as the Princess and the Pauper,GBA,2004.0,Adventure,Vivendi Games,0.01,0.0,0.0,0.0,0.02
+206,12303,12305,Sprung - A Game Where Everyone Scores,DS,2004.0,Adventure,Ubisoft,0.06,0.0,0.0,0.0,0.06
+207,9767,9769,The X Files: Resist or Serve,PS2,2004.0,Adventure,Vivendi Games,0.06,0.05,0.0,0.02,0.12
+208,15222,15225,Kuon,PS2,2004.0,Adventure,Indie Games,0.01,0.01,0.0,0.0,0.02
+209,8614,8616,Ghost in the Shell: Stand Alone Complex,PS2,2004.0,Adventure,Namco Bandai Games,0.08,0.06,0.0,0.02,0.16
+210,8436,8438,Leisure Suit Larry: Magna Cum Laude,XB,2004.0,Adventure,Vivendi Games,0.12,0.04,0.0,0.01,0.17
+211,11271,11273,Famicom Mini: Famicom Mukashi Banashi - Shin Oniga Shima Zenkouhen,GBA,2004.0,Adventure,Nintendo,0.0,0.0,0.08,0.0,0.08
+212,11947,11949,Second Sight,XB,2004.0,Adventure,Codemasters,0.05,0.02,0.0,0.0,0.07
+213,8358,8360,Gyakuten Saiban 3,GBA,2004.0,Adventure,Capcom,0.0,0.0,0.16,0.0,0.17
+214,7114,7116,The Polar Express,PS2,2004.0,Adventure,THQ,0.11,0.09,0.0,0.03,0.23
+215,13087,13089,Second Sight,GC,2004.0,Adventure,Codemasters,0.04,0.01,0.0,0.0,0.05
+216,9794,9796,Breakdown,XB,2004.0,Adventure,Electronic Arts,0.09,0.03,0.0,0.0,0.12
+217,6906,6908,Dora the Explorer: Super Star Adventures,GBA,2004.0,Adventure,Game Factory,0.17,0.06,0.0,0.0,0.24
+218,16591,16594,Myst IV: Revelation,PC,2004.0,Adventure,Ubisoft,0.01,0.0,0.0,0.0,0.01
+219,4492,4494,Classic NES Series: Metroid,GBA,2004.0,Adventure,Nintendo,0.26,0.1,0.07,0.01,0.43
+220,2937,2939,Classic NES Series: Zelda II: The Adventure of Link,GBA,2004.0,Adventure,Nintendo,0.37,0.14,0.17,0.01,0.7
+221,3068,3070,Strawberry Shortcake: Summertime Adventure,GBA,2004.0,Adventure,Majesco Entertainment,0.47,0.18,0.0,0.01,0.66
+222,3475,3477,Shrek 2: Beg for Mercy,GBA,2004.0,Adventure,Activision,0.42,0.15,0.0,0.01,0.58
+223,2474,2476,Metroid: Zero Mission,GBA,2004.0,Adventure,Nintendo,0.6,0.22,0.0,0.01,0.84
+224,2333,2335,Classic NES Series: The Legend of Zelda,GBA,2004.0,Adventure,Nintendo,0.46,0.17,0.24,0.02,0.89
+225,6511,6513,Konjiki no Gashbell!! Makai no Bookmark,GBA,2004.0,Adventure,Banpresto,0.0,0.0,0.25,0.01,0.26
+226,2715,2717,That's So Raven,GBA,2004.0,Adventure,Disney Interactive Studios,0.54,0.2,0.0,0.01,0.76
+227,5371,5373,Tim Burton's The Nightmare Before Christmas: Oogie's Revenge,PS2,2004.0,Adventure,Disney Interactive Studios,0.17,0.13,0.0,0.04,0.34
+228,5402,5404,Leisure Suit Larry: Magna Cum Laude,PS2,2004.0,Adventure,Vivendi Games,0.17,0.13,0.0,0.04,0.34
+229,3860,3862,That's So Raven 2: Supernatural Style,GBA,2005.0,Adventure,Disney Interactive Studios,0.37,0.14,0.0,0.01,0.52
+230,12006,12008,Let's Ride! Dreamer,GBA,2005.0,Adventure,DTP Entertainment,0.05,0.02,0.0,0.0,0.07
+231,12011,12013,Ghost in the Shell: Stand Alone Complex,PSP,2005.0,Adventure,Atari,0.06,0.0,0.0,0.01,0.07
+232,12157,12159,everGirl,GBA,2005.0,Adventure,THQ,0.05,0.02,0.0,0.0,0.07
+233,5852,5854,Charlie and the Chocolate Factory,GBA,2005.0,Adventure,Global Star,0.22,0.08,0.0,0.01,0.3
+234,16168,16171,Wallace & Gromit: Curse of the Were-Rabbit,XB,2005.0,Adventure,Konami Digital Entertainment,0.01,0.0,0.0,0.0,0.01
+235,5346,5348,Charlie and the Chocolate Factory,PS2,2005.0,Adventure,Global Star,0.17,0.13,0.0,0.04,0.35
+236,8898,8900,Geist,GC,2005.0,Adventure,Nintendo,0.11,0.03,0.0,0.0,0.15
+237,5947,5949,Trace Memory,DS,2005.0,Adventure,Nintendo,0.15,0.01,0.12,0.01,0.3
+238,16069,16072,SeaWorld Adventure Parks: Shamu's Deep Sea Adventure,XB,2005.0,Adventure,Activision,0.01,0.0,0.0,0.0,0.01
+239,8798,8800,The Fairly Odd Parents: Clash with the Anti-World,GBA,2005.0,Adventure,THQ,0.11,0.04,0.0,0.0,0.15
+240,12953,12955,Myst IV: Revelation,XB,2005.0,Adventure,Ubisoft,0.04,0.01,0.0,0.0,0.05
+241,2872,2874,Conker: Live And Reloaded,XB,2005.0,Adventure,Microsoft Game Studios,0.49,0.2,0.0,0.02,0.71
+242,5853,5855,Neopets: The Darkest Faerie,PS2,2005.0,Adventure,Sony Computer Entertainment,0.15,0.12,0.0,0.04,0.3
+243,8159,8161,Charlie and the Chocolate Factory,GC,2005.0,Adventure,Global Star,0.14,0.04,0.0,0.0,0.18
+244,11810,11812,Still Life,XB,2005.0,Adventure,Microids,0.05,0.02,0.0,0.0,0.07
+245,11535,11537,Bleach: Erabareshi Tamashii,PS2,2005.0,Adventure,Sony Computer Entertainment,0.0,0.0,0.08,0.0,0.08
+246,9859,9861,Wallace & Gromit: Curse of the Were-Rabbit,PS2,2005.0,Adventure,Konami Digital Entertainment,0.06,0.05,0.0,0.02,0.12
+247,5270,5272,Nicktoons: Unite!,GC,2005.0,Adventure,THQ,0.27,0.07,0.0,0.01,0.35
+248,8542,8544,SeaWorld Adventure Parks: Shamu's Deep Sea Adventure,PS2,2005.0,Adventure,Activision,0.08,0.06,0.0,0.02,0.16
+249,9961,9963,Dora the Explorer: Journey to the Purple Planet,GC,2005.0,Adventure,Global Star,0.09,0.02,0.0,0.0,0.12
+250,10137,10139,Lost in Blue,DS,2005.0,Adventure,Konami Digital Entertainment,0.07,0.02,0.02,0.01,0.11
+251,10276,10278,Charlie and the Chocolate Factory,XB,2005.0,Adventure,Global Star,0.08,0.02,0.0,0.0,0.11
+252,9772,9774,Zathura,PS2,2005.0,Adventure,Take-Two Interactive,0.06,0.05,0.0,0.02,0.12
+253,4935,4937,Chibi-Robo! Plug into Adventure!,GC,2005.0,Adventure,Nintendo,0.23,0.06,0.09,0.01,0.39
+254,10666,10668,Indigo Prophecy,XB,2005.0,Adventure,Atari,0.07,0.03,0.0,0.0,0.1
+255,10826,10828,SeaWorld Adventure Parks: Shamu's Deep Sea Adventure,GC,2005.0,Adventure,Activision,0.07,0.02,0.0,0.0,0.09
+256,6563,6565,Oddworld: Stranger's Wrath,XB,2005.0,Adventure,Electronic Arts,0.19,0.06,0.0,0.01,0.26
+257,13063,13065,SeaWorld Adventure Parks: Shamu's Deep Sea Adventure,DS,2005.0,Adventure,Activision,0.05,0.0,0.0,0.0,0.05
+258,11200,11202,Tim Burton's The Nightmare Before Christmas: Oogie's Revenge,XB,2005.0,Adventure,Disney Interactive Studios,0.06,0.02,0.0,0.0,0.09
+259,11295,11297,SeaWorld Adventure Parks: Shamu's Deep Sea Adventure,GBA,2005.0,Adventure,Activision,0.06,0.02,0.0,0.0,0.08
+260,4712,4714,Nicktoons: Unite!,PS2,2005.0,Adventure,THQ,0.34,0.01,0.0,0.06,0.41
+261,12458,12460,Call of Cthulhu: Dark Corners of the Earth,XB,2005.0,Adventure,Take-Two Interactive,0.05,0.01,0.0,0.0,0.06
+262,8832,8834,Indigo Prophecy,PS2,2005.0,Adventure,Atari,0.07,0.06,0.0,0.02,0.15
+263,6770,6772,Dora the Explorer: Journey to the Purple Planet,PS2,2005.0,Adventure,Global Star,0.12,0.09,0.0,0.03,0.24
+264,15200,15203,Indigo Prophecy,PC,2005.0,Adventure,Atari,0.0,0.02,0.0,0.0,0.02
+265,15162,15165,Zathura,XB,2005.0,Adventure,Take-Two Interactive,0.02,0.0,0.0,0.0,0.02
+266,14326,14329,Chicken Shoot 2,GBA,2005.0,Adventure,Zoo Digital Publishing,0.02,0.01,0.0,0.0,0.03
+267,7395,7397,Prince of Persia: Revelations,PSP,2005.0,Adventure,Ubisoft,0.18,0.01,0.0,0.02,0.21
+268,2517,2519,MediEvil: Resurrection,PSP,2005.0,Adventure,Sony Computer Entertainment,0.19,0.41,0.0,0.22,0.82
+269,2082,2084,Phoenix Wright: Ace Attorney,DS,2005.0,Adventure,Capcom,0.49,0.07,0.39,0.05,0.99
+270,13519,13521,D.C.F.S.: Da Capo Four Seasons,PS2,2005.0,Adventure,Kadokawa Shoten,0.0,0.0,0.04,0.0,0.04
+271,14765,14768,Mahou Sensei Negima! Kagai Jugyou ~Otome no Dokidoki Beachside~,PS2,2006.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.03,0.0,0.03
+272,14771,14774,Kuryuu Youma Gakuenki Recharge,PS2,2006.0,Adventure,Atlus,0.0,0.0,0.03,0.0,0.03
+273,10471,10473,Boku no Natsuyasumi Portable: Mushi Mushi Hakase to Teppen-yama no Himitsu!!,PSP,2006.0,Adventure,Sony Computer Entertainment,0.0,0.0,0.1,0.0,0.1
+274,14850,14853,Shakugan no Shana,PS2,2006.0,Adventure,Media Works,0.0,0.0,0.03,0.0,0.03
+275,10351,10353,Utawarerumono: Chiriyukusha e no Komoriuta,PS2,2006.0,Adventure,Aqua Plus,0.0,0.0,0.11,0.0,0.11
+276,1276,1278,Bratz: Forever Diamondz,DS,2006.0,Adventure,THQ,0.43,0.88,0.0,0.18,1.48
+277,10261,10263,Nicktoons: Unite!,DS,2006.0,Adventure,THQ,0.1,0.0,0.0,0.01,0.11
+278,10195,10197,Avatar: The Last Airbender,PSP,2006.0,Adventure,THQ,0.1,0.0,0.0,0.01,0.11
+279,15527,15530,Rozen Maiden: Duellwalzer,PS2,2006.0,Adventure,Taito,0.0,0.0,0.02,0.0,0.02
+280,1873,1875,Yakuza 2,PS2,2006.0,Adventure,Sega,0.05,0.04,0.84,0.16,1.09
+281,15002,15005,Canvas 2,PS2,2006.0,Adventure,Kadokawa Shoten,0.0,0.0,0.02,0.0,0.02
+282,15003,15006,Memories Off: Sorekara Again,PS2,2006.0,Adventure,KID,0.0,0.0,0.02,0.0,0.02
+283,15033,15036,Gift: Prism,PS2,2006.0,Adventure,Sweets,0.0,0.0,0.02,0.0,0.02
+284,15625,15628,Touch Detective (JP sales),DS,2006.0,Adventure,505 Games,0.0,0.0,0.02,0.0,0.02
+285,16052,16055,SoulLink Extension,PS2,2006.0,Adventure,Interchannel,0.0,0.0,0.01,0.0,0.01
+286,13161,13163,Tokimeki Memorial Girl's Side 2nd Kiss,PS2,2006.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.05,0.0,0.05
+287,9763,9765,Neopets Petpet Adventures: The Wand of Wishing,PSP,2006.0,Adventure,Sony Computer Entertainment,0.11,0.0,0.0,0.01,0.12
+288,1639,1641,Parfait: Chocolat Second Style,PS2,2006.0,Adventure,Alchemist,0.59,0.46,0.01,0.15,1.22
+289,5434,5436,Avatar: The Last Airbender,DS,2006.0,Adventure,THQ,0.3,0.01,0.0,0.03,0.34
+290,15240,15243,Ryu-koku,PS2,2006.0,Adventure,KID,0.0,0.0,0.02,0.0,0.02
+291,15243,15246,GunParade Orchestra: Midori no Shou,PS2,2006.0,Adventure,Sony Computer Entertainment,0.0,0.0,0.02,0.0,0.02
+292,5859,5861,24: The Game,PS2,2006.0,Adventure,Sony Computer Entertainment,0.15,0.12,0.0,0.04,0.3
+293,15322,15325,Last Escort,PS2,2006.0,Adventure,D3Publisher,0.0,0.0,0.02,0.0,0.02
+294,9163,9165,Monster House,GC,2006.0,Adventure,THQ,0.11,0.03,0.0,0.0,0.14
+295,9043,9045,Monster House,PS2,2006.0,Adventure,THQ,0.07,0.05,0.0,0.02,0.14
+296,6140,6142,Pirates of the Caribbean: Dead Man's Chest,PSP,2006.0,Adventure,Disney Interactive Studios,0.25,0.01,0.0,0.02,0.28
+297,15328,15331,Aria: The Natural ~Tooi Yume no Mirage~,PS2,2006.0,Adventure,Alchemist,0.0,0.0,0.02,0.0,0.02
+298,6143,6145,Avatar: The Last Airbender,Wii,2006.0,Adventure,THQ,0.24,0.02,0.0,0.02,0.28
+299,13140,13142,Shinseiki Evangelion 2: Tsukurareshi Sekai - Another Cases,PSP,2006.0,Adventure,Namco Bandai Games,0.0,0.0,0.05,0.0,0.05
+300,15111,15114,Neo Angelique,PS2,2006.0,Adventure,Tecmo Koei,0.0,0.0,0.02,0.0,0.02
+301,10743,10745,Touch Detective,DS,2006.0,Adventure,505 Games,0.06,0.03,0.0,0.01,0.1
+302,15706,15709,Pirates: Legend of the Black Buccaneer,PS2,2006.0,Adventure,10TACLE Studios,0.01,0.01,0.0,0.0,0.02
+303,13560,13562,Tennis no Oji-Sama: DokiDoki Survival - Sanroku no Mystic,PS2,2006.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.04,0.0,0.04
+304,13597,13599,"Negima!? Chou Mahora Taisen Kattoiin, Keiyaku Shikkou Dechai masuu",DS,2006.0,Adventure,Marvelous Interactive,0.0,0.0,0.04,0.0,0.04
+305,15941,15944,Myst,PSP,2006.0,Adventure,Midway Games,0.0,0.01,0.0,0.0,0.02
+306,12442,12444,KimiKiss,PS2,2006.0,Adventure,Enterbrain,0.0,0.0,0.06,0.0,0.06
+307,13835,13837,Dreamfall: The Longest Journey,XB,2006.0,Adventure,Empire Interactive,0.03,0.01,0.0,0.0,0.04
+308,16039,16042,GunParade Orchestra: Ao no Shou,PS2,2006.0,Adventure,Sony Computer Entertainment,0.0,0.0,0.01,0.0,0.01
+309,3484,3486,Phoenix Wright: Ace Attorney - Justice for All,DS,2006.0,Adventure,Capcom,0.24,0.05,0.26,0.03,0.58
+310,16152,16155,Izumo 2,PS2,2006.0,Adventure,GN Software,0.0,0.0,0.01,0.0,0.01
+311,12209,12211,Yoake Yori Ruriiro na: Brighter than Dawning Blue,PS2,2006.0,Adventure,Aria,0.0,0.0,0.07,0.0,0.07
+312,16154,16157,Bratz: Forever Diamondz,PS2,2006.0,Adventure,THQ,0.01,0.01,0.0,0.0,0.01
+313,13938,13940,Tenshou Gakuen Gekkouroku,PS2,2006.0,Adventure,Asmik Ace Entertainment,0.0,0.0,0.04,0.0,0.04
+314,15871,15874,Full House Kiss 2,PS2,2006.0,Adventure,Capcom,0.0,0.0,0.02,0.0,0.02
+315,14025,14027,Negima!? 3-Jikanme ~Koi to Mahou to Sekaiju Densetsu~,PS2,2006.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.04,0.0,0.04
+316,15683,15686,Machi: Unmei no Kousaten,PSP,2006.0,Adventure,ChunSoft,0.0,0.0,0.02,0.0,0.02
+317,11990,11992,GunParade Orchestra: Shiro no Shou,PS2,2006.0,Adventure,Sony Computer Entertainment,0.0,0.0,0.07,0.0,0.07
+318,14085,14087,Harukanaru Toki no Naka de: Maihitoyo,PS2,2006.0,Adventure,Tecmo Koei,0.0,0.0,0.04,0.0,0.04
+319,14157,14159,Simple DS Series Vol. 8: The Kanshikikan - Kinkyuu Shutsudou!! Jiken Genba wo Touch Seyo,DS,2006.0,Adventure,D3Publisher,0.0,0.0,0.03,0.0,0.03
+320,3961,3963,Avatar: The Last Airbender,GC,2006.0,Adventure,THQ,0.39,0.1,0.0,0.01,0.5
+321,14161,14163,Tsuyo Kiss: Mighty Heart,PS2,2006.0,Adventure,Princess Soft,0.0,0.0,0.03,0.0,0.03
+322,11582,11584,Scooby-Doo! Who's Watching Who?,PSP,2006.0,Adventure,THQ,0.07,0.01,0.0,0.01,0.08
+323,13399,13401,March of the Penguins,DS,2006.0,Adventure,Zoo Digital Publishing,0.04,0.0,0.0,0.0,0.05
+324,4211,4213,Pirates of the Caribbean: Dead Man's Chest,GBA,2006.0,Adventure,Disney Interactive Studios,0.33,0.12,0.0,0.01,0.47
+325,16282,16285,Kamaitachi no Yoru 2: Tokubetsu Hen,PSP,2006.0,Adventure,ChunSoft,0.0,0.0,0.01,0.0,0.01
+326,2156,2158,Gangs of London,PSP,2006.0,Adventure,Sony Computer Entertainment,0.3,0.44,0.0,0.22,0.96
+327,11247,11249,Monster House,GBA,2006.0,Adventure,THQ,0.06,0.02,0.0,0.0,0.09
+328,14389,14392,Otometeki Koi Kakumei * Love Revo,PS2,2006.0,Adventure,Interchannel,0.0,0.0,0.03,0.0,0.03
+329,13320,13322,Snoopy vs the Red Baron,PSP,2006.0,Adventure,Namco Bandai Games,0.04,0.0,0.0,0.0,0.05
+330,10877,10879,Scooby-Doo! Who's Watching Who?,DS,2006.0,Adventure,THQ,0.08,0.01,0.0,0.01,0.09
+331,13442,13444,Secret Files: Tunguska,PC,2006.0,Adventure,DreamCatcher Interactive,0.0,0.04,0.0,0.01,0.05
+332,16132,16135,Festa!! Hyper Girls Party,PS2,2006.0,Adventure,KID,0.0,0.0,0.01,0.0,0.01
+333,13778,13780,Clannad,PS2,2006.0,Adventure,Interchannel,0.0,0.0,0.04,0.0,0.04
+334,6781,6783,That's So Raven: Psychic on the Scene,DS,2006.0,Adventure,Disney Interactive Studios,0.23,0.0,0.0,0.02,0.24
+335,16504,16507,Mystereet,PS2,2006.0,Adventure,Yeti,0.0,0.0,0.01,0.0,0.01
+336,8670,8672,Monster House,DS,2006.0,Adventure,THQ,0.14,0.01,0.0,0.01,0.16
+337,8510,8512,Kamaitachi no Yoru × 3,PS2,2006.0,Adventure,Sega,0.0,0.0,0.16,0.0,0.16
+338,6811,6813,Final Fantasy Fables: Chocobo Tales,DS,2006.0,Adventure,Ubisoft,0.11,0.01,0.12,0.01,0.24
+339,6736,6738,Pirates of the Caribbean: The Legend of Jack Sparrow,PS2,2006.0,Adventure,Ubisoft,0.12,0.09,0.0,0.03,0.25
+340,7341,7343,Bratz: Forever Diamondz,GC,2006.0,Adventure,THQ,0.17,0.04,0.0,0.01,0.21
+341,6579,6581,Pirates of the Caribbean: Dead Man's Chest,DS,2006.0,Adventure,Disney Interactive Studios,0.23,0.01,0.0,0.02,0.26
+342,13130,13132,Sea Monsters: A Prehistoric Adventure,Wii,2007.0,Adventure,Zushi Games,0.04,0.0,0.0,0.0,0.05
+343,10496,10498,Myst,DS,2007.0,Adventure,Midway Games,0.09,0.0,0.0,0.01,0.1
+344,8423,8425,"Go, Diego, Go! Safari Rescue",DS,2007.0,Adventure,Take-Two Interactive,0.15,0.01,0.0,0.01,0.17
+345,218,219,Assassin's Creed,PS3,2007.0,Adventure,Ubisoft,1.91,2.0,0.09,0.83,4.83
+346,13978,13980,Simple DS Series Vol. 15: The Kanshikikan 2 - Aratanaru 8-tsu no Jiken wo Touch seyo,DS,2007.0,Adventure,D3Publisher,0.0,0.0,0.04,0.0,0.04
+347,15864,15867,Shinkyoku Soukai Polyphonica,PS2,2007.0,Adventure,Prototype,0.0,0.0,0.02,0.0,0.02
+348,4955,4957,The Dog Island,Wii,2007.0,Adventure,Ubisoft,0.35,0.01,0.0,0.03,0.39
+349,15806,15809,Memories Off #5: Encore,PS2,2007.0,Adventure,CyberFront,0.0,0.0,0.02,0.0,0.02
+350,10243,10245,Touch Detective 2 1/2,DS,2007.0,Adventure,505 Games,0.09,0.0,0.01,0.01,0.11
+351,13761,13763,Imabikisou,PS3,2007.0,Adventure,Sega,0.0,0.0,0.04,0.0,0.04
+352,10234,10236,Higurashi no Naku Koro ni Matsuri,PS2,2007.0,Adventure,Alchemist,0.0,0.0,0.11,0.0,0.11
+353,14236,14239,Safari Adventures: Africa,Wii,2007.0,Adventure,Neko Entertainment,0.03,0.0,0.0,0.0,0.03
+354,14289,14292,Arthur and the Invisibles,DS,2007.0,Adventure,Atari,0.03,0.0,0.0,0.0,0.03
+355,10154,10156,American Girl: Julie Finds a Way,DS,2007.0,Adventure,THQ,0.1,0.0,0.0,0.01,0.11
+356,15752,15755,Zero no Tsukaima: Muma ga Tsumugu Yokaze no Nocturne,PS2,2007.0,Adventure,Marvelous Interactive,0.0,0.0,0.02,0.0,0.02
+357,158,159,Assassin's Creed,X360,2007.0,Adventure,Ubisoft,3.28,1.65,0.07,0.55,5.55
+358,14346,14349,Hiiro no Kakera 2: Hisui no Shizuku,PS2,2007.0,Adventure,Idea Factory,0.0,0.0,0.03,0.0,0.03
+359,10076,10078,Jake Hunter Detective Story: Memories of the Past,DS,2007.0,Adventure,PQube,0.06,0.0,0.05,0.0,0.11
+360,15712,15715,Amagoushi no Yakata,PS2,2007.0,Adventure,Nippon Ichi Software,0.0,0.0,0.02,0.0,0.02
+361,7275,7277,DS Nishimura Kyotaro Suspense Shin Tantei Series: Kyoto Atami Zekkai no Kotou - Satsui no Wana,DS,2007.0,Adventure,Tecmo Koei,0.0,0.0,0.22,0.0,0.22
+362,9977,9979,DEATH NOTE: Kira Game,DS,2007.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.12,0.0,0.12
+363,6420,6422,The Dog Island,PS2,2007.0,Adventure,Ubisoft,0.13,0.1,0.0,0.03,0.27
+364,14213,14216,Metal Gear Solid: The Essential Collection (JP sales),PS2,2007.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.03,0.0,0.03
+365,16538,16541,Sea Monsters: A Prehistoric Adventure,DS,2007.0,Adventure,DSI Games,0.01,0.0,0.0,0.0,0.01
+366,10694,10696,CSI: Hard Evidence,X360,2007.0,Adventure,Ubisoft,0.07,0.02,0.0,0.01,0.1
+367,14563,14566,Drake & Josh: Talent Showdown,DS,2007.0,Adventure,THQ,0.03,0.0,0.0,0.0,0.03
+368,11805,11807,CSI: Dark Motives,DS,2007.0,Adventure,Ubisoft,0.05,0.01,0.0,0.01,0.07
+369,16225,16228,Soshite Kono Uchuu ni Kirameku Kimi no Shi XXX,PS2,2007.0,Adventure,Datam Polystar,0.0,0.0,0.01,0.0,0.01
+370,16211,16214,Tomoyo After: It's a Wonderful Life CS Edition,PS2,2007.0,Adventure,Prototype,0.0,0.0,0.01,0.0,0.01
+371,11593,11595,Boku no Natsuyasumi 3: Hokkoku Hen: Chiisana Boku no Dai Sougen​,PS3,2007.0,Adventure,Sony Computer Entertainment,0.0,0.0,0.08,0.0,0.08
+372,12052,12054,Higurashi no Naku Koro ni Matsuri: Kakera Asobi,PS2,2007.0,Adventure,Alchemist,0.0,0.0,0.07,0.0,0.07
+373,16265,16268,Myself; Yourself,PS2,2007.0,Adventure,Yeti,0.0,0.0,0.01,0.0,0.01
+374,3576,3578,Hotel Dusk: Room 215,DS,2007.0,Adventure,Nintendo,0.27,0.05,0.22,0.03,0.56
+375,16277,16280,Kono Aozora ni Yakusoku o: Melody of the Sun and Sea,PS2,2007.0,Adventure,Alchemist,0.0,0.0,0.01,0.0,0.01
+376,12126,12128,Lost in Blue 2,DS,2007.0,Adventure,Konami Digital Entertainment,0.01,0.01,0.05,0.0,0.07
+377,4225,4227,Metal Gear Solid: The Essential Collection,PS2,2007.0,Adventure,Konami Digital Entertainment,0.23,0.18,0.0,0.06,0.46
+378,3548,3550,Bratz 4 Real,DS,2007.0,Adventure,THQ,0.29,0.22,0.0,0.06,0.57
+379,7988,7990,The Bee Game,DS,2007.0,Adventure,Midway Games,0.17,0.0,0.0,0.01,0.19
+380,7941,7943,One Piece: Unlimited Adventure,Wii,2007.0,Adventure,Namco Bandai Games,0.07,0.0,0.11,0.01,0.19
+381,4315,4317,Barbie as The Island Princess,Wii,2007.0,Adventure,Activision,0.42,0.0,0.0,0.03,0.45
+382,12528,12530,Foster's Home for Imaginary Friends: Imagination Invaders,DS,2007.0,Adventure,Midway Games,0.06,0.0,0.0,0.0,0.06
+383,7936,7938,Chibi-Robo! Park Patrol,DS,2007.0,Adventure,Unknown,0.0,0.0,0.19,0.0,0.19
+384,3045,3047,Phoenix Wright: Ace Attorney - Trials and Tribulations,DS,2007.0,Adventure,Capcom,0.33,0.05,0.25,0.04,0.67
+385,13037,13039,DokiDoki Majo Shinpan!,DS,2007.0,Adventure,SNK Playmore,0.0,0.0,0.05,0.0,0.05
+386,8236,8238,Lost in Blue 3,DS,2007.0,Adventure,Konami Digital Entertainment,0.09,0.02,0.06,0.01,0.17
+387,13182,13184,"Lupin III: Lupin ni wa Shi o, Zenigata ni wa Koi o",PS2,2007.0,Adventure,505 Games,0.0,0.0,0.05,0.0,0.05
+388,13214,13216,D.Gray-man: Kami no Shitotachi,DS,2007.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.05,0.0,0.05
+389,13245,13247,Tokimeki Memorial: Girls Side 1st Love,DS,2007.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.05,0.0,0.05
+390,15976,15979,Ouran Koukou Host Bu,PS2,2007.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+391,13371,13373,Arctic Tale,Wii,2007.0,Adventure,Zoo Digital Publishing,0.04,0.0,0.0,0.0,0.05
+392,8348,8350,Fate/Stay Night [Réalta Nua],PS2,2007.0,Adventure,Kadokawa Shoten,0.0,0.0,0.17,0.0,0.17
+393,4653,4655,Zack & Wiki: Quest for Barbaros' Treasure,Wii,2007.0,Adventure,Nintendo,0.18,0.17,0.03,0.04,0.42
+394,16404,16407,Vitamin X,PS2,2007.0,Adventure,D3Publisher,0.0,0.0,0.01,0.0,0.01
+395,10376,10378,Barbie in The 12 Dancing Princesses,DS,2007.0,Adventure,Activision,0.09,0.01,0.0,0.01,0.11
+396,16213,16216,Aa Megami-samaa,PS2,2007.0,Adventure,Marvelous Interactive,0.0,0.0,0.01,0.0,0.01
+397,8998,9000,CSI: 3 Dimensions of Murder,PS2,2007.0,Adventure,Ubisoft,0.07,0.06,0.0,0.02,0.14
+398,15370,15373,Pippa Funnell: Ranch Rescue,Wii,2007.0,Adventure,Ubisoft,0.0,0.02,0.0,0.0,0.02
+399,5723,5725,Barbie as The Island Princess,DS,2007.0,Adventure,Activision,0.28,0.01,0.0,0.02,0.31
+400,15542,15545,Snow Portable,PSP,2007.0,Adventure,Prototype,0.0,0.0,0.02,0.0,0.02
+401,1408,1410,Disney Princess: Enchanted Journey,Wii,2007.0,Adventure,Disney Interactive Studios,1.24,0.04,0.0,0.09,1.38
+402,16419,16422,Routes PE,PS2,2007.0,Adventure,Aqua Plus,0.0,0.0,0.01,0.0,0.01
+403,1890,1892,Endless Ocean,Wii,2007.0,Adventure,Nintendo,0.44,0.47,0.09,0.09,1.09
+404,14905,14908,Gakuen Alice: WakuWaku * Happy Friends,DS,2007.0,Adventure,Kids Station,0.0,0.0,0.03,0.0,0.03
+405,1295,1297,Disney Princess: Magical Jewels,DS,2007.0,Adventure,Disney Interactive Studios,1.15,0.2,0.0,0.12,1.47
+406,9114,9116,Arctic Tale,DS,2007.0,Adventure,Zoo Digital Publishing,0.13,0.0,0.0,0.01,0.14
+407,14916,14919,DEATH NOTE: L o Tsugu Mono,DS,2007.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.02,0.0,0.02
+408,7076,7078,Barbie as The Island Princess,GBA,2007.0,Adventure,Activision,0.16,0.06,0.0,0.0,0.23
+409,15461,15464,AIR,PSP,2007.0,Adventure,Prototype,0.0,0.0,0.02,0.0,0.02
+410,15058,15061,Zero no Tsukaima: Shou-akuma to Harukaze no Concerto,PS2,2007.0,Adventure,Marvelous Interactive,0.0,0.0,0.02,0.0,0.02
+411,15173,15176,Happiness! De-Lucks,PS2,2007.0,Adventure,Marvelous Interactive,0.0,0.0,0.02,0.0,0.02
+412,15067,15070,Nanatsuiro * Drops Pure!!,PS2,2007.0,Adventure,Media Works,0.0,0.0,0.02,0.0,0.02
+413,9911,9913,Barbie as The Island Princess,PS2,2007.0,Adventure,Activision,0.06,0.04,0.0,0.02,0.12
+414,8666,8668,The Godfather: Blackhand Edition,Wii,2007.0,Adventure,Electronic Arts,0.14,0.0,0.0,0.01,0.16
+415,7089,7091,Disney Princess: Enchanted Journey,PS2,2007.0,Adventure,Disney Interactive Studios,0.11,0.09,0.0,0.03,0.23
+416,15584,15587,Arabians Lost: The Engagement on Desert,PS2,2007.0,Adventure,Prototype,0.0,0.0,0.02,0.0,0.02
+417,15296,15299,Meitantei Evangelion,PS2,2007.0,Adventure,Broccoli,0.0,0.0,0.02,0.0,0.02
+418,6114,6116,Bratz Ponyz,DS,2007.0,Adventure,Game Factory,0.26,0.0,0.0,0.02,0.28
+419,16486,16489,Case Closed: One Truth Prevails,Wii,2007.0,Adventure,Nobilis,0.0,0.0,0.01,0.0,0.01
+420,8830,8832,Suzumiya Haruhi no Yakusoku,PSP,2007.0,Adventure,Namco Bandai Games,0.0,0.0,0.15,0.0,0.15
+421,14733,14736,Eco Creatures: Save The Forest,DS,2007.0,Adventure,Rising Star Games,0.03,0.0,0.0,0.0,0.03
+422,15315,15318,Negima!? Chou Mahora Taisen Chuu: Checkiin Zenin Shuugou! Yappari Onsen Kichaimashitaa,DS,2007.0,Adventure,Marvelous Interactive,0.0,0.0,0.02,0.0,0.02
+423,15620,15623,Bakumatsu Renka: Karyuu Kenshi-den,PS2,2007.0,Adventure,D3Publisher,0.0,0.0,0.02,0.0,0.02
+424,15619,15622,"Shounen Onmyouji: Tsubasa Yoima, Ten e Kaere",PS2,2007.0,Adventure,Kadokawa Shoten,0.0,0.0,0.02,0.0,0.02
+425,1963,1965,Apollo Justice: Ace Attorney,DS,2007.0,Adventure,Capcom,0.32,0.06,0.64,0.04,1.06
+426,12503,12505,D.C. II P.S.: Da Capo II Plus Situation,PS2,2008.0,Adventure,Kadokawa Shoten,0.0,0.0,0.06,0.0,0.06
+427,11870,11872,Goosebumps HorrorLand,PS2,2008.0,Adventure,Scholastic Inc.,0.04,0.03,0.0,0.01,0.07
+428,12554,12556,Theresia...,DS,2008.0,Adventure,Arc System Works,0.06,0.0,0.0,0.0,0.06
+429,3256,3258,Bolt,DS,2008.0,Adventure,Disney Interactive Studios,0.35,0.21,0.0,0.06,0.62
+430,15209,15212,So Blonde,PC,2008.0,Adventure,Eidos Interactive,0.0,0.02,0.0,0.0,0.02
+431,16094,16097,Bakumatsu Koihana: Shinsengumi DS,DS,2008.0,Adventure,D3Publisher,0.0,0.0,0.01,0.0,0.01
+432,11862,11864,Let's Ride! Friends Forever,DS,2008.0,Adventure,THQ,0.07,0.0,0.0,0.0,0.07
+433,12620,12622,Winx Club: Mission Enchantix,DS,2008.0,Adventure,Konami Digital Entertainment,0.03,0.02,0.0,0.0,0.06
+434,15195,15198,Akai Ito DS,DS,2008.0,Adventure,Alchemist,0.0,0.0,0.02,0.0,0.02
+435,12890,12892,Jake Power: Policeman,DS,2008.0,Adventure,Ubisoft,0.05,0.0,0.0,0.0,0.05
+436,12838,12840,Unsolved Crimes,DS,2008.0,Adventure,Empire Interactive,0.04,0.01,0.0,0.0,0.05
+437,15211,15214,Koisuru Otome to Shugo no Tate: The Shield of AIGIS,PS2,2008.0,Adventure,Alchemist,0.0,0.0,0.02,0.0,0.02
+438,7868,7870,Tottadoo! Yoiko no Mujintou Seikatsu,DS,2008.0,Adventure,Namco Bandai Games,0.0,0.0,0.19,0.0,0.19
+439,15179,15182,Mata Hari: Betrayal is only a Kiss Away,PC,2008.0,Adventure,DTP Entertainment,0.0,0.02,0.0,0.0,0.02
+440,16207,16210,Duel Love: Koisuru Otome wa Shouri no Megami,DS,2008.0,Adventure,Namco Bandai Games,0.0,0.0,0.01,0.0,0.01
+441,11836,11838,Harukanaru Toki no Naka de 4,PS2,2008.0,Adventure,Tecmo Koei,0.0,0.0,0.07,0.0,0.07
+442,13053,13055,Secret Files: Tunguska,DS,2008.0,Adventure,Deep Silver,0.04,0.01,0.0,0.0,0.05
+443,7010,7012,Pitfall: The Big Adventure,Wii,2008.0,Adventure,Activision,0.2,0.02,0.0,0.02,0.23
+444,16029,16032,Katekyoo Hitman Reborn Nerae!? Ring x Bongole Returns,PS2,2008.0,Adventure,Marvelous Interactive,0.0,0.0,0.01,0.0,0.01
+445,16463,16466,Vitamin Y,DS,2008.0,Adventure,D3Publisher,0.0,0.0,0.01,0.0,0.01
+446,6768,6770,Avatar: The Last Airbender - Into the Inferno,PS2,2008.0,Adventure,THQ,0.12,0.09,0.0,0.03,0.25
+447,12776,12778,KimiKiss (ebKore+),PS2,2008.0,Adventure,Enterbrain,0.0,0.0,0.06,0.0,0.06
+448,7937,7939,Bolt,PS3,2008.0,Adventure,Disney Interactive Studios,0.12,0.05,0.0,0.02,0.19
+449,11875,11877,Code Geass: Hangyaku no Lelouch - Lost Colors,PSP,2008.0,Adventure,Namco Bandai Games,0.0,0.0,0.07,0.0,0.07
+450,12420,12422,Higurashi Daybreak Portable,PSP,2008.0,Adventure,Alchemist,0.0,0.0,0.06,0.0,0.06
+451,16156,16159,PC Engine Best Collention: Ginga Ojousama Densetsu Collection,PSP,2008.0,Adventure,Hudson Soft,0.0,0.0,0.01,0.0,0.01
+452,15368,15371,Meitantei Conan: Kieta Hakase to Machigai Sagashi no Tou,DS,2008.0,Adventure,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02
+453,12095,12097,Secret Files: Tunguska,Wii,2008.0,Adventure,Koch Media,0.05,0.02,0.0,0.01,0.07
+454,12096,12098,DS Nishimura Kyotaro Suspense 2 Shin Tantei Series: Kanazawa Hakodate - Gokkan no Kyoukoku - Fukushuu no Kage,DS,2008.0,Adventure,Tecmo Koei,0.0,0.0,0.07,0.0,0.07
+455,1535,1537,Mystery Case Files: MillionHeir,DS,2008.0,Adventure,Nintendo,0.76,0.4,0.0,0.12,1.29
+456,15290,15293,Final Approach 2: 1st Priority,PS2,2008.0,Adventure,Princess Soft,0.0,0.0,0.02,0.0,0.02
+457,15282,15285,Jake Hunter: Detective Chronicles,DS,2008.0,Adventure,Aksys Games,0.02,0.0,0.0,0.0,0.02
+458,12023,12025,Higurashi no Nakukoru ni Kizuna: Dai-Ichi-Kan - Tatari,DS,2008.0,Adventure,Alchemist,0.0,0.0,0.07,0.0,0.07
+459,12146,12148,Freddi Fish: Kelp Seed Mystery,Wii,2008.0,Adventure,Majesco Entertainment,0.06,0.0,0.0,0.0,0.07
+460,8039,8041,Alone in the Dark,Wii,2008.0,Adventure,Atari,0.09,0.08,0.0,0.02,0.18
+461,6708,6710,Bolt,X360,2008.0,Adventure,Disney Interactive Studios,0.18,0.05,0.0,0.02,0.25
+462,16524,16527,Shirogane no Soleil: Contract to the Future - Mirai e no Keiyaku,PS2,2008.0,Adventure,Russel,0.0,0.0,0.01,0.0,0.01
+463,12031,12033,Jake Power: Handyman,DS,2008.0,Adventure,Ubisoft,0.06,0.0,0.0,0.0,0.07
+464,16164,16167,Rosario to Vampire: Tanabata no Miss Youkai Gakuen,DS,2008.0,Adventure,Capcom,0.0,0.0,0.01,0.0,0.01
+465,16527,16530,Hoshizora no Comic Garden,DS,2008.0,Adventure,D3Publisher,0.0,0.0,0.01,0.0,0.01
+466,8141,8143,Pirates: Hunt For Blackbeard's Booty,Wii,2008.0,Adventure,Activision,0.08,0.08,0.0,0.02,0.18
+467,13203,13205,Harukanaru Toki no Naka de: Yumenoukihashi,DS,2008.0,Adventure,Tecmo Koei,0.0,0.0,0.05,0.0,0.05
+468,8184,8186,Nancy Drew: The Hidden Staircase,DS,2008.0,Adventure,THQ,0.16,0.0,0.0,0.01,0.18
+469,16580,16583,Real Rode,PS2,2008.0,Adventure,Kadokawa Shoten,0.0,0.0,0.01,0.0,0.01
+470,11908,11910,"Flower, Sun, and Rain",DS,2008.0,Adventure,Rising Star Games,0.07,0.0,0.0,0.01,0.07
+471,15213,15216,Casper's Scare School: Classroom Capers,DS,2008.0,Adventure,Blast! Entertainment Ltd,0.02,0.0,0.0,0.0,0.02
+472,12300,12302,Akagawa Jirou Mystery: Yasoukyoku - Hon ni Manekareta Satsujin,DS,2008.0,Adventure,Marvelous Interactive,0.0,0.0,0.06,0.0,0.06
+473,16130,16133,Dr. Slump & Arale-Chan,DS,2008.0,Adventure,Namco Bandai Games,0.0,0.0,0.01,0.0,0.01
+474,12330,12332,Spy Fox in Dry Cereal,Wii,2008.0,Adventure,Majesco Entertainment,0.06,0.0,0.0,0.0,0.06
+475,12378,12380,Code Geass: Hangyaku no Lelouch - Lost Colors,PS2,2008.0,Adventure,Namco Bandai Games,0.0,0.0,0.06,0.0,0.06
+476,12417,12419,Alone in the Dark,PS2,2008.0,Adventure,Atari,0.03,0.02,0.0,0.01,0.06
+477,3555,3557,Bolt,Wii,2008.0,Adventure,Disney Interactive Studios,0.19,0.31,0.0,0.06,0.57
+478,15110,15113,School Days LxH,PS2,2008.0,Adventure,Interchannel,0.0,0.0,0.02,0.0,0.02
+479,16559,16562,Sugar + Spice! Anoko no Suteki na Nanimokamo,PS2,2008.0,Adventure,Alchemist,0.0,0.0,0.01,0.0,0.01
+480,15106,15109,D.Gray-man: Sousha no Shikaku,PS2,2008.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.02,0.0,0.02
+481,14132,14134,The Void,PC,2008.0,Adventure,Mamba Games,0.0,0.03,0.0,0.01,0.03
+482,16572,16575,Scarlett: Nichijou no Kyoukaisen,PS2,2008.0,Adventure,Kadokawa Shoten,0.0,0.0,0.01,0.0,0.01
+483,14842,14845,Last Escort 2: Shinya no Amai Toge,PS2,2008.0,Adventure,D3Publisher,0.0,0.0,0.03,0.0,0.03
+484,1270,1272,Drawn To Life: SpongeBob SquarePants Edition,DS,2008.0,Adventure,THQ,1.0,0.36,0.0,0.13,1.49
+485,2260,2262,Assassin's Creed,PC,2008.0,Adventure,Ubisoft,0.01,0.83,0.0,0.08,0.92
+486,14805,14808,Galileo,DS,2008.0,Adventure,D3Publisher,0.0,0.0,0.03,0.0,0.03
+487,14232,14235,Emma at the Farm,DS,2008.0,Adventure,Aspyr,0.03,0.0,0.0,0.0,0.03
+488,1214,1216,Disney Fairies: Tinker Bell,DS,2008.0,Adventure,Disney Interactive Studios,0.86,0.52,0.01,0.15,1.54
+489,14304,14307,Vitamin X Evolution,DS,2008.0,Adventure,D3Publisher,0.0,0.0,0.03,0.0,0.03
+490,14324,14327,Togainu no Chi: True Blood,PS2,2008.0,Adventure,Kadokawa Shoten,0.0,0.0,0.03,0.0,0.03
+491,434,435,Club Penguin: Elite Penguin Force,DS,2008.0,Adventure,Disney Interactive Studios,1.88,0.98,0.0,0.3,3.16
+492,16561,16564,Kanokon: Esuii,PS2,2008.0,Adventure,5pb,0.0,0.0,0.01,0.0,0.01
+493,14769,14772,Clannad,X360,2008.0,Adventure,Prototype,0.0,0.0,0.03,0.0,0.03
+494,15611,15614,Agatha Christie: Death on the Nile,PC,2008.0,Adventure,Big Fish Games,0.0,0.01,0.0,0.0,0.02
+495,15737,15740,Otometeki Koi Kakumei * Love Revo!! DS,DS,2008.0,Adventure,GungHo,0.0,0.0,0.02,0.0,0.02
+496,14378,14381,To LoveRu Trouble: Waku Waku! Rinkangakkou-Hen,DS,2008.0,Adventure,Marvelous Interactive,0.0,0.0,0.03,0.0,0.03
+497,7314,7316,Afrika,PS3,2008.0,Adventure,Unknown,0.12,0.0,0.08,0.01,0.21
+498,6885,6887,Amazing Adventures: The Forgotten Ruins,DS,2008.0,Adventure,PopCap Games,0.13,0.08,0.0,0.02,0.24
+499,14706,14709,Akane Iro ni Somaru Saka Parallel,PS2,2008.0,Adventure,GN Software,0.0,0.0,0.03,0.0,0.03
+500,14684,14687,Safari Adventures: Africa,DS,2008.0,Adventure,Neko Entertainment,0.03,0.0,0.0,0.0,0.03
+501,14428,14431,Tantei Jinguuji Saburo DS: Kienai Kokoro,DS,2008.0,Adventure,Arc System Works,0.0,0.0,0.03,0.0,0.03
+502,14445,14448,Hiiro no Kakera 3: Aoikuro no Kusabi,PS2,2008.0,Adventure,Idea Factory,0.0,0.0,0.03,0.0,0.03
+503,14456,14459,DokiDoki Majo Shinpan! 2,DS,2008.0,Adventure,SNK Playmore,0.0,0.0,0.03,0.0,0.03
+504,14474,14477,To LoveRu Trouble: Doki Doki! Rinkaigakkou-Hen,PSP,2008.0,Adventure,Marvelous Interactive,0.0,0.0,0.03,0.0,0.03
+505,14489,14492,Lux-Pain (JP sales),DS,2008.0,Adventure,Rising Star Games,0.0,0.0,0.03,0.0,0.03
+506,14525,14528,Story Hour: Adventures,Wii,2008.0,Adventure,Zoo Digital Publishing,0.03,0.0,0.0,0.0,0.03
+507,14531,14534,Hakuouki,PS2,2008.0,Adventure,Idea Factory,0.0,0.0,0.03,0.0,0.03
+508,7236,7238,Dragon Ball: Origins (JP & incomplete US sales),DS,2008.0,Adventure,Atari,0.04,0.0,0.17,0.0,0.22
+509,14568,14571,Jack Keane,PC,2008.0,Adventure,Kalypso Media,0.0,0.02,0.0,0.0,0.03
+510,14127,14129,Tokyo Majin Gakuen: Kenfuuchou,DS,2008.0,Adventure,Marvelous Interactive,0.0,0.0,0.03,0.0,0.03
+511,13230,13232,Koihime Musou,PS2,2008.0,Adventure,Yeti,0.0,0.0,0.05,0.0,0.05
+512,15824,15827,A Vampyre Story,PC,2008.0,Adventure,Crimson Cow,0.0,0.01,0.0,0.0,0.02
+513,4035,4037,Ultimate I Spy,Wii,2008.0,Adventure,Scholastic Inc.,0.45,0.0,0.0,0.03,0.49
+514,13294,13296,M&M's Adventure,DS,2008.0,Adventure,Zoo Digital Publishing,0.04,0.0,0.0,0.0,0.05
+515,7808,7810,Avatar: The Last Airbender - Into the Inferno,Wii,2008.0,Adventure,THQ,0.17,0.01,0.0,0.01,0.19
+516,15092,15095,Kimi ga Aruji de Shitsuji ga Ore de: Oshie Nikki,PS2,2008.0,Adventure,Minato Station,0.0,0.0,0.02,0.0,0.02
+517,13353,13355,Shaun the Sheep,DS,2008.0,Adventure,D3Publisher,0.04,0.0,0.0,0.0,0.05
+518,13393,13395,Lux-Pain,DS,2008.0,Adventure,Rising Star Games,0.04,0.0,0.0,0.0,0.05
+519,13522,13524,Hanayori Danshi: Koi Seyo Onago,DS,2008.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.04,0.0,0.04
+520,15957,15960,Simple DS Series Vol. 42: The Haioku Byoutou,DS,2008.0,Adventure,D3Publisher,0.0,0.0,0.02,0.0,0.02
+521,13567,13569,Twilight Syndrome: Kinjiratera Toshi Densetsu,DS,2008.0,Adventure,Spike,0.0,0.0,0.04,0.0,0.04
+522,2637,2639,My Little Pony: Pinkie Pie's Party,DS,2008.0,Adventure,THQ,0.72,0.0,0.0,0.06,0.78
+523,13576,13578,Kanuchi: Shiroki Tsubasa no Shou,PS2,2008.0,Adventure,Idea Factory,0.0,0.0,0.04,0.0,0.04
+524,13594,13596,Igor: The Game,DS,2008.0,Adventure,Legacy Interactive,0.04,0.0,0.0,0.0,0.04
+525,15042,15045,Aria: The Origination ~Aoi Wakusei no El Cielo~,PS2,2008.0,Adventure,Alchemist,0.0,0.0,0.02,0.0,0.02
+526,16575,16578,Neo Angelique Special,PSP,2008.0,Adventure,Tecmo Koei,0.0,0.0,0.01,0.0,0.01
+527,13690,13692,12Riven: The Psi-Climinal of Integral,PS2,2008.0,Adventure,CyberFront,0.0,0.0,0.04,0.0,0.04
+528,13813,13815,99 no Namida,DS,2008.0,Adventure,Namco Bandai Games,0.0,0.0,0.04,0.0,0.04
+529,13814,13816,Clannad,PSP,2008.0,Adventure,Prototype,0.0,0.0,0.04,0.0,0.04
+530,13817,13819,Ookami to Koushinryou: Boku to Horo no Ichinen,DS,2008.0,Adventure,ASCII Media Works,0.0,0.0,0.04,0.0,0.04
+531,15914,15917,Moe Moe 2-ji Taisen (Ryoku) * Deluxe,PSP,2008.0,Adventure,System Soft,0.0,0.0,0.02,0.0,0.02
+532,15483,15486,Aoishiro,PS2,2008.0,Adventure,Success,0.0,0.0,0.02,0.0,0.02
+533,7176,7178,Petz Rescue: Endangered Paradise,DS,2008.0,Adventure,Ubisoft,0.21,0.0,0.0,0.02,0.22
+534,15904,15907,Night Wizard the Video Game: Denial of the World,PS2,2008.0,Adventure,5pb,0.0,0.0,0.02,0.0,0.02
+535,13882,13884,Memories Off 6: T-Wave,PS2,2008.0,Adventure,5pb,0.0,0.0,0.04,0.0,0.04
+536,13897,13899,Story Hour: Fairy Tales,Wii,2008.0,Adventure,Zoo Digital Publishing,0.04,0.0,0.0,0.0,0.04
+537,2338,2340,CSI: Hard Evidence,Wii,2008.0,Adventure,Ubisoft,0.36,0.43,0.0,0.1,0.89
+538,15898,15901,"Nogizaka Haruka no Himitsu Cosplay, Hajime Mashita",PS2,2008.0,Adventure,ASCII Media Works,0.0,0.0,0.02,0.0,0.02
+539,15893,15896,Hiiro no Kakera Portable,PSP,2008.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+540,13940,13942,Aquanaut's Holiday: Kakusareta Kiroku,PS3,2008.0,Adventure,Sony Computer Entertainment,0.0,0.0,0.04,0.0,0.04
+541,13951,13953,Teenage Zombies: Invasion of the Alien Brain Thingys,DS,2008.0,Adventure,Ignition Entertainment,0.03,0.0,0.0,0.0,0.04
+542,13958,13960,Pia Carrot e Youkoso!! 2.5,DC,2008.0,Adventure,NEC Interchannel,0.0,0.0,0.04,0.0,0.04
+543,15526,15529,Prism Ark: Awake,PS2,2008.0,Adventure,5pb,0.0,0.0,0.02,0.0,0.02
+544,13398,13400,Hiiro no Kakera DS,DS,2008.0,Adventure,Idea Factory,0.0,0.0,0.05,0.0,0.05
+545,8873,8875,Sam & Max: Season One,Wii,2008.0,Adventure,JoWood Productions,0.13,0.01,0.0,0.01,0.15
+546,10698,10700,Lucky * Star: Ryouou Gakuen Outousai,PS2,2008.0,Adventure,Kadokawa Shoten,0.0,0.0,0.1,0.0,0.1
+547,10578,10580,Pajama Sam: Don't Fear The Dark,Wii,2008.0,Adventure,Atari,0.09,0.0,0.0,0.01,0.1
+548,16473,16476,Captain Rainbow,Wii,2008.0,Adventure,Nintendo,0.0,0.0,0.01,0.0,0.01
+549,10648,10650,Cate West: The Vanishing Files,DS,2008.0,Adventure,Oxygen Interactive,0.08,0.01,0.0,0.01,0.1
+550,10723,10725,Higurashi no Nakukoru ni Kizuna: Dai-Ni-Kan - Sou,DS,2008.0,Adventure,Alchemist,0.0,0.0,0.1,0.0,0.1
+551,6557,6559,Bratz Ponyz 2,DS,2008.0,Adventure,Game Factory,0.24,0.0,0.0,0.02,0.26
+552,8279,8281,Goosebumps HorrorLand,Wii,2008.0,Adventure,Scholastic Inc.,0.16,0.0,0.0,0.01,0.17
+553,10484,10486,Igor: The Game,Wii,2008.0,Adventure,CDV Software Entertainment,0.09,0.0,0.0,0.01,0.1
+554,10886,10888,Harvey Birdman: Attorney at Law,PSP,2008.0,Adventure,Capcom,0.08,0.0,0.0,0.01,0.09
+555,6078,6080,Penguin no Mondai: Saikyou Penguin Densetsu! A Penguin's Troubles,DS,2008.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.29,0.0,0.29
+556,11028,11030,Agatha Christie: Evil Under the Sun,Wii,2008.0,Adventure,The Adventure Company,0.07,0.02,0.0,0.01,0.09
+557,11153,11155,Harvey Birdman: Attorney at Law,Wii,2008.0,Adventure,Capcom,0.08,0.0,0.0,0.01,0.09
+558,11210,11212,L: the proLogue to DEATH NOTE - Rasen no Wana,DS,2008.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.09,0.0,0.09
+559,11303,11305,Elebits: The Adventures of Kai and Zero,DS,2008.0,Adventure,Konami Digital Entertainment,0.07,0.0,0.0,0.01,0.08
+560,16446,16449,Junjou Romanchika: Koi no Doki Doki Daisakusen,PS2,2008.0,Adventure,Marvelous Interactive,0.0,0.0,0.01,0.0,0.01
+561,16341,16344,H2O+: Footprints in the Sand,PS2,2008.0,Adventure,Kadokawa Shoten,0.0,0.0,0.01,0.0,0.01
+562,9262,9264,Alone in the Dark: Inferno,PS3,2008.0,Adventure,Atari,0.09,0.03,0.0,0.02,0.14
+563,6479,6481,Nancy Drew: The Mystery of the Clue Bender Society,DS,2008.0,Adventure,Codemasters,0.24,0.0,0.0,0.02,0.26
+564,6476,6478,Bolt,PS2,2008.0,Adventure,Disney Interactive Studios,0.09,0.02,0.0,0.16,0.26
+565,9597,9599,Avatar: The Last Airbender - Into the Inferno,DS,2008.0,Adventure,THQ,0.11,0.01,0.0,0.01,0.13
+566,5518,5520,Goosebumps HorrorLand,DS,2008.0,Adventure,Scholastic Inc.,0.31,0.0,0.0,0.02,0.33
+567,9718,9720,DS Yamamura Misa Suspense: Maiko Kogiku - Kisha Katherine - Sougiya Isa Akashi - Koto ni Maru Hana Sanrin: Kyoto Satujin Jinken File,DS,2008.0,Adventure,Tecmo Koei,0.0,0.0,0.12,0.0,0.12
+568,16502,16505,Naraku no Shiro,PS2,2008.0,Adventure,Nippon Ichi Software,0.0,0.0,0.01,0.0,0.01
+569,8609,8611,Time Hollow,DS,2008.0,Adventure,Konami Digital Entertainment,0.03,0.01,0.11,0.0,0.16
+570,16409,16412,"Element Girl: Love, Fashion and Friends",DS,2008.0,Adventure,DTP Entertainment,0.0,0.01,0.0,0.0,0.01
+571,9974,9976,Harvey Birdman: Attorney at Law,PS2,2008.0,Adventure,Capcom,0.06,0.04,0.0,0.01,0.12
+572,9997,9999,Mystery P.I. - Portrait of a Thief,DS,2008.0,Adventure,Unknown,0.11,0.0,0.0,0.01,0.11
+573,5260,5262,Wonder Pets! Save the Animals!,DS,2008.0,Adventure,Take-Two Interactive,0.33,0.0,0.0,0.02,0.36
+574,5237,5239,Ryu Ga Gotoku Kenzan!,PS3,2008.0,Adventure,Sega,0.0,0.0,0.36,0.0,0.36
+575,16401,16404,Memories Off,PSP,2008.0,Adventure,5pb,0.0,0.0,0.01,0.0,0.01
+576,10146,10148,Tokimeki Memorial: Girl's Side 2nd Season,DS,2008.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.11,0.0,0.11
+577,9340,9342,Suzumiya Haruhi no Tomadoi,PS2,2008.0,Adventure,Banpresto,0.0,0.0,0.13,0.0,0.13
+578,5081,5083,Petz Rescue: Ocean Patrol,DS,2008.0,Adventure,Ubisoft,0.35,0.0,0.0,0.03,0.37
+579,16393,16396,Alone in the Dark,PC,2008.0,Adventure,Atari,0.0,0.01,0.0,0.0,0.01
+580,16454,16457,Heart no Kuni no Alice,PS2,2008.0,Adventure,Prototype,0.0,0.0,0.01,0.0,0.01
+581,4260,4262,American Girl: Kit Mystery Challenge!,DS,2008.0,Adventure,THQ,0.42,0.0,0.0,0.03,0.46
+582,9608,9610,428: Fuusa Sareta Shibuya de,Wii,2008.0,Adventure,Sega,0.0,0.0,0.13,0.0,0.13
+583,4069,4071,Jake Power: Fireman,DS,2008.0,Adventure,Ubisoft,0.08,0.35,0.0,0.06,0.49
+584,11539,11541,Code Lyoko: Fall of X.A.N.A.,DS,2008.0,Adventure,Game Factory,0.07,0.0,0.0,0.01,0.08
+585,11612,11614,Nanashi no Game,DS,2008.0,Adventure,Square Enix,0.0,0.0,0.08,0.0,0.08
+586,8907,8909,Nancy Drew: The White Wolf of Icicle Creek,Wii,2008.0,Adventure,Sega,0.14,0.0,0.0,0.01,0.15
+587,11602,11604,Agatha Christie: And Then There Were None,Wii,2008.0,Adventure,The Adventure Company,0.06,0.01,0.0,0.01,0.08
+588,6245,6247,One Piece Unlimited Cruise 1: The Treasure Beneath the Waves,Wii,2008.0,Adventure,Namco Bandai Games,0.0,0.07,0.19,0.01,0.28
+589,11563,11565,Lost in Blue: Shipwrecked,Wii,2008.0,Adventure,Konami Digital Entertainment,0.07,0.0,0.0,0.01,0.08
+590,16232,16235,Zero no Tsukaima: Maigo no Period to Ikusen no Symphony,PS2,2008.0,Adventure,Marvelous Interactive,0.0,0.0,0.01,0.0,0.01
+591,4058,4060,Alone in the Dark,X360,2008.0,Adventure,Atari,0.14,0.3,0.0,0.05,0.49
+592,13465,13467,Runaway: A Twist of Fate,PC,2009.0,Adventure,Focus Home Interactive,0.0,0.04,0.0,0.01,0.04
+593,13470,13472,Tomoyo After: It's a Wonderful Life CS Edition,PSP,2009.0,Adventure,Prototype,0.0,0.0,0.04,0.0,0.04
+594,7726,7728,Shutter Island,PC,2009.0,Adventure,Merscom LLC,0.0,0.17,0.0,0.03,0.2
+595,10121,10123,The Hardy Boys: The Hidden Theft,Wii,2009.0,Adventure,The Adventure Company,0.07,0.03,0.0,0.01,0.11
+596,15767,15770,Still Life 2,PC,2009.0,Adventure,Rondomedia,0.0,0.01,0.0,0.0,0.02
+597,1899,1901,MySims Agents,DS,2009.0,Adventure,Electronic Arts,0.55,0.43,0.0,0.11,1.08
+598,15142,15145,428: Fuusa Sareta Shibuya de,PS3,2009.0,Adventure,Spike,0.0,0.0,0.02,0.0,0.02
+599,13559,13561,428: Fuusa Sareta Shibuya de,PSP,2009.0,Adventure,Spike,0.0,0.0,0.04,0.0,0.04
+600,10174,10176,Machinarium,PC,2009.0,Adventure,Daedalic,0.0,0.09,0.0,0.02,0.11
+601,15971,15974,Memories Off 6: Next Relation,PS2,2009.0,Adventure,5pb,0.0,0.0,0.02,0.0,0.02
+602,15005,15008,11eyes: CrossOver,X360,2009.0,Adventure,5pb,0.0,0.0,0.02,0.0,0.02
+603,16368,16371,Wand of Fortune,PS2,2009.0,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01
+604,4639,4641,JumpStart: Escape from Adventure Island,Wii,2009.0,Adventure,Knowledge Adventure,0.39,0.0,0.0,0.03,0.42
+605,7083,7085,Barbie and the Three Musketeers,Wii,2009.0,Adventure,Activision,0.21,0.0,0.0,0.02,0.23
+606,16397,16400,Heart no Kuni no Alice,PSP,2009.0,Adventure,Prototype,0.0,0.0,0.01,0.0,0.01
+607,15705,15708,Sarah: Keeper of the Unicorn,DS,2009.0,Adventure,DreamCatcher Interactive,0.02,0.0,0.0,0.0,0.02
+608,13427,13429,Grey's Anatomy: The Video Game,DS,2009.0,Adventure,Ubisoft,0.03,0.01,0.0,0.0,0.05
+609,12072,12074,Suzumiya Haruhi no Gekidou,Wii,2009.0,Adventure,Kadokawa Shoten,0.0,0.0,0.07,0.0,0.07
+610,14506,14509,Suzumiya Haruhi no Chokuretsu,DS,2009.0,Adventure,Sega,0.0,0.0,0.03,0.0,0.03
+611,10934,10936,Hakuoki: Demon of the Fleeting Blossom,PSP,2009.0,Adventure,Idea Factory,0.08,0.0,0.0,0.01,0.09
+612,14495,14498,Tokimeki Memorial Girl's Side 1st Love Plus,DS,2009.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.03,0.0,0.03
+613,11586,11588,Tokimeki Memorial 4,PSP,2009.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.08,0.0,0.08
+614,5263,5265,CSI: Deadly Intent - The Hidden Cases,DS,2009.0,Adventure,Ubisoft,0.16,0.16,0.0,0.04,0.35
+615,6017,6019,CSI: Deadly Intent,Wii,2009.0,Adventure,Ubisoft,0.13,0.13,0.0,0.03,0.29
+616,13293,13295,Moon,DS,2009.0,Adventure,Mastiff,0.04,0.0,0.0,0.0,0.05
+617,15175,15178,Doki Majo Plus,DS,2009.0,Adventure,SNK Playmore,0.0,0.0,0.02,0.0,0.02
+618,13314,13316,Wii de Asobu Chibi-Robo!,Wii,2009.0,Adventure,Nintendo,0.0,0.0,0.05,0.0,0.05
+619,16343,16346,Sekirei: Mirai Kara no Okurimono,PS2,2009.0,Adventure,Alchemist,0.0,0.0,0.01,0.0,0.01
+620,15994,15997,S.Y.K: Shinsetsu Saiyuuki,PS2,2009.0,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01
+621,2714,2716,Ace Attorney Investigations: Miles Edgeworth,DS,2009.0,Adventure,Capcom,0.27,0.15,0.3,0.04,0.76
+622,1995,1997,Disney Fairies: Tinker Bell and the Lost Treasure,DS,2009.0,Adventure,Disney Interactive Studios,0.57,0.35,0.02,0.1,1.04
+623,16185,16188,Tantei Jinguuji Saburo: Hai to Diamond,PSP,2009.0,Adventure,Arc System Works,0.0,0.0,0.01,0.0,0.01
+624,13374,13376,Black Mirror 2,PC,2009.0,Adventure,DTP Entertainment,0.0,0.04,0.0,0.01,0.05
+625,10067,10069,The Hardy Boys: Treasure on the Tracks,DS,2009.0,Adventure,Sega,0.11,0.0,0.0,0.01,0.11
+626,16432,16435,Shinseiki Evangelion: Koutetsu no Girlfriend 2nd Portable,PSP,2009.0,Adventure,CyberFront,0.0,0.0,0.01,0.0,0.01
+627,1682,1684,PokéPark Wii: Pikachu's Adventure,Wii,2009.0,Adventure,Nintendo,0.55,0.17,0.42,0.06,1.2
+628,10114,10116,WireWay,DS,2009.0,Adventure,Konami Digital Entertainment,0.1,0.0,0.0,0.01,0.11
+629,5873,5875,Jonas,DS,2009.0,Adventure,Disney Interactive Studios,0.28,0.0,0.0,0.02,0.3
+630,14513,14516,D.C.I.F.: Da Capo Innocent Finale,PS2,2009.0,Adventure,Sweets,0.0,0.0,0.03,0.0,0.03
+631,10462,10464,The Whispered World,PC,2009.0,Adventure,Deep Silver,0.0,0.08,0.0,0.02,0.1
+632,7359,7361,Hannah Montana: The Movie,X360,2009.0,Adventure,Disney Interactive Studios,0.14,0.06,0.0,0.02,0.21
+633,7483,7485,CSI: Deadly Intent,X360,2009.0,Adventure,Ubisoft,0.1,0.08,0.0,0.02,0.21
+634,10444,10446,Agatha Christie: The ABC Murders,DS,2009.0,Adventure,JoWood Productions,0.08,0.01,0.0,0.01,0.1
+635,16370,16373,Gobliiins 4,PC,2009.0,Adventure,Kalypso Media,0.0,0.01,0.0,0.0,0.01
+636,15043,15046,Inkheart,DS,2009.0,Adventure,DreamCatcher Interactive,0.02,0.0,0.0,0.0,0.02
+637,10303,10305,Irozuki Tingle no Koi no Balloon Trip,DS,2009.0,Adventure,Nintendo,0.0,0.0,0.11,0.0,0.11
+638,6594,6596,Tomb Raider: Underworld (Others sales),PS2,2009.0,Adventure,Eidos Interactive,0.0,0.21,0.0,0.04,0.26
+639,4834,4836,Sherlock Holmes: The Mystery of the Mummy,DS,2009.0,Adventure,Focus Home Interactive,0.06,0.3,0.0,0.04,0.4
+640,3945,3947,Hidden Mysteries: Titanic - Secrets of the Fateful Voyage,DS,2009.0,Adventure,GSP,0.12,0.33,0.0,0.06,0.51
+641,15883,15886,Sengoku Hime: Senran ni Mau Otometachi,PS2,2009.0,Adventure,Yeti,0.0,0.0,0.02,0.0,0.02
+642,13991,13993,Harukanaru Toki no Naka de 3: Unmei no Meikyuu Aizouban,PSP,2009.0,Adventure,Tecmo Koei,0.0,0.0,0.04,0.0,0.04
+643,16551,16554,Sweet Honey Coming,PS2,2009.0,Adventure,Kadokawa Shoten,0.0,0.0,0.01,0.0,0.01
+644,15064,15067,Suzumiya Haruhi no Heiretsu,Wii,2009.0,Adventure,Sega,0.0,0.0,0.02,0.0,0.02
+645,10358,10360,The Book of Unwritten Tales,PC,2009.0,Adventure,HMH Interactive,0.0,0.08,0.0,0.02,0.11
+646,14017,14019,Hakuouki: Zuisouroku,PS2,2009.0,Adventure,Idea Factory,0.0,0.0,0.04,0.0,0.04
+647,6809,6811,Imagine: Teacher Class Trip,DS,2009.0,Adventure,Ubisoft,0.1,0.12,0.0,0.02,0.24
+648,7386,7388,Hidden Mysteries: Titanic - Secrets of the Fateful Voyage,Wii,2009.0,Adventure,GSP,0.12,0.07,0.0,0.02,0.21
+649,13986,13988,Chaos;Head Noah,X360,2009.0,Adventure,5pb,0.0,0.0,0.04,0.0,0.04
+650,14253,14256,Midnight Mysteries: The Edgar Allan Poe Conspiracy,PC,2009.0,Adventure,GSP,0.0,0.03,0.0,0.01,0.03
+651,10467,10469,Leisure Suit Larry: Box Office Bust,PS3,2009.0,Adventure,Codemasters,0.06,0.03,0.0,0.01,0.1
+652,6785,6787,Broken Sword: Shadow of the Templars - The Director's Cut,Wii,2009.0,Adventure,Ubisoft,0.12,0.1,0.0,0.02,0.24
+653,11932,11934,Vampire Knight DS,DS,2009.0,Adventure,D3Publisher,0.0,0.0,0.07,0.0,0.07
+654,15109,15112,Grey's Anatomy: The Video Game,PC,2009.0,Adventure,Ubisoft,0.0,0.02,0.0,0.0,0.02
+655,13768,13770,Super Robot Gakuen,DS,2009.0,Adventure,Namco Bandai Games,0.0,0.0,0.04,0.0,0.04
+656,14234,14237,Higurashi no Naku Koro ni Kizuna: Dai-San-Kan - Rasen,DS,2009.0,Adventure,Alchemist,0.0,0.0,0.03,0.0,0.03
+657,11684,11686,Animal Kingdom: Wildlife Expedition,Wii,2009.0,Adventure,Natsume,0.07,0.0,0.0,0.01,0.08
+658,15933,15936,Enkaku Sousa: Sana e no 23 Hiai,PSP,2009.0,Adventure,Sony Computer Entertainment,0.0,0.0,0.02,0.0,0.02
+659,15108,15111,Ookami to Koushinryou: Omiowataru Kaze,DS,2009.0,Adventure,ASCII Media Works,0.0,0.0,0.02,0.0,0.02
+660,15803,15806,Kimi ni Todoke: Sodateru Omoi,DS,2009.0,Adventure,Banpresto,0.0,0.0,0.02,0.0,0.02
+661,13911,13913,Secret Files 2: Puritas Cordis,PC,2009.0,Adventure,Deep Silver,0.0,0.03,0.0,0.01,0.04
+662,10563,10565,Hakuouki Portable,PSP,2009.0,Adventure,Idea Factory,0.0,0.0,0.1,0.0,0.1
+663,15102,15105,Harukanaru Toki no Naka de 3 with Izayoiki Aizouban,PSP,2009.0,Adventure,Tecmo Koei,0.0,0.0,0.02,0.0,0.02
+664,7508,7510,Chronicles of Mystery: Curse of the Ancient Temple,DS,2009.0,Adventure,City Interactive,0.07,0.11,0.0,0.02,0.2
+665,7017,7019,Hannah Montana: The Movie,PS3,2009.0,Adventure,Disney Interactive Studios,0.14,0.06,0.0,0.03,0.23
+666,15812,15815,Tsuyo Kiss 2 Gakki: Swift Love,PS2,2009.0,Adventure,Revolution (Japan),0.0,0.0,0.02,0.0,0.02
+667,16540,16543,15 Days,PC,2009.0,Adventure,DTP Entertainment,0.0,0.01,0.0,0.0,0.01
+668,8475,8477,Leisure Suit Larry: Box Office Bust,X360,2009.0,Adventure,Codemasters,0.14,0.01,0.0,0.01,0.16
+669,10472,10474,Miami Law,DS,2009.0,Adventure,Konami Digital Entertainment,0.1,0.0,0.0,0.01,0.1
+670,14158,14160,Harukanaru Toki no Naka de Yumenoukihashi Special,PS2,2009.0,Adventure,Tecmo Koei,0.0,0.0,0.03,0.0,0.03
+671,4703,4705,James Patterson Women's Murder Club: Games of Passion,DS,2009.0,Adventure,THQ,0.15,0.22,0.0,0.05,0.41
+672,16005,16008,Sengoku Hime: Senran ni Mau Otometachi,PSP,2009.0,Adventure,Yeti,0.0,0.0,0.01,0.0,0.01
+673,4947,4949,SpongeBob vs The Big One: Beach Party Cook Off,DS,2009.0,Adventure,THQ,0.24,0.11,0.0,0.04,0.39
+674,15287,15290,Crime Scene,DS,2009.0,Adventure,Nobilis,0.0,0.02,0.0,0.0,0.02
+675,7074,7076,The Idolm@ster SP: Wandering Star / Perfect Sun / Missing Moon,PSP,2009.0,Adventure,Namco Bandai Games,0.0,0.0,0.23,0.0,0.23
+676,2924,2926,Hannah Montana: The Movie,DS,2009.0,Adventure,Disney Interactive Studios,0.38,0.25,0.0,0.07,0.7
+677,11250,11252,Shadow of Destiny,PSP,2009.0,Adventure,Konami Digital Entertainment,0.07,0.0,0.0,0.01,0.09
+678,12414,12416,Steins;Gate,X360,2009.0,Adventure,5pb,0.0,0.0,0.06,0.0,0.06
+679,4298,4300,iCarly,Wii,2009.0,Adventure,Activision,0.42,0.0,0.0,0.03,0.46
+680,1984,1986,MySims Agents,Wii,2009.0,Adventure,Electronic Arts,0.62,0.32,0.0,0.1,1.05
+681,16314,16317,Really? Really! DS,DS,2009.0,Adventure,Kadokawa Shoten,0.0,0.0,0.01,0.0,0.01
+682,12860,12862,"Murder, She Wrote",PC,2009.0,Adventure,Focus Home Interactive,0.0,0.04,0.0,0.01,0.05
+683,16125,16128,Tantei Jinguuji Saburo DS: Fuserareta Shinjitsu,DS,2009.0,Adventure,Arc System Works,0.0,0.0,0.01,0.0,0.01
+684,16479,16482,Agatha Christie: Peril at End House,PC,2009.0,Adventure,JoWood Productions,0.0,0.01,0.0,0.0,0.01
+685,14648,14651,Tago Akira no Atama no Taisou Dai-2-Shuu: Ginga Oudan Nazotoki Adventure,DS,2009.0,Adventure,Level 5,0.0,0.0,0.03,0.0,0.03
+686,16469,16472,Lucian Bee's: Resurrection Supernova,PS2,2009.0,Adventure,5pb,0.0,0.0,0.01,0.0,0.01
+687,16586,16589,Secret Files 2: Puritas Cordis,DS,2009.0,Adventure,Deep Silver,0.0,0.01,0.0,0.0,0.01
+688,7231,7233,Where's Waldo? The Fantastic Journey,DS,2009.0,Adventure,Ubisoft,0.2,0.0,0.0,0.02,0.22
+689,7869,7871,Where's Waldo? The Fantastic Journey,Wii,2009.0,Adventure,Ubisoft,0.18,0.0,0.0,0.01,0.19
+690,12468,12470,Grey's Anatomy: The Video Game,Wii,2009.0,Adventure,Ubisoft,0.05,0.01,0.0,0.0,0.06
+691,9740,9742,Escape The Museum,Wii,2009.0,Adventure,Majesco Entertainment,0.11,0.01,0.0,0.01,0.12
+692,8601,8603,Sherlock Holmes vs. Jack the Ripper,X360,2009.0,Adventure,Focus Home Interactive,0.11,0.04,0.0,0.01,0.16
+693,6589,6591,The Backyardigans,DS,2009.0,Adventure,Take-Two Interactive,0.24,0.0,0.0,0.02,0.26
+694,14926,14929,Ghost Pirates of Vooju Island,PC,2009.0,Adventure,DTP Entertainment,0.0,0.02,0.0,0.0,0.02
+695,14734,14737,Kintaihi Shounen no Jiken: Kyakusen Eris-Gou no Sangeki,DS,2009.0,Adventure,Creative Core,0.0,0.0,0.03,0.0,0.03
+696,9446,9448,Amagami,PS2,2009.0,Adventure,Enterbrain,0.0,0.0,0.13,0.0,0.13
+697,14672,14675,Vitamin Z,PS2,2009.0,Adventure,D3Publisher,0.0,0.0,0.03,0.0,0.03
+698,16467,16470,Memories Off #5: Togireta Film,PSP,2009.0,Adventure,5pb,0.0,0.0,0.01,0.0,0.01
+699,16421,16424,Uchida Yasuou Mystery: Meitantei Senken Mitsuhiko Series: Fukutoshin Renzoku Satsujin Jiken,DS,2009.0,Adventure,D3Publisher,0.0,0.0,0.01,0.0,0.01
+700,15262,15265,Higurashi Daybreak Portable Mega Edition,PSP,2009.0,Adventure,Alchemist,0.0,0.0,0.02,0.0,0.02
+701,9022,9024,Okaeri! Chibi-Robo! Happy Richie Oosouji,DS,2009.0,Adventure,Nintendo,0.0,0.0,0.14,0.0,0.14
+702,16088,16091,Hiiro no Kakera: Shin Tamayori Hime Denshou,PS2,2009.0,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01
+703,11761,11763,Again,DS,2009.0,Adventure,Ackkstudios,0.07,0.0,0.0,0.0,0.07
+704,14689,14692,The Island of Dr. Frankenstein,Wii,2009.0,Adventure,Storm City Games,0.03,0.0,0.0,0.0,0.03
+705,2997,2999,Hidden Objects: Mystery Stories,DS,2009.0,Adventure,GSP,0.19,0.43,0.0,0.05,0.68
+706,8211,8213,Petz: Horseshoe Ranch,DS,2009.0,Adventure,Ubisoft,0.16,0.0,0.0,0.01,0.17
+707,11259,11261,Aibou DS,DS,2009.0,Adventure,Tecmo Koei,0.0,0.0,0.08,0.0,0.08
+708,13068,13070,The Idolm@ster: Dearly Stars,DS,2009.0,Adventure,Namco Bandai Games,0.0,0.0,0.05,0.0,0.05
+709,9935,9937,The Clique: Diss and Make Up,DS,2009.0,Adventure,Warner Bros. Interactive Entertainment,0.11,0.0,0.0,0.01,0.12
+710,16338,16341,Fullmetal Alchemist: Prince of the Dawn,Wii,2009.0,Adventure,Square Enix,0.0,0.0,0.01,0.0,0.01
+711,11460,11462,Cate West: The Vanishing Files,Wii,2009.0,Adventure,Oxygen Interactive,0.07,0.0,0.0,0.01,0.08
+712,7218,7220,Cursed Mountain,Wii,2009.0,Adventure,Deep Silver,0.09,0.1,0.0,0.02,0.22
+713,14574,14577,Secret Files 2: Puritas Cordis,Wii,2009.0,Adventure,Deep Silver,0.0,0.03,0.0,0.0,0.03
+714,9491,9493,Barbie and the Three Musketeers,DS,2009.0,Adventure,Activision,0.12,0.0,0.0,0.01,0.13
+715,14597,14600,Tago Akira no Atama no Taisou Dai-1-Shuu: Nazotoki Sekai Isshuu Ryokou,DS,2009.0,Adventure,Level 5,0.0,0.0,0.03,0.0,0.03
+716,16337,16340,Shinseiki Evangelion: Koutetsu no Girlfriend Tokubetsu-Hen Portable,PSP,2009.0,Adventure,CyberFront,0.0,0.0,0.01,0.0,0.01
+717,16031,16034,Kono Aozora ni Yakusoku o: Tenohira no Rakuen,PSP,2009.0,Adventure,TGL,0.0,0.0,0.01,0.0,0.01
+718,13045,13047,Little Busters! Converted Edition,PS2,2009.0,Adventure,Prototype,0.0,0.0,0.05,0.0,0.05
+719,14572,14575,Hayate no Gotoku! Nightmare Paradise,PSP,2009.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.03,0.0,0.03
+720,5300,5302,Hannah Montana: The Movie,Wii,2009.0,Adventure,Disney Interactive Studios,0.13,0.18,0.0,0.04,0.35
+721,6756,6758,Disney's A Christmas Carol,DS,2009.0,Adventure,Disney Interactive Studios,0.22,0.01,0.0,0.02,0.25
+722,15702,15705,Planetarian: Chiisana Hoshi no Yume,PSP,2009.0,Adventure,Prototype,0.0,0.0,0.02,0.0,0.02
+723,11446,11448,ToraDora Portable!,PSP,2009.0,Adventure,Namco Bandai Games,0.0,0.0,0.08,0.0,0.08
+724,4541,4543,"999: Nine Hours, Nine Persons, Nine Doors",DS,2009.0,Adventure,ChunSoft,0.37,0.0,0.03,0.03,0.43
+725,12312,12314,Another Code R: A Journey into Lost Memories,Wii,2009.0,Adventure,Nintendo,0.0,0.03,0.03,0.0,0.06
+726,7857,7859,"Boku no Natsuyasumi 4: Seitouchi Shounen Tanteidan, Boku to Himitsu no Chizu",PSP,2009.0,Adventure,Sony Computer Entertainment,0.0,0.0,0.19,0.0,0.19
+727,11391,11393,Meitantei Conan & Kindaichi Shounen no Jikenbou: Meguri au Futari no Meitantei,DS,2009.0,Adventure,Namco Bandai Games,0.0,0.0,0.08,0.0,0.08
+728,12977,12979,Mr Bean's Wacky World of Wii,Wii,2009.0,Adventure,Blast! Entertainment Ltd,0.0,0.05,0.0,0.0,0.05
+729,16412,16415,Time Leap,X360,2009.0,Adventure,Prototype,0.0,0.0,0.01,0.0,0.01
+730,9663,9665,Calling,Wii,2009.0,Adventure,Konami Digital Entertainment,0.07,0.04,0.0,0.01,0.12
+731,8218,8220,Broken Sword: Shadows of the Templars - The Director's Cut,DS,2009.0,Adventure,Ubisoft,0.07,0.09,0.0,0.02,0.17
+732,2809,2811,iCarly,DS,2009.0,Adventure,Activision,0.67,0.01,0.0,0.05,0.73
+733,9268,9270,Vampire Moon: The Mystery of the Hidden Sun,DS,2010.0,Adventure,City Interactive,0.12,0.01,0.0,0.01,0.14
+734,15778,15781,Yoake Yori Ruriiro na Portable,PSP,2010.0,Adventure,Kadokawa Shoten,0.0,0.0,0.02,0.0,0.02
+735,15524,15527,Seitokai no Ichizon: DS-suru Seitokai,DS,2010.0,Adventure,Kadokawa Shoten,0.0,0.0,0.02,0.0,0.02
+736,11856,11858,Lupin Sansei: Shijou Saidai no Zunousen,DS,2010.0,Adventure,Namco Bandai Games,0.0,0.0,0.07,0.0,0.07
+737,15564,15567,Tantei Opera: Milky Holmes,PSP,2010.0,Adventure,Unknown,0.0,0.0,0.02,0.0,0.02
+738,15549,15552,Miyako,PSP,2010.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+739,15614,15617,Koisuru Otome to Shugo no Tate Portable,PSP,2010.0,Adventure,Alchemist,0.0,0.0,0.02,0.0,0.02
+740,7207,7209,CSI: Fatal Conspiracy,Wii,2010.0,Adventure,Ubisoft,0.12,0.08,0.0,0.02,0.22
+741,14797,14800,Clannad: Mitsumi Mamoru Sakamichi de - Gekan,PSP,2010.0,Adventure,Prototype,0.0,0.0,0.03,0.0,0.03
+742,16237,16240,Hiiro no Kakera: Shin Tamayori Hime Denshou Portable,PSP,2010.0,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01
+743,8647,8649,Dragon's Lair Trilogy,Wii,2010.0,Adventure,Destineer,0.15,0.0,0.0,0.01,0.16
+744,15550,15553,Motto NUGA-CEL!,PSP,2010.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+745,15552,15555,11eyes: CrossOver,PSP,2010.0,Adventure,5pb,0.0,0.0,0.02,0.0,0.02
+746,14888,14891,Tenkaichi * Sengoku Lovers,DS,2010.0,Adventure,Rocket Company,0.0,0.0,0.03,0.0,0.03
+747,16392,16395,Wand of Fortune: Mirai e no Prologue,PS2,2010.0,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01
+748,9946,9948,Lost Horizon,PC,2010.0,Adventure,Deep Silver,0.0,0.1,0.0,0.02,0.12
+749,6899,6901,Hello Kitty Seasons,Wii,2010.0,Adventure,Namco Bandai Games,0.16,0.06,0.0,0.02,0.24
+750,6408,6410,Megamind: The Blue Defender,DS,2010.0,Adventure,THQ,0.19,0.05,0.0,0.02,0.27
+751,15719,15722,Suzunone Seven: Rebirth Knot,PS2,2010.0,Adventure,Alchemist,0.0,0.0,0.02,0.0,0.02
+752,16255,16258,No Fate! Only the Power of Will,X360,2010.0,Adventure,Alchemist,0.0,0.0,0.01,0.0,0.01
+753,15463,15466,Hana to Otome ni Shukufuku o: Harekaze no Okurimono,PS2,2010.0,Adventure,Alchemist,0.0,0.0,0.02,0.0,0.02
+754,14921,14924,Otometeki Koi Kakumei * Love Revo! Portable,PSP,2010.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+755,15710,15713,Ginga Tetsudou 999 DS,DS,2010.0,Adventure,Culture Brain,0.0,0.0,0.02,0.0,0.02
+756,14434,14437,StormLover,PSP,2010.0,Adventure,D3Publisher,0.0,0.0,0.03,0.0,0.03
+757,14612,14615,Higurashi no Naku Koro ni Kizuna: Dai-Yon-Kan - Kizuna,DS,2010.0,Adventure,Alchemist,0.0,0.0,0.03,0.0,0.03
+758,14401,14404,Kiniro no Corda 3,PS2,2010.0,Adventure,Tecmo Koei,0.0,0.0,0.03,0.0,0.03
+759,15701,15704,GA - Geijutsuka Art Design Class: Slapstick Wonder Land,PSP,2010.0,Adventure,Russel,0.0,0.0,0.02,0.0,0.02
+760,14922,14925,Clover no Kuni no Alice: Wonderful Wonder World,PS2,2010.0,Adventure,Prototype,0.0,0.0,0.02,0.0,0.02
+761,11879,11881,Hakuouki: Yuugi Roku,PSP,2010.0,Adventure,Idea Factory,0.0,0.0,0.07,0.0,0.07
+762,15845,15848,W.L.O. Sekai Renai Kikousen,X360,2010.0,Adventure,5pb,0.0,0.0,0.02,0.0,0.02
+763,11745,11747,Boku no Natsuyasumi Portable 2: Nazo Nazo Shimai to Chinbotsusen no Himitsu,PSP,2010.0,Adventure,Sony Computer Entertainment,0.0,0.0,0.07,0.0,0.07
+764,14565,14568,Winx Club: Rockstars,DS,2010.0,Adventure,Namco Bandai Games,0.0,0.03,0.0,0.0,0.03
+765,15478,15481,Kazoku Keikaku,PSP,2010.0,Adventure,CyberFront,0.0,0.0,0.02,0.0,0.02
+766,14509,14512,S.Y.K Renshouden,PS2,2010.0,Adventure,Idea Factory,0.0,0.0,0.03,0.0,0.03
+767,447,448,Heavy Rain,PS3,2010.0,Adventure,Sony Computer Entertainment,1.29,1.27,0.06,0.5,3.12
+768,15041,15044,Vitamin Z Revolution,PSP,2010.0,Adventure,D3Publisher,0.0,0.0,0.02,0.0,0.02
+769,15724,15727,Vitamin X Evolution Plus,PSP,2010.0,Adventure,D3Publisher,0.0,0.0,0.02,0.0,0.02
+770,11752,11754,Hakuouki DS,DS,2010.0,Adventure,Idea Factory,0.0,0.0,0.07,0.0,0.07
+771,14674,14677,Shin Koihime Musou: Otome Ryouran * Sangokushi Engi - Wu-Hen,PSP,2010.0,Adventure,Yeti,0.0,0.0,0.03,0.0,0.03
+772,14266,14269,House M.D.,DS,2010.0,Adventure,Mindscape,0.02,0.01,0.0,0.0,0.03
+773,15770,15773,Moujuutsukai to Oujisama,PS2,2010.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+774,15022,15025,Clannad: Mitsumi Mamoru Sakamichi de - Joukan,PSP,2010.0,Adventure,Prototype,0.0,0.0,0.02,0.0,0.02
+775,9441,9443,Megamind: The Blue Defender,PSP,2010.0,Adventure,THQ,0.08,0.03,0.0,0.02,0.13
+776,6844,6846,Megamind: Mega Team Unite,Wii,2010.0,Adventure,THQ,0.16,0.06,0.0,0.02,0.24
+777,11925,11927,Vampire Legends: Power of Three,DS,2010.0,Adventure,THQ,0.07,0.0,0.0,0.0,0.07
+778,14387,14390,Shin Koihime Musou: Otome Ryouran * Sangokushi Engi - Wei-Hen,PSP,2010.0,Adventure,Yeti,0.0,0.0,0.03,0.0,0.03
+779,14980,14983,Lilpri DS: Hime-Chen! Apple Pink,DS,2010.0,Adventure,Sega,0.0,0.0,0.02,0.0,0.02
+780,15744,15747,Cross + Channel,PSP,2010.0,Adventure,CyberFront,0.0,0.0,0.02,0.0,0.02
+781,5340,5342,Disney Fairies: Tinker Bell and the Great Fairy Rescue,DS,2010.0,Adventure,Disney Interactive Studios,0.18,0.14,0.0,0.03,0.35
+782,14357,14360,Chaos;Head - Love Chu*Chu!,X360,2010.0,Adventure,5pb,0.0,0.0,0.03,0.0,0.03
+783,15736,15739,Memories Off: Yubikiri no Kioku,X360,2010.0,Adventure,5pb,0.0,0.0,0.02,0.0,0.02
+784,8571,8573,Doctor Who: Evacuation Earth,DS,2010.0,Adventure,Asylum Entertainment,0.0,0.14,0.0,0.02,0.16
+785,14637,14640,Sokukoku no Kusabi: Hiiro no Kakera 3 Portable,PSP,2010.0,Adventure,Idea Factory,0.0,0.0,0.03,0.0,0.03
+786,14385,14388,Last Escort: Club Katze,PSP,2010.0,Adventure,D3Publisher,0.0,0.0,0.03,0.0,0.03
+787,9424,9426,Midnight Mysteries: The Edgar Allan Poe Conspiracy,DS,2010.0,Adventure,Foreign Media Games,0.08,0.04,0.0,0.01,0.13
+788,16288,16291,ef - a fairy tale of the two.,PS2,2010.0,Adventure,Comfort,0.0,0.0,0.01,0.0,0.01
+789,7610,7612,CSI: Unsolved!,DS,2010.0,Adventure,Ubisoft,0.13,0.06,0.0,0.02,0.2
+790,14064,14066,Shin Koihime Musou: Otome Ryouran * Sangokushi Engi - Shu-Hen,PSP,2010.0,Adventure,Yeti,0.0,0.0,0.04,0.0,0.04
+791,15388,15391,Uta no * Prince-Sama,PSP,2010.0,Adventure,Broccoli,0.0,0.0,0.02,0.0,0.02
+792,12866,12868,Hakuouki: Reimeiroku,PS2,2010.0,Adventure,Idea Factory,0.0,0.0,0.05,0.0,0.05
+793,15224,15227,Umineko no Naku Koro ni: Majo to Suiri no Rinbukyoku,PS3,2010.0,Adventure,Alchemist,0.0,0.0,0.02,0.0,0.02
+794,15416,15419,Pastel Chime Continue,PSP,2010.0,Adventure,5pb,0.0,0.0,0.02,0.0,0.02
+795,12898,12900,Samantha Swift and the Hidden Roses of Athena,DS,2010.0,Adventure,Unknown,0.04,0.01,0.0,0.0,0.05
+796,8191,8193,Fancy Nancy: Tea Party Time!,DS,2010.0,Adventure,THQ,0.17,0.0,0.0,0.01,0.18
+797,13022,13024,Trick x Logic: Season 1,PSP,2010.0,Adventure,Sony Computer Entertainment,0.0,0.0,0.05,0.0,0.05
+798,13036,13038,Hakuoki: Stories of the Shinsengumi,PS3,2010.0,Adventure,Idea Factory,0.02,0.0,0.03,0.0,0.05
+799,15217,15220,Otome wa Oanesama Boku ni Koi Shiteru Portable,PSP,2010.0,Adventure,Alchemist,0.0,0.0,0.02,0.0,0.02
+800,13074,13076,Sam & Max: Beyond Time and Space,Wii,2010.0,Adventure,Atari,0.05,0.0,0.0,0.0,0.05
+801,16027,16030,Himawari: Pebble in the Sky Portable,PSP,2010.0,Adventure,Kadokawa Shoten,0.0,0.0,0.01,0.0,0.01
+802,13091,13093,Marriage Royale: Prism Story,PSP,2010.0,Adventure,ASCII Media Works,0.0,0.0,0.05,0.0,0.05
+803,16021,16024,Wand of Fortune Portable,PSP,2010.0,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01
+804,3798,3800,Alice in Wonderland,Wii,2010.0,Adventure,Disney Interactive Studios,0.27,0.21,0.0,0.05,0.53
+805,13135,13137,Odoru Daisousasen The Game: Sensuikan ni Sennyuu Seyo!,DS,2010.0,Adventure,Namco Bandai Games,0.0,0.0,0.05,0.0,0.05
+806,13142,13144,Corpse Party: Blood Covered - Repeated Fear,PSP,2010.0,Adventure,5pb,0.0,0.0,0.05,0.0,0.05
+807,16006,16009,Secret Game Portable,PSP,2010.0,Adventure,Yeti,0.0,0.0,0.01,0.0,0.01
+808,13158,13160,Durarara!! 3-way Standoff,PSP,2010.0,Adventure,ASCII Media Works,0.0,0.0,0.05,0.0,0.05
+809,7824,7826,Tokimeki Memorial Girl's Side 3rd Story,DS,2010.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.19,0.0,0.19
+810,13202,13204,White Album: Tsuzurareru Fuyu no Omoide,PS3,2010.0,Adventure,Aqua Plus,0.0,0.0,0.05,0.0,0.05
+811,10919,10921,Hakuouki: Zuisouroku Portable,PSP,2010.0,Adventure,Idea Factory,0.0,0.0,0.09,0.0,0.09
+812,16262,16265,"Hanayaka Kana, Ware ga Ichizoku",PSP,2010.0,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01
+813,16004,16007,Wand of Fortune: Mirai e no Prologue Portable,PSP,2010.0,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01
+814,7902,7904,Escape The Museum,DS,2010.0,Adventure,Astragon,0.05,0.12,0.0,0.02,0.19
+815,7919,7921,CSI: Fatal Conspiracy,PS3,2010.0,Adventure,Ubisoft,0.11,0.05,0.0,0.02,0.19
+816,7037,7039,Last Window: The Secret of Cape West,DS,2010.0,Adventure,Nintendo,0.0,0.12,0.09,0.02,0.23
+817,12755,12757,The Mysterious Case of Dr. Jekyll and Mr. Hyde,DS,2010.0,Adventure,O-Games,0.02,0.03,0.0,0.01,0.06
+818,12191,12193,Lucian Bee's: Justice Yellow / Evil Violet,PS2,2010.0,Adventure,5pb,0.0,0.0,0.07,0.0,0.07
+819,15367,15370,Princess Isabella: A Witch's Curse,Wii,2010.0,Adventure,Destineer,0.02,0.0,0.0,0.0,0.02
+820,7999,8001,Hello Kitty: Birthday Adventures,DS,2010.0,Adventure,Namco Bandai Games,0.06,0.11,0.0,0.02,0.18
+821,3495,3497,Rooms: The Main Building,DS,2010.0,Adventure,Nintendo,0.1,0.41,0.01,0.06,0.58
+822,11454,11456,Horrid Henry's Horrid Adventure,DS,2010.0,Adventure,Asylum Entertainment,0.0,0.07,0.0,0.01,0.08
+823,16291,16294,FairlyLife: MiracleDays,PSP,2010.0,Adventure,Piacci,0.0,0.0,0.01,0.0,0.01
+824,15297,15300,Tsuyo Kiss 2 Portable,PSP,2010.0,Adventure,NetRevo,0.0,0.0,0.02,0.0,0.02
+825,15364,15367,Jinguuji Saburou DS: Akai Chou,DS,2010.0,Adventure,Arc System Works,0.0,0.0,0.02,0.0,0.02
+826,6214,6216,iCarly 2: iJoin The Click!,DS,2010.0,Adventure,Activision,0.26,0.01,0.0,0.02,0.28
+827,12415,12417,A New Beginning,PC,2010.0,Adventure,Deep Silver,0.0,0.05,0.0,0.01,0.06
+828,16116,16119,Tears to Tiara: Kakan no Daichi Portable,PSP,2010.0,Adventure,Aqua Plus,0.0,0.0,0.01,0.0,0.01
+829,15202,15205,Tale of a Hero,PC,2010.0,Adventure,Daedalic,0.0,0.02,0.0,0.01,0.02
+830,15286,15289,Ore no Yome: Anata Dake no Hanayome,X360,2010.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+831,16103,16106,Kana: Imouto,PSP,2010.0,Adventure,CyberFront,0.0,0.0,0.01,0.0,0.01
+832,11275,11277,Martian Panic,Wii,2010.0,Adventure,Unknown,0.08,0.0,0.0,0.0,0.08
+833,12553,12555,Rooms: The Main Building,Wii,2010.0,Adventure,Hudson Soft,0.06,0.0,0.0,0.0,0.06
+834,11268,11270,Disgaea Infinite,PSP,2010.0,Adventure,Nippon Ichi Software,0.07,0.0,0.01,0.01,0.08
+835,15277,15280,"Renai Banchou: Inochi Meishi, Koiseyo Otome! Love is Power!!!",PSP,2010.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+836,11218,11220,Princess Isabella: A Witch's Curse,DS,2010.0,Adventure,GSP,0.05,0.03,0.0,0.01,0.09
+837,16089,16092,Datenshi no Amai Yuuwaku x Kaikan Phrase,DS,2010.0,Adventure,FuRyu,0.0,0.0,0.01,0.0,0.01
+838,12671,12673,Gormiti: The Lords of Nature!,DS,2010.0,Adventure,Konami Digital Entertainment,0.05,0.0,0.0,0.0,0.06
+839,3014,3016,Club Penguin: Elite Penguin Force - Herbert's Revenge,DS,2010.0,Adventure,Disney Interactive Studios,0.4,0.22,0.0,0.06,0.67
+840,16082,16085,Sakura Sakura: Haru Urara,PSP,2010.0,Adventure,GN Software,0.0,0.0,0.01,0.0,0.01
+841,7933,7935,Doctor Who: Return to Earth,Wii,2010.0,Adventure,Asylum Entertainment,0.0,0.16,0.0,0.02,0.19
+842,16111,16114,Last Escort: Club Katze,PS2,2010.0,Adventure,D3Publisher,0.0,0.0,0.01,0.0,0.01
+843,15986,15989,Sora no Otoshimono: DokiDoki Summer Vacation,PSP,2010.0,Adventure,Kadokawa Shoten,0.0,0.0,0.01,0.0,0.01
+844,7814,7816,Majin and the Forsaken Kingdom,X360,2010.0,Adventure,Namco Bandai Games,0.14,0.03,0.0,0.01,0.19
+845,13680,13682,Shukufuku no Campanella Portable,PSP,2010.0,Adventure,Kadokawa Shoten,0.0,0.0,0.04,0.0,0.04
+846,15434,15437,Horrid Henry: Missions of Mischief,Wii,2010.0,Adventure,SouthPeak Games,0.0,0.02,0.0,0.0,0.02
+847,13643,13645,Sherlock Holmes: Secret of The Silver Earring,Wii,2010.0,Adventure,Focus Home Interactive,0.0,0.04,0.0,0.01,0.04
+848,13666,13668,Little Busters! Converted Edition,PSP,2010.0,Adventure,Prototype,0.0,0.0,0.04,0.0,0.04
+849,15123,15126,Princess Saver! Eternal Love for My Lady,PS2,2010.0,Adventure,Comfort,0.0,0.0,0.02,0.0,0.02
+850,15114,15117,Chaos;Head Noah,PSP,2010.0,Adventure,5pb,0.0,0.0,0.02,0.0,0.02
+851,11994,11996,Crime Lab: Body of Evidence,DS,2010.0,Adventure,City Interactive,0.05,0.01,0.0,0.0,0.07
+852,8108,8110,Horrid Henry: Missions of Mischief,DS,2010.0,Adventure,SouthPeak Games,0.01,0.15,0.0,0.02,0.18
+853,15952,15955,Narcissus: Moshimo Ashita ga Runara,PSP,2010.0,Adventure,Kadokawa Shoten,0.0,0.0,0.02,0.0,0.02
+854,4109,4111,OkamiDen,DS,2010.0,Adventure,Capcom,0.25,0.07,0.13,0.03,0.48
+855,11503,11505,Witches & Vampires: The Secrets of Ashburry,DS,2010.0,Adventure,DTP Entertainment,0.05,0.02,0.0,0.01,0.08
+856,6904,6906,Sherlock Holmes and the Mystery of Osborne House,DS,2010.0,Adventure,Focus Home Interactive,0.07,0.14,0.0,0.03,0.24
+857,13791,13793,CSI: Fatal Conspiracy,PC,2010.0,Adventure,Ubisoft,0.0,0.03,0.0,0.01,0.04
+858,16434,16437,Tenjin Ranman: Happy GO Lucky!!,PSP,2010.0,Adventure,Russel,0.0,0.0,0.01,0.0,0.01
+859,13805,13807,Zac to Ombra: Maboroshi no Yuuenchi,DS,2010.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.04,0.0,0.04
+860,10558,10560,Penguin no Mondai: The World,DS,2010.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.1,0.0,0.1
+861,13841,13843,Blue Roses: Yousei to Aoi Hitomi no Senshitachi,PSP,2010.0,Adventure,Nippon Ichi Software,0.0,0.0,0.04,0.0,0.04
+862,15910,15913,Shin Hisui no Shizuku: Hiiro no Kakera 2 Portable,PSP,2010.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+863,15318,15321,Nisenochigiri,PSP,2010.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+864,16371,16374,S.Y.K: Shinsetsu Saiyuuki Portable,PSP,2010.0,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01
+865,13961,13963,Da Capo I & II Plus Situation Portable,PSP,2010.0,Adventure,Kadokawa Shoten,0.0,0.0,0.04,0.0,0.04
+866,14015,14017,Trick x Logic: Season 2,PSP,2010.0,Adventure,Sony Computer Entertainment,0.0,0.0,0.04,0.0,0.04
+867,15130,15133,Twinkle * Crusaders GoGo!,PSP,2010.0,Adventure,ASCII Media Works,0.0,0.0,0.02,0.0,0.02
+868,15955,15958,"Sharin no Kuni, Himawari no Shoujo",X360,2010.0,Adventure,5pb,0.0,0.0,0.02,0.0,0.02
+869,3982,3984,Alice in Wonderland,DS,2010.0,Adventure,Disney Interactive Studios,0.27,0.18,0.0,0.05,0.5
+870,16365,16368,Survivor,Wii,2010.0,Adventure,Valcon Games,0.01,0.0,0.0,0.0,0.01
+871,16358,16361,Ishin Renka: Ryouma Gaiden,PSP,2010.0,Adventure,D3Publisher,0.0,0.0,0.01,0.0,0.01
+872,4619,4621,Ghost Trick: Phantom Detective,DS,2010.0,Adventure,Capcom,0.2,0.08,0.12,0.03,0.42
+873,7786,7788,Hidden Mysteries: Vampire Secrets,DS,2010.0,Adventure,Astragon,0.06,0.11,0.0,0.02,0.19
+874,8355,8357,CSI: Fatal Conspiracy,X360,2010.0,Adventure,Ubisoft,0.11,0.04,0.0,0.01,0.17
+875,2689,2691,Raving Rabbids: Travel in Time,Wii,2010.0,Adventure,Ubisoft,0.22,0.47,0.0,0.08,0.76
+876,5981,5983,Kurohyou: Ryu ga Gotoku Shinshou,PSP,2010.0,Adventure,Sega,0.0,0.0,0.29,0.0,0.29
+877,15170,15173,Dream Chronicles,DS,2010.0,Adventure,Zoo Games,0.02,0.0,0.0,0.0,0.02
+878,5985,5987,Majin and the Forsaken Kingdom,PS3,2010.0,Adventure,Namco Bandai Games,0.09,0.14,0.01,0.05,0.29
+879,13538,13540,B's-LOG Party♪,PSP,2010.0,Adventure,Idea Factory,0.0,0.0,0.04,0.0,0.04
+880,15972,15975,Scared Rider Xechs,PS2,2010.0,Adventure,RED Entertainment,0.0,0.0,0.02,0.0,0.02
+881,15974,15977,Misshitsu no Sacrifice,PSP,2010.0,Adventure,D3Publisher,0.0,0.0,0.02,0.0,0.02
+882,10825,10827,Kiniro no Corda 3,PSP,2010.0,Adventure,Tecmo Koei,0.0,0.0,0.09,0.0,0.09
+883,13542,13544,Gormiti: The Lords of Nature!,Wii,2010.0,Adventure,Konami Digital Entertainment,0.04,0.0,0.0,0.0,0.04
+884,15960,15963,So-Ra-No-Wo-To: Otome no Gojuusou,PSP,2010.0,Adventure,Compile Heart,0.0,0.0,0.02,0.0,0.02
+885,10718,10720,iCarly 2: iJoin The Click!,Wii,2010.0,Adventure,Activision,0.08,0.01,0.0,0.01,0.1
+886,13581,13583,Saki Portable,PSP,2010.0,Adventure,Alchemist,0.0,0.0,0.04,0.0,0.04
+887,8922,8924,Ore no Imouto ga Konna ni Kawaii wake ga Nai Portable,PSP,2011.0,Adventure,Banpresto,0.0,0.0,0.15,0.0,0.15
+888,15455,15458,StormLover Karen!!,PSP,2011.0,Adventure,D3Publisher,0.0,0.0,0.02,0.0,0.02
+889,8729,8731,James Noir's Hollywood Crimes,3DS,2011.0,Adventure,Ubisoft,0.07,0.07,0.0,0.02,0.15
+890,1454,1456,The ICO & Shadow of the Colossus Collection,PS3,2011.0,Adventure,Sony Computer Entertainment,0.67,0.37,0.13,0.17,1.35
+891,15059,15062,Dunamis 15,PS3,2011.0,Adventure,5pb,0.0,0.0,0.02,0.0,0.02
+892,15189,15192,Heart no Kuni no Alice Anniversary Ver.: Wonderful Wonder World,PSP,2011.0,Adventure,Quinrose,0.0,0.0,0.02,0.0,0.02
+893,15293,15296,Moujuutsukai to Oujisama: Snow Bride,PS2,2011.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+894,9321,9323,NCIS,Wii,2011.0,Adventure,Ubisoft,0.08,0.04,0.0,0.01,0.14
+895,9208,9210,NCIS,X360,2011.0,Adventure,Ubisoft,0.1,0.03,0.0,0.01,0.14
+896,7122,7124,The Magic School Bus: Oceans,DS,2011.0,Adventure,Scholastic Inc.,0.21,0.0,0.0,0.01,0.23
+897,15177,15180,Love Once: Mermaid's Tears,PS3,2011.0,Adventure,Unknown,0.0,0.0,0.02,0.0,0.02
+898,15283,15286,Gekka Ryouran Romance,PSP,2011.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+899,14894,14897,Angelique: Maren no Rokukishi,PSP,2011.0,Adventure,Idea Factory,0.0,0.0,0.03,0.0,0.03
+900,8783,8785,Amagami,PSP,2011.0,Adventure,Kadokawa Shoten,0.0,0.0,0.15,0.0,0.15
+901,15379,15382,Joker no Kuni no Alice: Wonderful Wonder World,PSP,2011.0,Adventure,Quinrose,0.0,0.0,0.02,0.0,0.02
+902,15029,15032,Okashi na Shima no Peter Pan: Sweet Never Land,PSP,2011.0,Adventure,Quinrose,0.0,0.0,0.02,0.0,0.02
+903,15024,15027,Are You Alice?,PSP,2011.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+904,9070,9072,Uta no * Prince-Sama: Repeat,PSP,2011.0,Adventure,Broccoli,0.0,0.0,0.14,0.0,0.14
+905,14958,14961,Kami Naru Kimi to,PSP,2011.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+906,15019,15022,Cross Channel: In Memory of All People,X360,2011.0,Adventure,CyberFront,0.0,0.0,0.02,0.0,0.02
+907,15214,15217,Moujuutsukai to Oujisama Portable,PSP,2011.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+908,14934,14937,Vampire Mansion: Linda Hyde,DS,2011.0,Adventure,Unknown,0.0,0.02,0.0,0.0,0.02
+909,9129,9131,Akiba's Trip,PSP,2011.0,Adventure,Acquire,0.0,0.0,0.14,0.0,0.14
+910,15889,15892,Sora no Otoshimono Forte: Dreamy Season,DS,2011.0,Adventure,Kadokawa Shoten,0.0,0.0,0.02,0.0,0.02
+911,14844,14847,Magicka Collection,PC,2011.0,Adventure,Unknown,0.0,0.02,0.0,0.0,0.03
+912,16050,16053,Coronation Street: The Mystery of the Missing Hotpot Recipe,PC,2011.0,Adventure,Avanquest,0.0,0.01,0.0,0.0,0.01
+913,16044,16047,Instant Brain,X360,2011.0,Adventure,Cave,0.0,0.0,0.01,0.0,0.01
+914,11132,11134,Back to the Future: The Game,PS3,2011.0,Adventure,Telltale Games,0.07,0.01,0.0,0.01,0.09
+915,2852,2854,Catherine,PS3,2011.0,Adventure,Deep Silver,0.3,0.15,0.2,0.07,0.72
+916,10966,10968,Pillow Pets,DS,2011.0,Adventure,GameMill Entertainment,0.09,0.0,0.0,0.01,0.09
+917,13253,13255,Treasure Report: Kikai Jikake no Isan,DS,2011.0,Adventure,Namco Bandai Games,0.0,0.0,0.05,0.0,0.05
+918,13316,13318,To Heart 2 DX Plus,PS3,2011.0,Adventure,Aqua Plus,0.0,0.0,0.05,0.0,0.05
+919,13317,13319,Star Driver: Kagayaki no Takuto - Ginga Bishounen Densetsu,PSP,2011.0,Adventure,Namco Bandai Games,0.0,0.0,0.05,0.0,0.05
+920,11209,11211,Gray Matter,PC,2011.0,Adventure,DTP Entertainment,0.02,0.05,0.0,0.01,0.09
+921,10810,10812,Mystery Stories: Curse of the Ancient Spirits,DS,2011.0,Adventure,GSP,0.05,0.04,0.0,0.01,0.1
+922,13401,13403,Arcana Famiglia: La storia della Aracana Famiglia,PSP,2011.0,Adventure,Comfort,0.0,0.0,0.05,0.0,0.05
+923,13439,13441,Gray Matter,X360,2011.0,Adventure,DTP Entertainment,0.0,0.04,0.0,0.01,0.05
+924,7763,7765,Steins;Gate,PSP,2011.0,Adventure,Kadokawa Shoten,0.0,0.0,0.19,0.0,0.19
+925,13447,13449,Kimi ni Todoke: Tsutaeru Kimochi,DS,2011.0,Adventure,Banpresto,0.0,0.0,0.05,0.0,0.05
+926,13558,13560,Corpse Party: Book of Shadows,PSP,2011.0,Adventure,5pb,0.0,0.0,0.04,0.0,0.04
+927,10700,10702,Murder in Venice,DS,2011.0,Adventure,City Interactive,0.06,0.03,0.0,0.01,0.1
+928,14856,14859,Wand of Fortune 2: Jikuu ni Shizumu Mokushiroku,PSP,2011.0,Adventure,Idea Factory,0.0,0.0,0.03,0.0,0.03
+929,13639,13641,Amnesia,PSP,2011.0,Adventure,Idea Factory,0.0,0.0,0.04,0.0,0.04
+930,13379,13381,Shin Kamaitachi no Yoru: 11 Hitome no Suspect,PSV,2011.0,Adventure,ChunSoft,0.0,0.0,0.05,0.0,0.05
+931,16056,16059,Sangoku Koi Senki: Otome no Heihou!,PS2,2011.0,Adventure,Prototype,0.0,0.0,0.01,0.0,0.01
+932,12763,12765,Toaru Kagaku no Chou Denjihou,PSP,2011.0,Adventure,Kadokawa Shoten,0.0,0.0,0.06,0.0,0.06
+933,16083,16086,Uta no * Prince-Sama: Sweet Serenade,PSP,2011.0,Adventure,Broccoli,0.0,0.0,0.01,0.0,0.01
+934,417,418,L.A. Noire,PS3,2011.0,Adventure,Take-Two Interactive,1.27,1.33,0.12,0.51,3.23
+935,3954,3956,Alice: Madness Returns,X360,2011.0,Adventure,Electronic Arts,0.27,0.15,0.04,0.04,0.5
+936,11654,11656,Ro-Kyu-Bu!,PSP,2011.0,Adventure,Kadokawa Shoten,0.0,0.0,0.08,0.0,0.08
+937,6705,6707,L.A. Noire: The Complete Edition,PC,2011.0,Adventure,Take-Two Interactive,0.08,0.13,0.0,0.04,0.25
+938,8217,8219,Monkey Island: Special Edition Collection,PC,2011.0,Adventure,LucasArts,0.0,0.14,0.0,0.04,0.17
+939,11472,11474,Chronicles of Mystery: The Secret Tree of Life,DS,2011.0,Adventure,City Interactive,0.03,0.04,0.0,0.01,0.08
+940,11437,11439,Steins;Gate: Hiyoku Renri no Darling,X360,2011.0,Adventure,5pb,0.0,0.0,0.08,0.0,0.08
+941,16129,16132,Umineko no Naku Koro ni Portable 1,PSP,2011.0,Adventure,Alchemist,0.0,0.0,0.01,0.0,0.01
+942,16128,16131,Voodoo Chronicles: First Sign,PC,2011.0,Adventure,ValuSoft,0.01,0.0,0.0,0.0,0.01
+943,12362,12364,Meitantei Conan: Aoki Houseki no Rinbukyoku,DS,2011.0,Adventure,Namco Bandai Games,0.0,0.0,0.06,0.0,0.06
+944,16294,16297,Death Connection Portable,PSP,2011.0,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01
+945,12399,12401,The Next BIG Thing,PC,2011.0,Adventure,Focus Home Interactive,0.0,0.05,0.0,0.01,0.06
+946,12403,12405,Monkey Island: Special Edition Collection,X360,2011.0,Adventure,Activision,0.0,0.05,0.0,0.01,0.06
+947,3350,3352,Alice: Madness Returns,PS3,2011.0,Adventure,Electronic Arts,0.22,0.25,0.04,0.09,0.6
+948,15334,15337,Hakuouki: Yuugi Roku DS,DS,2011.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+949,12590,12592,Back to the Future: The Game,Wii,2011.0,Adventure,Telltale Games,0.05,0.0,0.0,0.0,0.06
+950,11228,11230,Edna & Harvey: Harvey's New Eyes,PC,2011.0,Adventure,Rondomedia,0.0,0.07,0.0,0.01,0.09
+951,12664,12666,Vitamin X to Z,PSP,2011.0,Adventure,D3Publisher,0.0,0.0,0.06,0.0,0.06
+952,16086,16089,"Iza, Shutsujin! Koisen",PSP,2011.0,Adventure,Quinrose,0.0,0.0,0.01,0.0,0.01
+953,13681,13683,The Wolf Among Us,X360,2011.0,Adventure,Telltale Games,0.01,0.03,0.0,0.0,0.04
+954,13685,13687,Chaos;Head - Love Chu*Chu!,PSP,2011.0,Adventure,5pb,0.0,0.0,0.04,0.0,0.04
+955,13631,13633,NCIS,PC,2011.0,Adventure,Ubisoft,0.01,0.02,0.0,0.01,0.04
+956,13721,13723,S.Y.K Renshouden Portable,PSP,2011.0,Adventure,Idea Factory,0.0,0.0,0.04,0.0,0.04
+957,10168,10170,Shin Kamaitachi no Yoru: 11 Hitome no Suspect,PS3,2011.0,Adventure,THQ,0.0,0.0,0.11,0.0,0.11
+958,15753,15756,Memories Off: Yubikiri no Kikou,PSP,2011.0,Adventure,5pb,0.0,0.0,0.02,0.0,0.02
+959,10149,10151,Monkey Island: Special Edition Collection,PS3,2011.0,Adventure,Activision,0.0,0.08,0.0,0.03,0.11
+960,10135,10137,To Heart 2: Dungeon Travelers,PSP,2011.0,Adventure,Aqua Plus,0.0,0.0,0.11,0.0,0.11
+961,14412,14415,Mother Goose no Himitsu no Yakata,PSP,2011.0,Adventure,Quinrose,0.0,0.0,0.03,0.0,0.03
+962,14511,14514,Hiiro no Kakera: Shin Tamayori Hime Denshou - Piece of Future,PSP,2011.0,Adventure,Idea Factory,0.0,0.0,0.03,0.0,0.03
+963,14524,14527,Emily Archer and the Curse of Tutankhamun,DS,2011.0,Adventure,Mastertronic,0.0,0.03,0.0,0.0,0.03
+964,16503,16506,Shinigami to Shoujo,PSP,2011.0,Adventure,Takuyo,0.0,0.0,0.01,0.0,0.01
+965,549,550,L.A. Noire,X360,2011.0,Adventure,Take-Two Interactive,1.52,0.94,0.02,0.24,2.72
+966,15696,15699,Clover no Kuni no Alice: Wonderful Wonder World,PSP,2011.0,Adventure,Quinrose,0.0,0.0,0.02,0.0,0.02
+967,15623,15626,Princess Frontier Portable,PSP,2011.0,Adventure,Alchemist,0.0,0.0,0.02,0.0,0.02
+968,14651,14654,Nisenochigiri: Omoide no Saki e,PSP,2011.0,Adventure,Idea Factory,0.0,0.0,0.03,0.0,0.03
+969,9787,9789,Alice: Madness Returns,PC,2011.0,Adventure,Electronic Arts,0.0,0.1,0.0,0.02,0.12
+970,14671,14674,Tsuku Monogatari,PSP,2011.0,Adventure,FuRyu,0.0,0.0,0.03,0.0,0.03
+971,14673,14676,Kaitou Tenshi Twin Angel: Toki to Sekai no Meikyuu,PSP,2011.0,Adventure,Alchemist,0.0,0.0,0.03,0.0,0.03
+972,14707,14710,Otome wa Oanesama ni Koi Shiteru Portable: 2-Jin no Elder,PSP,2011.0,Adventure,Alchemist,0.0,0.0,0.03,0.0,0.03
+973,14719,14722,Saka Agari Hurricane Portable,PSP,2011.0,Adventure,Alchemist,0.0,0.0,0.03,0.0,0.03
+974,5685,5687,Catherine,X360,2011.0,Adventure,Deep Silver,0.2,0.06,0.03,0.02,0.32
+975,9614,9616,NCIS,PS3,2011.0,Adventure,Ubisoft,0.07,0.04,0.0,0.02,0.13
+976,13698,13700,Gakuen Hetalia Portable,PSP,2011.0,Adventure,Idea Factory,0.0,0.0,0.04,0.0,0.04
+977,10177,10179,NCIS 3D,3DS,2011.0,Adventure,Ubisoft,0.06,0.04,0.0,0.01,0.11
+978,14308,14311,Hallowed Legends: Samhain,PC,2011.0,Adventure,Focus Home Interactive,0.0,0.02,0.0,0.01,0.03
+979,10515,10517,Toaru Majutsu no Index,PSP,2011.0,Adventure,Kadokawa Shoten,0.0,0.0,0.1,0.0,0.1
+980,14013,14015,Clock Zero: Shuuen no Ichibyou Portable,PSP,2011.0,Adventure,Idea Factory,0.0,0.0,0.04,0.0,0.04
+981,6500,6502,Ace Attorney Investigations 2,DS,2011.0,Adventure,Capcom,0.0,0.0,0.26,0.0,0.26
+982,8507,8509,Doctor Lautrec and the Forgotten Knights,3DS,2011.0,Adventure,Konami Digital Entertainment,0.07,0.05,0.03,0.01,0.16
+983,14094,14096,Hakuouki: Zuisouroku DS,DS,2011.0,Adventure,Idea Factory,0.0,0.0,0.04,0.0,0.04
+984,14153,14155,Suzumiya Haruhi no Tsuisou,PS3,2011.0,Adventure,Namco Bandai Games,0.0,0.0,0.03,0.0,0.03
+985,14197,14199,Mashiro Iro Symphony: *mutsu-no-hana,PSP,2011.0,Adventure,Comfort,0.0,0.0,0.03,0.0,0.03
+986,4921,4923,Mystery Case Files: The Malgrave Incident,Wii,2011.0,Adventure,Nintendo,0.19,0.17,0.0,0.03,0.39
+987,13932,13934,Suzumiya Haruhi no Tsuisou,PSP,2011.0,Adventure,Namco Bandai Games,0.0,0.0,0.04,0.0,0.04
+988,13792,13794,Durarara!! 3way Standoff: Alley,PSP,2011.0,Adventure,Kadokawa Shoten,0.0,0.0,0.04,0.0,0.04
+989,10238,10240,Gabrielle's Ghostly Groove 3D,3DS,2011.0,Adventure,Funbox Media,0.08,0.02,0.0,0.01,0.11
+990,13764,13766,Hakuouki: Reimeiroku Portable,PSP,2011.0,Adventure,Idea Factory,0.0,0.0,0.04,0.0,0.04
+991,14241,14244,Clannad,PS3,2011.0,Adventure,Prototype,0.0,0.0,0.03,0.0,0.03
+992,14282,14285,Nancy Drew: Alibi In Ashes,PC,2011.0,Adventure,Her Interactive,0.03,0.0,0.0,0.0,0.03
+993,15775,15778,Dunamis 15,X360,2011.0,Adventure,5pb,0.0,0.0,0.02,0.0,0.02
+994,13804,13806,Hanaoni: Koisomeru Koku - Eikyuu no Shirushi,PSP,2011.0,Adventure,Idea Factory,0.0,0.0,0.04,0.0,0.04
+995,16165,16168,Ouka Sengoku Portable,PSP,2012.0,Adventure,Alchemist,0.0,0.0,0.01,0.0,0.01
+996,16369,16372,Arabians Lost: The Engagement on Desert,PSP,2012.0,Adventure,Quinrose,0.0,0.0,0.01,0.0,0.01
+997,16521,16524,Akatsuki no Goei Trinity,PS3,2012.0,Adventure,5pb,0.0,0.0,0.01,0.0,0.01
+998,15973,15976,Vitamin X: Detective B6,PSP,2012.0,Adventure,D3Publisher,0.0,0.0,0.02,0.0,0.02
+999,15996,15999,Captain Morgane and the Golden Turtle,Wii,2012.0,Adventure,Reef Entertainment,0.0,0.01,0.0,0.0,0.01
+1000,16315,16318,Gakuen Hetalia,DS,2012.0,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01
+1001,16403,16406,Ratchet & Clank: Full Frontal Assault,PSV,2012.0,Adventure,Sony Computer Entertainment,0.01,0.0,0.0,0.0,0.01
+1002,15457,15460,Steins;Gate: Hiyoku Renri no Darling,PS3,2012.0,Adventure,5pb,0.0,0.0,0.02,0.0,0.02
+1003,16534,16537,Time Travelers,PSP,2012.0,Adventure,Level 5,0.0,0.0,0.01,0.0,0.01
+1004,16425,16428,Akatsuki no Goei Trinity,PSP,2012.0,Adventure,5pb,0.0,0.0,0.01,0.0,0.01
+1005,15342,15345,Rinne no Lagrange: Kamogawa Days,PS3,2012.0,Adventure,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02
+1006,12765,12767,The Lost Chronicles of Zerzura,PC,2012.0,Adventure,DTP Entertainment,0.0,0.05,0.0,0.01,0.06
+1007,15320,15323,The Testament of Sherlock Holmes,X360,2012.0,Adventure,Focus Home Interactive,0.0,0.02,0.0,0.0,0.02
+1008,13282,13284,Diabolik Lovers,PSP,2012.0,Adventure,Idea Factory,0.0,0.0,0.05,0.0,0.05
+1009,13375,13377,Time Travelers,PSV,2012.0,Adventure,Level 5,0.0,0.0,0.05,0.0,0.05
+1010,13543,13545,White Album 2: Shiawase no Mukougawa,PS3,2012.0,Adventure,Aqua Plus,0.0,0.0,0.04,0.0,0.04
+1011,2598,2600,The Walking Dead: Season One,PS3,2012.0,Adventure,Avanquest Software,0.4,0.25,0.03,0.11,0.79
+1012,13820,13822,Time Travelers,3DS,2012.0,Adventure,Unknown,0.0,0.0,0.04,0.0,0.04
+1013,14091,14093,Sangoku Koi Senki: Otome no Heihou!,PSP,2012.0,Adventure,Prototype,0.0,0.0,0.04,0.0,0.04
+1014,14283,14286,The Walking Dead: Season One,PC,2012.0,Adventure,Avanquest Software,0.0,0.03,0.0,0.01,0.03
+1015,14297,14300,Accel World: Ginyoku no Kakusei,PS3,2012.0,Adventure,Namco Bandai Games,0.0,0.0,0.03,0.0,0.03
+1016,14309,14312,Captain Morgane and the Golden Turtle,DS,2012.0,Adventure,Reef Entertainment,0.0,0.03,0.0,0.0,0.03
+1017,14325,14328,Onna no Ko to Misshitsu ni Itara **shichau Kamoshirenai,3DS,2012.0,Adventure,D3Publisher,0.0,0.0,0.03,0.0,0.03
+1018,14333,14336,Accel World: Ginyoku no Kakusei,PSP,2012.0,Adventure,Namco Bandai Games,0.0,0.0,0.03,0.0,0.03
+1019,14402,14405,Zero Escape: Virtue's Last Reward,3DS,2012.0,Adventure,Rising Star Games,0.03,0.0,0.0,0.0,0.03
+1020,14455,14458,Kyokugen Dasshutsu ADV: Zennin Shiboudesu,3DS,2012.0,Adventure,ChunSoft,0.0,0.0,0.03,0.0,0.03
+1021,14606,14609,Detective Opera: Milky Holmes 2,PSP,2012.0,Adventure,BushiRoad,0.0,0.0,0.03,0.0,0.03
+1022,14646,14649,Botanicula,PC,2012.0,Adventure,Daedalic Entertainment,0.0,0.02,0.0,0.0,0.03
+1023,2761,2763,The Walking Dead: Season One,X360,2012.0,Adventure,Avanquest Software,0.55,0.14,0.0,0.05,0.75
+1024,12754,12756,Fate/Stay Night [Réalta Nua],PSV,2012.0,Adventure,Kadokawa Shoten,0.0,0.0,0.06,0.0,0.06
+1025,3278,3280,Toshochu: Run for Money,3DS,2012.0,Adventure,Namco Bandai Games,0.0,0.0,0.62,0.0,0.62
+1026,3374,3376,Kinect Rush: A Disney Pixar Adventure,X360,2012.0,Adventure,Microsoft Game Studios,0.38,0.16,0.0,0.05,0.6
+1027,7063,7065,AKB1/149: Love Election,PSP,2012.0,Adventure,Namco Bandai Games,0.0,0.0,0.23,0.0,0.23
+1028,7109,7111,Ratchet & Clank: Full Frontal Assault,PS3,2012.0,Adventure,Sony Computer Entertainment,0.19,0.01,0.0,0.02,0.23
+1029,7271,7273,Spirit Camera: The Cursed Memoir,3DS,2012.0,Adventure,Nintendo,0.12,0.02,0.06,0.01,0.22
+1030,6617,6619,Journey,PS3,2012.0,Adventure,Sony Computer Entertainment Europe,0.04,0.15,0.0,0.06,0.25
+1031,6543,6545,The Testament of Sherlock Holmes,PS3,2012.0,Adventure,Focus Home Interactive,0.05,0.15,0.0,0.06,0.26
+1032,8746,8748,Deponia,PC,2012.0,Adventure,Daedalic,0.0,0.13,0.0,0.03,0.15
+1033,10381,10383,Robotics;Notes,PS3,2012.0,Adventure,5pb,0.0,0.0,0.11,0.0,0.11
+1034,14793,14796,Captain Morgane and the Golden Turtle,PS3,2012.0,Adventure,Reef Entertainment,0.0,0.02,0.0,0.01,0.03
+1035,10783,10785,Ciel Nosurge: Ushinawareta Hoshi e Sasagu Uta,PSV,2012.0,Adventure,Gust,0.0,0.0,0.1,0.0,0.1
+1036,10893,10895,Uta no Prince-Sama: Debut,PSP,2012.0,Adventure,Broccoli,0.0,0.0,0.09,0.0,0.09
+1037,11372,11374,Steins;Gate,PS3,2012.0,Adventure,PQube,0.01,0.04,0.02,0.01,0.08
+1038,11508,11510,Akiba's Trip Plus,PSP,2012.0,Adventure,Acquire,0.0,0.0,0.08,0.0,0.08
+1039,11743,11745,AKB1/149: Love Election,PSV,2012.0,Adventure,Namco Bandai Games,0.0,0.0,0.07,0.0,0.07
+1040,11797,11799,Tokimeki Memorial Girl's Side Premium: 3rd Story,PSP,2012.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.07,0.0,0.07
+1041,11898,11900,The Testament of Sherlock Holmes,PC,2012.0,Adventure,Focus Home Interactive,0.0,0.06,0.0,0.01,0.07
+1042,11942,11944,I Don't Have Many Friends Portable,PSP,2012.0,Adventure,Namco Bandai Games,0.0,0.0,0.07,0.0,0.07
+1043,10855,10857,PhotoKano,PSP,2012.0,Adventure,Kadokawa Shoten,0.0,0.0,0.09,0.0,0.09
+1044,14803,14806,Touch Shot! Love Application,PS3,2012.0,Adventure,Compile Heart,0.0,0.0,0.03,0.0,0.03
+1045,12991,12993,Koi to Senkyo to Chocolate Portable,PSP,2012.0,Adventure,Kadokawa Shoten,0.0,0.0,0.05,0.0,0.05
+1046,14846,14849,Tokushu Houdoubu,PSV,2012.0,Adventure,Nippon Ichi Software,0.0,0.0,0.03,0.0,0.03
+1047,14906,14909,Kyokugen Dasshutsu ADV: Zennin Shiboudesu,PSV,2012.0,Adventure,ChunSoft,0.0,0.0,0.03,0.0,0.03
+1048,15303,15306,Robotics;Notes,X360,2012.0,Adventure,5pb,0.0,0.0,0.02,0.0,0.02
+1049,15129,15132,Moujuutsukai to Oujisama: Snow Bride Portable,PSP,2012.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+1050,14823,14826,Captain Morgane and the Golden Turtle,PC,2012.0,Adventure,Reef Entertainment,0.0,0.02,0.0,0.0,0.03
+1051,14881,14884,Wand of Fortune 2 FD: Kimi ni Sasageru Epilogue,PSP,2012.0,Adventure,Idea Factory,0.0,0.0,0.03,0.0,0.03
+1052,15223,15226,Kannou Mukashi Banashi Portable,PSP,2012.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+1053,16435,16438,Getsuei Gakuen: kou,PSV,2013.0,Adventure,Arc System Works,0.0,0.0,0.01,0.0,0.01
+1054,5819,5821,LEGO Legends of Chima: Laval's Journey,3DS,2013.0,Adventure,Warner Bros. Interactive Entertainment,0.18,0.1,0.0,0.03,0.31
+1055,16507,16510,Romeo Vs. Juliet,PSP,2013.0,Adventure,Quinrose,0.0,0.0,0.01,0.0,0.01
+1056,13790,13792,Date A Live: Rine Utopia,PS3,2013.0,Adventure,Compile Heart,0.0,0.0,0.04,0.0,0.04
+1057,16183,16186,Sakura-Sou no Pet na Kanojo,PSP,2013.0,Adventure,Kadokawa Games,0.0,0.0,0.01,0.0,0.01
+1058,2261,2263,Disney Magical World,3DS,2013.0,Adventure,Nintendo,0.16,0.2,0.53,0.03,0.92
+1059,15038,15041,Steins;Gate: Senkei Kousoku no Phonogram,X360,2013.0,Adventure,5pb,0.0,0.0,0.02,0.0,0.02
+1060,8637,8639,LEGO Legends of Chima: Laval's Journey,PSV,2013.0,Adventure,Warner Bros. Interactive Entertainment,0.02,0.09,0.0,0.04,0.16
+1061,12744,12746,Doki-Doki Universe,PSV,2013.0,Adventure,Sony Computer Entertainment,0.01,0.04,0.0,0.01,0.06
+1062,14202,14205,Diabolik Lovers: More Blood,PSP,2013.0,Adventure,Idea Factory,0.0,0.0,0.03,0.0,0.03
+1063,16388,16391,Sakura-Sou no Pet na Kanojo,PSV,2013.0,Adventure,Kadokawa Games,0.0,0.0,0.01,0.0,0.01
+1064,14114,14116,XBLAZE Code: Embryo,PS3,2013.0,Adventure,Arc System Works,0.02,0.0,0.01,0.0,0.03
+1065,13373,13375,XBLAZE Code: Embryo,PSV,2013.0,Adventure,Arc System Works,0.03,0.0,0.01,0.01,0.05
+1066,15844,15847,White Album 2: Shiawase no Mukougawa,PSV,2013.0,Adventure,Aqua Plus,0.0,0.0,0.02,0.0,0.02
+1067,15861,15864,Arcana Famiglia 2,PSP,2013.0,Adventure,Comfort,0.0,0.0,0.02,0.0,0.02
+1068,12822,12824,Kyoukai Senjou no Horizon Portable,PSP,2013.0,Adventure,Kadokawa Shoten,0.0,0.0,0.05,0.0,0.05
+1069,16150,16153,Accel World: Kasoku no Chouten,PSP,2013.0,Adventure,Namco Bandai Games,0.0,0.0,0.01,0.0,0.01
+1070,15506,15509,Meiji Toukyou Renka,PSP,2013.0,Adventure,Broccoli,0.0,0.0,0.02,0.0,0.02
+1071,11066,11068,Uta no Prince-Sama: Music 2,PSP,2013.0,Adventure,Broccoli,0.0,0.0,0.09,0.0,0.09
+1072,16349,16352,Natsuzora no Monologue,PSP,2013.0,Adventure,Otomate,0.0,0.0,0.01,0.0,0.01
+1073,13990,13992,The Night of the Rabbit,PC,2013.0,Adventure,Daedalic Entertainment,0.0,0.03,0.0,0.0,0.04
+1074,12335,12337,Steins;Gate: Senkei Kousoku no Phonogram,PS3,2013.0,Adventure,5pb,0.0,0.0,0.06,0.0,0.06
+1075,13976,13978,Norn9: Norn + Nonette,PSP,2013.0,Adventure,Idea Factory,0.0,0.0,0.04,0.0,0.04
+1076,16360,16363,Shirahana no Ori: Hiiro no Kakera 4 - Shiki no Uta,PSP,2013.0,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01
+1077,16112,16115,1/2 Summer +,PSP,2013.0,Adventure,Kaga Create,0.0,0.0,0.01,0.0,0.01
+1078,14924,14927,Yahari Game Demo Ore no Seishun Love-Kome Hamachi Gatteiru,PSV,2013.0,Adventure,5pb,0.0,0.0,0.02,0.0,0.02
+1079,16155,16158,Isshoni Gohan. Portable,PSP,2013.0,Adventure,Boost On,0.0,0.0,0.01,0.0,0.01
+1080,14330,14333,The Inner World,PC,2013.0,Adventure,Headup Games,0.0,0.03,0.0,0.0,0.03
+1081,15947,15950,Accel World: Kasoku no Chouten,PS3,2013.0,Adventure,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02
+1082,14877,14880,D.C. III: Da Capo III,PSP,2013.0,Adventure,Kadokawa Games,0.0,0.0,0.03,0.0,0.03
+1083,15357,15360,Saki: Achiga-Hen Portable,PSP,2013.0,Adventure,Alchemist,0.0,0.0,0.02,0.0,0.02
+1084,15358,15361,Bella Sara 2 - The Magic of Drasilmare,3DS,2013.0,Adventure,Big Ben Interactive,0.0,0.02,0.0,0.0,0.02
+1085,5021,5023,Phoenix Wright: Ace Attorney - Dual Destinies,3DS,2013.0,Adventure,Capcom,0.0,0.0,0.38,0.0,0.38
+1086,15340,15343,Toki no Kizuna: Hanayui Tsuzuri,PSP,2013.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+1087,14658,14661,Kamigami no Asobi,PSP,2013.0,Adventure,Broccoli,0.0,0.0,0.03,0.0,0.03
+1088,16571,16574,Grisaia no Kajitsu: La Fruit de la Grisaia,PSP,2013.0,Adventure,Prototype,0.0,0.0,0.01,0.0,0.01
+1089,11498,11500,AKB1/149: Love Election,PS3,2013.0,Adventure,Namco Bandai Games,0.0,0.0,0.08,0.0,0.08
+1090,11772,11774,Touch Detective: Nameko Shigeru,3DS,2013.0,Adventure,Success,0.0,0.0,0.07,0.0,0.07
+1091,4915,4917,Metal Gear Solid: The Legacy Collection,PS3,2013.0,Adventure,Konami Digital Entertainment,0.31,0.01,0.03,0.05,0.39
+1092,15405,15408,Vitamin R,PSP,2013.0,Adventure,D3Publisher,0.0,0.0,0.02,0.0,0.02
+1093,11783,11785,PhotoKano,PSV,2013.0,Adventure,Kadokawa Shoten,0.0,0.0,0.07,0.0,0.07
+1094,15421,15424,Ro-Kyu-Bu! Lost Secret,PSP,2013.0,Adventure,Kadokawa Shoten,0.0,0.0,0.02,0.0,0.02
+1095,969,971,Beyond: Two Souls,PS3,2013.0,Adventure,Sony Computer Entertainment,0.52,0.88,0.06,0.34,1.79
+1096,16223,16226,Nyaruko-San: Nafushigatai Game no You na Mono,PSV,2013.0,Adventure,5pb,0.0,0.0,0.01,0.0,0.01
+1097,15078,15081,HatsuKare * Renai Debut Sengen!,PSP,2013.0,Adventure,FuRyu,0.0,0.0,0.02,0.0,0.02
+1098,7318,7320,Steins;Gate,PSV,2013.0,Adventure,PQube,0.07,0.09,0.0,0.05,0.21
+1099,11813,11815,Goodbye Deponia,PC,2013.0,Adventure,Daedalic Entertainment,0.0,0.06,0.0,0.01,0.07
+1100,14352,14355,LEGO Legends of Chima: Laval's Journey,DS,2013.0,Adventure,Unknown,0.0,0.03,0.0,0.0,0.03
+1101,14367,14370,Toaru Majutsu no Kagaku no Ensemble,PSP,2013.0,Adventure,Namco Bandai Games,0.0,0.0,0.03,0.0,0.03
+1102,14373,14376,Brothers Conflict: Brilliant Blue,PSP,2013.0,Adventure,Idea Factory,0.0,0.0,0.03,0.0,0.03
+1103,13326,13328,Rain (2013),PS3,2013.0,Adventure,Sony Computer Entertainment,0.0,0.0,0.05,0.0,0.05
+1104,15721,15724,"Hanayaka Kana, Ware ga Ichizoku: Tasogare Polarstar",PSP,2013.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+1105,8017,8019,The Walking Dead: Season One,PSV,2013.0,Adventure,Square Enix,0.14,0.0,0.01,0.03,0.18
+1106,16526,16529,Onigokko! Portable,PSP,2013.0,Adventure,Alchemist,0.0,0.0,0.01,0.0,0.01
+1107,15266,15269,Shiratsuyu no Kai,PSP,2013.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+1108,16316,16319,Daiya no Kuni no Alice: Wonderful Mirror World,PSP,2013.0,Adventure,Quinrose,0.0,0.0,0.01,0.0,0.01
+1109,13273,13275,Detective Conan: Marionette Symphony,3DS,2013.0,Adventure,Namco Bandai Games,0.0,0.0,0.05,0.0,0.05
+1110,2735,2737,Tearaway,PSV,2013.0,Adventure,Sony Computer Entertainment Europe,0.17,0.39,0.0,0.19,0.75
+1111,15030,15033,Urakata Hakuoki,PSP,2013.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+1112,14425,14428,Renai 0 Kilometer,PSP,2013.0,Adventure,Alchemist,0.0,0.0,0.03,0.0,0.03
+1113,10697,10699,Fate/hollow ataraxia,PSV,2014.0,Adventure,Type-Moon,0.0,0.0,0.1,0.0,0.1
+1114,15252,15255,Date A Live: Arusu Install,PS3,2014.0,Adventure,Compile Heart,0.0,0.0,0.02,0.0,0.02
+1115,12610,12612,Mahouka Koukou no Rettousei: Out of Order,PSV,2014.0,Adventure,Namco Bandai Games,0.0,0.0,0.06,0.0,0.06
+1116,10468,10470,The Wolf Among Us,PS3,2014.0,Adventure,Telltale Games,0.05,0.03,0.0,0.02,0.1
+1117,6948,6950,The Walking Dead: Season Two,PS4,2014.0,Adventure,Telltale Games,0.1,0.09,0.01,0.04,0.24
+1118,16317,16320,Touch Detective 3: Does Funghi Dream of Bananas?,3DS,2014.0,Adventure,Success,0.0,0.0,0.01,0.0,0.01
+1119,16107,16110,Marginal #4: Idol of Supernova,PSV,2014.0,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01
+1120,11574,11576,Sherlock Holmes: Crimes & Punishments,PS3,2014.0,Adventure,Focus Home Interactive,0.03,0.04,0.0,0.01,0.08
+1121,15413,15416,Gakuen K: Wonderful School Days,PSP,2014.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+1122,11452,11454,Pac-Man and the Ghostly Adventures 2,3DS,2014.0,Adventure,Namco Bandai Games,0.03,0.05,0.0,0.01,0.08
+1123,4317,4319,The Walking Dead: Season One,PS4,2014.0,Adventure,Telltale Games,0.12,0.25,0.01,0.08,0.45
+1124,11844,11846,The Wolf Among Us,XOne,2014.0,Adventure,Telltale Games,0.05,0.02,0.0,0.01,0.07
+1125,16204,16207,Ro-Kyu-Bu! Secret Photo Op,PSV,2014.0,Adventure,Kadokawa Games,0.0,0.0,0.01,0.0,0.01
+1126,16201,16204,Adventure Time: The Secret of the Nameless,X360,2014.0,Adventure,Little Orbit,0.01,0.0,0.0,0.0,0.01
+1127,15422,15425,CV Casting Voice,PS3,2014.0,Adventure,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02
+1128,16099,16102,Rewrite,PSV,2014.0,Adventure,Prototype,0.0,0.0,0.01,0.0,0.01
+1129,11905,11907,Pac-Man and the Ghostly Adventures 2,WiiU,2014.0,Adventure,Namco Bandai Games,0.05,0.02,0.0,0.01,0.07
+1130,11937,11939,The Wolf Among Us,PSV,2014.0,Adventure,Telltale Games,0.05,0.0,0.0,0.02,0.07
+1131,11978,11980,Haikyuu!! Tsunage! Itadaki no Keshiki!!,3DS,2014.0,Adventure,Namco Bandai Games,0.0,0.0,0.07,0.0,0.07
+1132,16322,16325,Binary Star,PSV,2014.0,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01
+1133,12235,12237,12-Sai. Honto no Kimochi,3DS,2014.0,Adventure,Happinet,0.0,0.0,0.07,0.0,0.07
+1134,12345,12347,Sherlock Holmes: Crimes & Punishments,X360,2014.0,Adventure,Focus Home Interactive,0.03,0.03,0.0,0.01,0.06
+1135,12421,12423,Crayon Shin-chan: Arashi o Yobu Kasukabe Eiga Stars!,3DS,2014.0,Adventure,Namco Bandai Games,0.0,0.0,0.06,0.0,0.06
+1136,11035,11037,How to Train Your Dragon 2,WiiU,2014.0,Adventure,Little Orbit,0.04,0.05,0.0,0.01,0.09
+1137,16114,16117,Psycho-Pass,XOne,2014.0,Adventure,5pb,0.0,0.0,0.01,0.0,0.01
+1138,16169,16172,Hanayamata: Yosakoi Live,PSV,2014.0,Adventure,Namco Bandai Games,0.0,0.0,0.01,0.0,0.01
+1139,16032,16035,Shinobi Koutsutsu,PSP,2014.0,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01
+1140,16423,16426,SoniPro,3DS,2014.0,Adventure,imageepoch Inc.,0.0,0.0,0.01,0.0,0.01
+1141,10226,10228,Pac-Man and the Ghostly Adventures 2,PS3,2014.0,Adventure,Namco Bandai Games,0.05,0.04,0.0,0.02,0.11
+1142,6266,6268,How to Train Your Dragon 2,Wii,2014.0,Adventure,Little Orbit,0.05,0.2,0.0,0.02,0.27
+1143,15839,15842,Dream C Club: GoGo,PS3,2014.0,Adventure,D3Publisher,0.0,0.0,0.02,0.0,0.02
+1144,15829,15832,Phoenix Wright: Ace Attorney Trilogy,3DS,2014.0,Adventure,Capcom,0.0,0.0,0.02,0.0,0.02
+1145,6334,6336,Sherlock Holmes: Crimes & Punishments,PS4,2014.0,Adventure,Focus Home Interactive,0.08,0.14,0.0,0.05,0.27
+1146,8692,8694,The Walking Dead: Season One,XOne,2014.0,Adventure,Telltale Games,0.08,0.06,0.0,0.01,0.16
+1147,16500,16503,Satomi Hakkenden: Hachi Tamanoki,PSP,2014.0,Adventure,Quinrose,0.0,0.0,0.01,0.0,0.01
+1148,6411,6413,Teenage Mutant Ninja Turtles: Danger of the Ooze,PS3,2014.0,Adventure,Activision,0.11,0.11,0.0,0.05,0.27
+1149,14392,14395,Infinite Stratos 2: Ignition Hearts,PSV,2014.0,Adventure,5pb,0.0,0.0,0.03,0.0,0.03
+1150,6764,6766,How to Train Your Dragon 2,3DS,2014.0,Adventure,Little Orbit,0.04,0.19,0.0,0.02,0.25
+1151,7658,7660,How to Train Your Dragon 2,X360,2014.0,Adventure,Little Orbit,0.05,0.13,0.0,0.02,0.2
+1152,13050,13052,Sherlock Holmes: Crimes & Punishments,PC,2014.0,Adventure,Focus Home Interactive,0.0,0.05,0.0,0.0,0.05
+1153,7494,7496,The Wolf Among Us,PS4,2014.0,Adventure,Telltale Games,0.1,0.07,0.0,0.03,0.21
+1154,6793,6795,Corpse Party: Blood Drive,PSV,2014.0,Adventure,Marvelous Interactive,0.11,0.03,0.06,0.05,0.24
+1155,14615,14618,Nisekoi: Yomeiri!?,PSV,2014.0,Adventure,Konami Digital Entertainment,0.0,0.0,0.03,0.0,0.03
+1156,16557,16560,Dramatical Murder Re:code,PSV,2014.0,Adventure,Nitroplus,0.0,0.0,0.01,0.0,0.01
+1157,15689,15692,Robotics;Notes,PSV,2014.0,Adventure,5pb,0.0,0.0,0.02,0.0,0.02
+1158,16560,16563,Hanasaku Manimani,PSV,2014.0,Adventure,5pb,0.0,0.0,0.01,0.0,0.01
+1159,15641,15644,Grisaia no Rakuen: Le Eden de la Grisaia,PSV,2014.0,Adventure,Prototype,0.0,0.0,0.02,0.0,0.02
+1160,7222,7224,Teenage Mutant Ninja Turtles: Danger of the Ooze,X360,2014.0,Adventure,Activision,0.11,0.09,0.0,0.02,0.22
+1161,7216,7218,The Walking Dead: Season Two,PS3,2014.0,Adventure,Telltale Games,0.09,0.09,0.0,0.04,0.22
+1162,14763,14766,Infinite Stratos 2: Ignition Hearts,PS3,2014.0,Adventure,5pb,0.0,0.0,0.03,0.0,0.03
+1163,14792,14795,AMNESIA World,PSV,2014.0,Adventure,Idea Factory,0.0,0.0,0.03,0.0,0.03
+1164,14470,14473,Great Edo Blacksmith,PSV,2014.0,Adventure,Nippon Ichi Software,0.0,0.0,0.03,0.0,0.03
+1165,15857,15860,Kadenz fermata//Akkord:fortissimo,PSV,2014.0,Adventure,5pb,0.0,0.0,0.02,0.0,0.02
+1166,16272,16275,Chaos;Head Noah,PSV,2014.0,Adventure,5pb,0.0,0.0,0.01,0.0,0.01
+1167,16451,16454,Shin Koihime Musou: Otome Taisen * Sangokushi Engi,PS3,2014.0,Adventure,Views,0.0,0.0,0.01,0.0,0.01
+1168,10123,10125,Pac-Man and the Ghostly Adventures 2,X360,2014.0,Adventure,Namco Bandai Games,0.05,0.05,0.0,0.01,0.11
+1169,9890,9892,The Walking Dead: Season Two,X360,2014.0,Adventure,Telltale Games,0.04,0.07,0.0,0.01,0.12
+1170,9632,9634,Aikatsu! 365 Idol Days,3DS,2014.0,Adventure,Namco Bandai Games,0.0,0.0,0.13,0.0,0.13
+1171,13361,13363,Shin Hayarigami,PSV,2014.0,Adventure,Nippon Ichi Software,0.0,0.0,0.05,0.0,0.05
+1172,9448,9450,How to Train Your Dragon 2,PS3,2014.0,Adventure,Little Orbit,0.03,0.08,0.0,0.02,0.13
+1173,13445,13447,Hakuouki SSL: Sweet School Life,PSV,2014.0,Adventure,Idea Factory,0.0,0.0,0.05,0.0,0.05
+1174,11527,11529,Sherlock Holmes: Crimes & Punishments,XOne,2014.0,Adventure,Focus Home Interactive,0.03,0.04,0.0,0.01,0.08
+1175,13624,13626,Amagami,PSV,2014.0,Adventure,Kadokawa Games,0.0,0.0,0.04,0.0,0.04
+1176,8925,8927,The Walking Dead: Season Two,PSV,2014.0,Adventure,Telltale Games,0.1,0.0,0.01,0.03,0.15
+1177,16430,16433,Golden Time: Vivid Memories,PSV,2014.0,Adventure,ASCII Media Works,0.0,0.0,0.01,0.0,0.01
+1178,13771,13773,Dolly Kanon Dokidoki Tokimeki Himitsu no Ongaku Katsudou Start Desu!!,3DS,2014.0,Adventure,Happinet,0.0,0.0,0.04,0.0,0.04
+1179,15945,15948,Grisaia no Meikyuu: Le Labyrinthe de la Grisaia,PSV,2014.0,Adventure,Prototype,0.0,0.0,0.02,0.0,0.02
+1180,9406,9408,Teenage Mutant Ninja Turtles: Danger of the Ooze,3DS,2014.0,Adventure,Activision,0.08,0.04,0.0,0.01,0.13
+1181,15881,15884,Kiss Bell,PSV,2014.0,Adventure,Giga,0.0,0.0,0.02,0.0,0.02
+1182,14911,14914,Senjou no Waltz,PSV,2014.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+1183,9197,9199,The Walking Dead: Season Two,XOne,2014.0,Adventure,Telltale Games,0.08,0.05,0.0,0.01,0.14
+1184,8945,8947,Code:Realize - Sousei no Himegimi,PSV,2014.0,Adventure,Idea Factory,0.09,0.0,0.03,0.03,0.15
+1185,15908,15911,Adventure Time: The Secret of the Nameless,3DS,2014.0,Adventure,Little Orbit,0.01,0.0,0.0,0.0,0.02
+1186,13928,13930,Shin Hayarigami,PS3,2014.0,Adventure,Nippon Ichi Software,0.0,0.0,0.04,0.0,0.04
+1187,16443,16446,Heart no Kuni no Alice: Wonderful Twin World,PSP,2014.0,Adventure,Quinrose,0.0,0.0,0.01,0.0,0.01
+1188,4872,4874,Rise of the Tomb Raider,X360,2015.0,Adventure,Square Enix,0.17,0.19,0.0,0.03,0.4
+1189,16416,16419,Chaos;Child,PS3,2015.0,Adventure,5pb,0.0,0.0,0.01,0.0,0.01
+1190,1524,1526,Rise of the Tomb Raider,XOne,2015.0,Adventure,Square Enix,0.53,0.64,0.02,0.1,1.3
+1191,16528,16531,Kiniro no Corda 3,3DS,2015.0,Adventure,Tecmo Koei,0.0,0.0,0.01,0.0,0.01
+1192,11327,11329,The Seven Deadly Sins: Unjust Sin,3DS,2015.0,Adventure,Namco Bandai Games,0.0,0.0,0.08,0.0,0.08
+1193,15225,15228,Diabolik Lovers: More Blood,PSV,2015.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+1194,8232,8234,Back to the Future: The Game,PS4,2015.0,Adventure,Telltale Games,0.1,0.04,0.0,0.03,0.17
+1195,9511,9513,Brothers: A Tale of Two Sons,PS4,2015.0,Adventure,505 Games,0.03,0.08,0.0,0.02,0.13
+1196,16333,16336,Chaos;Child,PS4,2015.0,Adventure,5pb,0.0,0.0,0.01,0.0,0.01
+1197,14813,14816,Kisuato,PSV,2015.0,Adventure,TGL,0.0,0.0,0.03,0.0,0.03
+1198,11590,11592,Minecraft: Story Mode,PC,2015.0,Adventure,Mojang,0.02,0.05,0.0,0.01,0.08
+1199,13336,13338,Utawarerumono: Itsuwari no Kamen,PS3,2015.0,Adventure,Aqua Plus,0.0,0.0,0.05,0.0,0.05
+1200,15979,15982,Xblaze: Lost Memories,PS3,2015.0,Adventure,Arc System Works,0.01,0.0,0.0,0.0,0.02
+1201,13346,13348,Game of Thrones (Telltale),PS4,2015.0,Adventure,Telltale Games,0.04,0.0,0.0,0.01,0.05
+1202,16266,16269,Kurogane Kaikitan,PSV,2015.0,Adventure,Minato Station,0.0,0.0,0.01,0.0,0.01
+1203,15932,15935,I Doll U,PSV,2015.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+1204,13858,13860,Brothers: A Tale of Two Sons,XOne,2015.0,Adventure,505 Games,0.03,0.01,0.0,0.0,0.04
+1205,13931,13933,Corpse Party: Blood Covered - Repeated Fear,3DS,2015.0,Adventure,5pb,0.0,0.0,0.04,0.0,0.04
+1206,14196,14198,Game of Thrones (Telltale),X360,2015.0,Adventure,Telltale Games,0.02,0.01,0.0,0.0,0.03
+1207,2285,2287,Minecraft: Story Mode,X360,2015.0,Adventure,Mojang,0.46,0.38,0.0,0.08,0.91
+1208,15793,15796,Kaleidoeve,PSV,2015.0,Adventure,HuneX,0.0,0.0,0.02,0.0,0.02
+1209,15771,15774,Root Infinity Rexx,PSV,2015.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+1210,14977,14980,TV Anime Idolm@ster: Cinderella Girls G4U! Pack Vol.6,PS3,2015.0,Adventure,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02
+1211,14873,14876,Back to the Future: The Game,X360,2015.0,Adventure,Telltale Games,0.02,0.01,0.0,0.0,0.03
+1212,15707,15710,Back to the Future: The Game,XOne,2015.0,Adventure,Telltale Games,0.0,0.02,0.0,0.0,0.02
+1213,14461,14464,Renai Revenge,PSV,2015.0,Adventure,TGL,0.0,0.0,0.03,0.0,0.03
+1214,14589,14592,Game of Thrones (Telltale),XOne,2015.0,Adventure,Telltale Games,0.03,0.0,0.0,0.0,0.03
+1215,14601,14604,OZMAFIA!! -vivace-,PSV,2015.0,Adventure,dramatic create,0.0,0.0,0.03,0.0,0.03
+1216,15691,15694,Prince of Stride,PSV,2015.0,Adventure,Kadokawa Games,0.0,0.0,0.02,0.0,0.02
+1217,14631,14634,The Great Mystery Hidden Object Package 5,PC,2015.0,Adventure,Rondomedia,0.0,0.03,0.0,0.0,0.03
+1218,1122,1124,Until Dawn,PS4,2015.0,Adventure,Sony Computer Entertainment Europe,0.44,0.89,0.05,0.25,1.64
+1219,14647,14650,Parfait,PSV,2015.0,Adventure,TGL,0.0,0.0,0.03,0.0,0.03
+1220,14754,14757,Xblaze: Lost Memories,PSV,2015.0,Adventure,Arc System Works,0.02,0.0,0.0,0.01,0.03
+1221,14820,14823,Steins;Gate 0,PS3,2015.0,Adventure,5pb,0.0,0.0,0.03,0.0,0.03
+1222,15554,15557,Tsuki ni Yori Sou Otome no Sahou: Hidamari no Hibi,PSV,2015.0,Adventure,dramatic create,0.0,0.0,0.02,0.0,0.02
+1223,14432,14435,Alia's Carnival! Sacrament,PSV,2015.0,Adventure,dramatic create,0.0,0.0,0.03,0.0,0.03
+1224,13123,13125,Steins;Gate 0,PS4,2015.0,Adventure,PQube,0.0,0.0,0.05,0.0,0.05
+1225,16119,16122,Hitotsu Tobashi Renai V,PSV,2015.0,Adventure,Kaga Create,0.0,0.0,0.01,0.0,0.01
+1226,12679,12681,Yomawari,PSV,2015.0,Adventure,Nippon Ichi Software,0.0,0.0,0.06,0.0,0.06
+1227,3710,3712,Minecraft: Story Mode,XOne,2015.0,Adventure,Mojang,0.29,0.21,0.0,0.05,0.54
+1228,15424,15427,Net High,PSV,2015.0,Adventure,Marvelous Games,0.0,0.0,0.02,0.0,0.02
+1229,3035,3037,Minecraft: Story Mode,PS4,2015.0,Adventure,Mojang,0.23,0.33,0.0,0.11,0.67
+1230,15557,15560,Amatsumi Sora ni! Kumo no Hatate ni,PSV,2015.0,Adventure,Prototype,0.0,0.0,0.02,0.0,0.02
+1231,12692,12694,Utawarerumono: Itsuwari no Kamen,PS4,2015.0,Adventure,Aqua Plus,0.0,0.0,0.06,0.0,0.06
+1232,11843,11845,Utawarerumono: Itsuwari no Kamen,PSV,2015.0,Adventure,Aqua Plus,0.0,0.0,0.07,0.0,0.07
+1233,2950,2952,Minecraft: Story Mode,PS3,2015.0,Adventure,Mojang,0.25,0.33,0.0,0.11,0.69
+1234,12161,12163,The Book of Unwritten Tales 2,PS4,2015.0,Adventure,Nordic Games,0.0,0.06,0.0,0.01,0.07
+1235,16234,16237,Broken Sword 5: The Serpent's Curse,XOne,2015.0,Adventure,Revolution Software,0.0,0.01,0.0,0.0,0.01
+1236,12887,12889,Goosebumps: The Game,3DS,2015.0,Adventure,WayForward Technologies,0.05,0.0,0.0,0.01,0.05
+1237,12933,12935,Chaos;Child,PSV,2015.0,Adventure,5pb,0.0,0.0,0.05,0.0,0.05
+1238,13075,13077,To Heart 2: Dungeon Travelers,PSV,2015.0,Adventure,Aqua Plus,0.0,0.0,0.05,0.0,0.05
+1239,13081,13083,Steins;Gate 0,PSV,2015.0,Adventure,PQube,0.0,0.0,0.05,0.0,0.05
+1240,12638,12640,Game of Thrones (Telltale),PS3,2015.0,Adventure,Telltale Games,0.02,0.03,0.0,0.01,0.06
+1241,12280,12282,Broken Sword 5: The Serpent's Curse,PS4,2015.0,Adventure,Revolution Software,0.0,0.06,0.0,0.01,0.06
+1242,15716,15719,Nil Admirari no Tenbin: Teito Genwaku Toukidan,PSV,2016.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+1243,15400,15403,Psycho-Pass: Mandatory Happiness,PSV,2016.0,Adventure,Nippon Ichi Software,0.0,0.01,0.01,0.0,0.02
+1244,15726,15729,Revolution: 25th Anniversary Collection,PC,2016.0,Adventure,Koch Media,0.0,0.02,0.0,0.0,0.02
+1245,5096,5098,Life is Strange,PS4,2016.0,Adventure,Square Enix,0.14,0.15,0.03,0.06,0.37
+1246,14896,14899,Psycho-Pass: Mandatory Happiness,PS4,2016.0,Adventure,Nippon Ichi Software,0.02,0.0,0.0,0.0,0.03
+1247,16203,16206,Shin Hayarigami 2,PSV,2016.0,Adventure,Nippon Ichi Software,0.0,0.0,0.01,0.0,0.01
+1248,14640,14643,Ao no Kanata no Four Rhythm,PSV,2016.0,Adventure,Unknown,0.0,0.0,0.03,0.0,0.03
+1249,16235,16238,Shitsuji ga Aruji o Erabu Toki,PSV,2016.0,Adventure,Unknown,0.0,0.0,0.01,0.0,0.01
+1250,16236,16239,Batman: A Telltale Game Series,PS3,2016.0,Adventure,Telltale Games,0.0,0.01,0.0,0.0,0.01
+1251,16290,16293,Sangoku Koi Senki: Omoide Gaeshi - CS Edition,PSV,2016.0,Adventure,Prototype,0.0,0.0,0.01,0.0,0.01
+1252,16252,16255,The Book of Unwritten Tales 2,WiiU,2016.0,Adventure,Nordic Games,0.0,0.01,0.0,0.0,0.01
+1253,14867,14870,Diabolik Lovers: Lunatic Parade,PSV,2016.0,Adventure,Idea Factory,0.0,0.0,0.03,0.0,0.03
+1254,12432,12434,Zero Escape: Zero Time Dilemma,3DS,2016.0,Adventure,Aksys Games,0.04,0.0,0.01,0.01,0.06
+1255,12450,12452,Zero Escape: Zero Time Dilemma,PSV,2016.0,Adventure,Aksys Games,0.03,0.0,0.02,0.01,0.06
+1256,15508,15511,Hakuoki: Shinkai - Hana no Shou,PSV,2016.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+1257,10047,10049,Life is Strange,XOne,2016.0,Adventure,Square Enix,0.08,0.02,0.0,0.01,0.11
+1258,9922,9924,Yakuza Kiwami,PS3,2016.0,Adventure,Sega,0.0,0.0,0.12,0.0,0.12
+1259,16028,16031,Wand of Fortune R,PSV,2016.0,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01
+1260,15470,15473,Agatha Christie: The ABC Murders,PC,2016.0,Adventure,Microids,0.0,0.02,0.0,0.0,0.02
+1261,13562,13564,Life is Strange,PC,2016.0,Adventure,Square Enix,0.01,0.03,0.0,0.0,0.04
+1262,15481,15484,Agatha Christie's The ABC Murders,PS4,2016.0,Adventure,Microids,0.01,0.01,0.0,0.0,0.02
+1263,16431,16434,Kamigami no Asobi InFinite,PSV,2016.0,Adventure,Broccoli,0.0,0.0,0.01,0.0,0.01
+1264,13845,13847,Haikyu!! Cross Team Match!,3DS,2016.0,Adventure,Namco Bandai Games,0.0,0.0,0.04,0.0,0.04
+1265,10731,10733,Rise of the Tomb Raider,PC,2016.0,Adventure,Square Enix,0.0,0.09,0.0,0.01,0.1
+1266,15885,15888,MuvLuv Double Pack,PSV,2016.0,Adventure,5pb,0.0,0.0,0.02,0.0,0.02
+1267,14005,14007,12-Sai. Koisuru Diary,3DS,2016.0,Adventure,Happinet,0.0,0.0,0.04,0.0,0.04
+1268,15862,15865,Taishou Moebius Line Vitable,PSV,2016.0,Adventure,dramatic create,0.0,0.0,0.02,0.0,0.02
+1269,14092,14094,Batman: A Telltale Game Series,PS4,2016.0,Adventure,Telltale Games,0.01,0.02,0.0,0.01,0.04
+1270,15281,15284,Hyakka Hyakurou: Sengoku Ninpoujou,PSV,2016.0,Adventure,D3Publisher,0.0,0.0,0.02,0.0,0.02
+1271,8657,8659,Yakuza Kiwami,PS4,2016.0,Adventure,Sega,0.0,0.0,0.16,0.0,0.16
+1272,15788,15791,"Moshi, Kono Sekai ni Kami-sama ga Iru to suru Naraba.",PSV,2016.0,Adventure,,0.0,0.0,0.02,0.0,0.02
+1273,6390,6392,Ace Attorney 6,3DS,2016.0,Adventure,Capcom,0.0,0.0,0.27,0.0,0.27
+1274,15292,15295,Gochuumon wa Usagi Desu ka?? Wonderful Party!,PSV,2016.0,Adventure,5pb,0.0,0.0,0.02,0.0,0.02
+1275,15944,15947,Storm Lover 2nd V,PSV,2016.0,Adventure,D3Publisher,0.0,0.0,0.02,0.0,0.02
+1276,649,650,Frogger's Adventures: Temple of the Frog,GBA,,Adventure,Konami Digital Entertainment,2.15,0.18,0.0,0.07,2.39
+1277,1513,1515,Adventure,2600,,Adventure,Atari,1.21,0.08,0.0,0.01,1.3
+1278,8553,8555,Alone in the Dark: The New Nightmare,PS,,Adventure,Infogrames,0.09,0.06,0.0,0.01,0.16
+1279,9821,9823,The Daring Game for Girls,DS,,Adventure,Unknown,0.11,0.0,0.0,0.01,0.12
+1280,10792,10794,The Daring Game for Girls,Wii,,Adventure,Unknown,0.09,0.0,0.0,0.01,0.1
+1281,11455,11457,The Hidden,3DS,,Adventure,Unknown,0.08,0.0,0.0,0.0,0.08
+1282,13672,13674,B.L.U.E.: Legend of Water,PS,,Adventure,,0.0,0.0,0.04,0.0,0.04
+1283,14942,14945,Umineko no Naku Koro ni San: Shinjitsu to Gensou no Yasoukyoku,PS3,,Adventure,,0.0,0.0,0.02,0.0,0.02
+1284,15316,15319,Runaway: A Twist of Fate,DS,,Adventure,Focus Home Interactive,0.0,0.02,0.0,0.0,0.02
+1285,16366,16369,Hakuouki: Shinsengumi Kitan,PS3,,Adventure,Unknown,0.01,0.0,0.0,0.0,0.01
